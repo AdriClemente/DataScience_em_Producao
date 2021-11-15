@@ -176,5 +176,5 @@ class Rossmann(object):
         original_data['prediction'] = np.expm1(pred)
         
         # No comando abaixo o parâmetro orient determina o tipo de valor do dicionário. orient='records' = chave: valor = list like [{column -> value}, … , {column -> value}]
-        # No ccomando abaixo o parâmetro date_format='iso' = ISO8601 = é uma norma internacional para representação de data e hora emitida pela Organização Internacional para Padronização.
+        # No comando abaixo o parâmetro date_format='iso' = ISO8601 = é uma norma internacional para representação de data e hora emitida pela Organização Internacional para Padronização.
         return original_data.to_json(orient='records', date_format='iso')

@@ -6,21 +6,22 @@ import os
 
 # constants
 TOKEN = '2135283974:AAFg2UuojU7QSNOapIdpp_r-p3FX31hPa9s'
+TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # info about the Bot
-# https://api.telegram.org/bot2135283974:AAFg2UuojU7QSNOapIdpp_r-p3FX31hPa9s/getMe
+# https://api.telegram.org/botxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/getMe
 
 # get updates
-# https://api.telegram.org/bot2135283974:AAFg2UuojU7QSNOapIdpp_r-p3FX31hPa9s/getUpdates
+# https://api.telegram.org/botxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/getUpdates
 
 # setWebhook local
-# # https://api.telegram.org/bot2135283974:AAFg2UuojU7QSNOapIdpp_r-p3FX31hPa9s/setWebhook?url=https://e080-2804-14d-7830-8c46-887c-34e8-e3b6-d1c5.ngrok.io
+# # https://api.telegram.org/botxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/setWebhook?url=https://e080-2804-14d-7830-8c46-887c-34e8-e3b6-d1c5.ngrok.io
 
 # setWebhook Heroku
-# # https://api.telegram.org/bot2135283974:AAFg2UuojU7QSNOapIdpp_r-p3FX31hPa9s/setWebhook?url=https://rossmann-acel-telegram-bot.herokuapp.com
+# # https://api.telegram.org/botxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/setWebhook?url=https://rossmann-acel-telegram-bot.herokuapp.com
 
 # send message
-# https://api.telegram.org/bot2135283974:AAFg2UuojU7QSNOapIdpp_r-p3FX31hPa9s/sendMessage?chat_id=1561073042&text=Hi Adriano, I am ok, tks!
+# https://api.telegram.org/botxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/sendMessage?chat_id=1561073042&text=Hi Adriano, I am ok, tks!
 
 def send_message(chat_id, text):
     url = 'https://api.telegram.org/bot{}/'.format(TOKEN)

@@ -5,7 +5,6 @@ from flask import Flask, request, Response
 import os
 
 # constants
-TOKEN = '2135283974:AAFg2UuojU7QSNOapIdpp_r-p3FX31hPa9s'
 TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # info about the Bot

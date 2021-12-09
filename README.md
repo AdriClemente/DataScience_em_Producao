@@ -15,7 +15,7 @@ Depois da reunião, todos os gerentes entraram em contato, requisitando uma prev
 - **Qual é o valor das vendas de cada loja nas próximas 6 semanas?**.  
 
 ### c.	Entendimento do Negócio:
-- **Qual é a motivação?** A previsão de vendas foi requisitada pelo CFO em uma reunião mensal sobre os resultados da loja.  
+- **Qual é a motivação?** A previsão de vendas foi requisitada pelo CFO em uma reunião mensal sobre os resultados das lojas.  
 - **Qual é a causa raiz?** Dificuldade em determinar o valor do investimento para Reforma de cada Loja.
 - **Quem é o dono do problema?** Diretor Financeiro ( CFO ) da Rossmann.
 - **Qual o formato da entrega?**

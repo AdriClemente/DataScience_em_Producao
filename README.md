@@ -40,7 +40,7 @@ Dependendo da quantidade de dados, o nosso computador pessoal não vai suportar 
 
 ### c.	Tipos de Variáveis
 - **Quais são os tipos de variáveis? (% Numérica, % Categórica, % Temporal)**
-    Saber a porcentagem do tipo dos dados, vai nos guiar à escolher as técnicas para trabalhar com os tipos de variáveis.
+    Saber a porcentagem do tipo dos dados vai nos guiar à escolher as técnicas para trabalhar com os tipos de variáveis.
 
 ### d.	Quantidade de Dados Faltantes
 -	**Qual o volume de dados NA?**

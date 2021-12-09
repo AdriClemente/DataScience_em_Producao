@@ -34,6 +34,6 @@ Depois da reunião, todos os gerentes entraram em contato, requisitando uma prev
 
 
 ### b.	Qual a Quantidade de Dados?
-•	Servidores? Clusters? Spark? Hadoop?
+-	Servidores? Clusters? Spark? Hadoop?
 Eu tenho os recursos corretos para trabalhar?
 Dependendo da quantidade de dados, o nosso computador pessoal não vai suportar e necessitaremos de servidores, cluster de servidores, linguagens preparadas para trabalhar com uma grande quantidade de dados, como por exemplo Spark e Hadoop.

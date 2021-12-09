@@ -39,7 +39,7 @@ Eu tenho os recursos corretos para trabalhar?
 Dependendo da quantidade de dados, o nosso computador pessoal não vai suportar e necessitaremos de servidores, cluster de servidores, linguagens preparadas para trabalhar com uma grande quantidade de dados, como por exemplo Spark e Hadoop.
 
 ### c.	Tipos de Variáveis
-- **Quais são os tipos de variáveis?** (% Numérica, % Categórica, % Temporal)
+- **Quais são os tipos de variáveis? (% Numérica, % Categórica, % Temporal)**
     Saber a porcentagem do tipo dos dados, vai nos guiar à escolher as técnicas para trabalhar com os tipos de variáveis.
 
 ### d.	Quantidade de Dados Faltantes

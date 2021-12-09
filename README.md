@@ -51,7 +51,9 @@ Dependendo da quantidade de dados, o nosso computador pessoal não vai suportar 
   	  -	Descartar as linhas que possuírem dados vazios:
   	  -	Vantagem: é rápido.
   	  -	Desvantagem: estamos jogando dado fora. As vezes descartas linhas não é uma boa estratégia, principalmente se temos poucos dados. As vezes apenas uma variável está NA, mas todas as outras variáveis estão completas e estas informações são muito importantes para o algoritmo aprender os padrões. Então, descartar as linhas pode prejudicar a performance do modelo.
-
+  -	**Formato da Entrega**:
+  	-	O valor total de vendas de cada loja no final da sexta semana.
+    - Poder verificar as informações pelo celular.
 
 
 

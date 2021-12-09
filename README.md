@@ -16,10 +16,10 @@ Depois da reunião, todos os gerentes entraram em contato, requisitando uma prev
 
 ### c.	Entendimento do Negócio:
 - **Qual é a motivação?** A previsão de vendas foi requisitada pelo CFO em uma reunião mensal sobre os resultados das lojas.  
-- **Qual é a causa raiz?** Dificuldade em determinar o valor do investimento para Reforma de cada Loja.
+- **Qual é a causa raiz?** Dificuldade em determinar o valor do investimento para a reforma de cada loja.
 - **Quem é o dono do problema?** Diretor Financeiro ( CFO ) da Rossmann.
 - **Qual o formato da entrega?**
-  -	**Granularidade**: Previsão de vendas por dia para cada loja para os próximas 42 dias / 6 semanas.
+  -	**Granularidade**: Previsão de vendas por dia para cada loja para os próximos 42 dias / 6 semanas.
   -	**Tipo do Problema**: Previsão de Vendas.
   -	**Potenciais Métodos**: Séries Temporais.
   -	**Formato da Entrega**:

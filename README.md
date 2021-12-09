@@ -24,16 +24,35 @@ Depois da reunião, todos os gerentes entraram em contato, requisitando uma prev
   -	**Potenciais Métodos**: Séries Temporais.
   -	**Formato da Entrega**:
   	-	O valor total de vendas de cada loja no final da sexta semana.
-    -	Poder verificar as informações pelo celular.
+    - Poder verificar as informações pelo celular.
 
 ---
 
 ## 3-	Data Preparation
 ### a.	O Objetivo da Descrição dos Dados
-- “O quão desafiador é o problema que estou lidando”. Precisamos saber a dimensão do problema que iremos enfrentar. Pode ser um problema que dure anos ou pode ser um problema que dure semanas.
+- **“O quão desafiador é o problema que estou lidando”**. Precisamos saber a dimensão do problema que iremos enfrentar. Pode ser um problema que dure anos ou pode ser um problema que dure semanas.
 
 
 ### b.	Qual a Quantidade de Dados?
--	Servidores? Clusters? Spark? Hadoop?
+-	**Servidores? Clusters? Spark? Hadoop?**
 Eu tenho os recursos corretos para trabalhar?
 Dependendo da quantidade de dados, o nosso computador pessoal não vai suportar e necessitaremos de servidores, cluster de servidores, linguagens preparadas para trabalhar com uma grande quantidade de dados, como por exemplo Spark e Hadoop.
+
+### c.	Tipos de Variáveis
+- **Quais são os tipos de variáveis?**
+  - % Numérica, % Categórica, % Temporal.
+    Saber a porcentagem do tipo dos dados, vai nos guiar à escolher as técnicas para trabalhar com os tipos de variáveis.
+
+### d.	Quantidade de Dados Faltantes
+-	**Qual o volume de dados NA?**
+  Necessitamos saber qual o volume de dados NA (não aplicável) ou vazio no conjunto de dados.
+  Dependendo da quantidade de dados NA, podemos tomar duas decisões?
+    o	Não fazer o projeto porque não temos dados suficiente.
+    o	Continuar com o projeto:
+      Descartar as linhas que possuírem dados vazios:
+      •	Vantagem: é rápido.
+      •	Desvantagem: estamos jogando dado fora. As vezes descartas linhas não é uma boa estratégia, principalmente se temos poucos dados. As vezes apenas uma variável está NA, mas todas as outras variáveis estão completas e estas informações são muito importantes para o algoritmo aprender os padrões. Então, descartar as linhas pode prejudicar a performance do modelo.
+
+
+
+

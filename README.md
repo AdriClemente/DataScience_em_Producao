@@ -23,5 +23,5 @@ Depois da reunião, todos os gerentes entraram em contato com você, requisitand
   -	**Tipo do Problema**: Previsão de Vendas.
   -	**Potenciais Métodos**: Séries Temporais.
   -	**Formato da Entrega**:
-  -	-	O valor total de vendas de cada loja no final da sexta semana.
-  - -	Poder verificar as informações pelo celular.
+  	-	O valor total de vendas de cada loja no final da sexta semana.
+    -	Poder verificar as informações pelo celular.

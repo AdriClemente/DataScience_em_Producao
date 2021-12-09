@@ -19,9 +19,9 @@ Depois da reunião, todos os gerentes entraram em contato com você, requisitand
 - **Qual é a causa raiz?** Dificuldade em determinar o valor do investimento para Reforma de cada Loja.
 - **Quem é o dono do problema?** Diretor Financeiro ( CFO ) da Rossmann.
 - **Qual o formato da entrega?**
-  -	Granularidade: Previsão de vendas por dia para cada loja para os próximas 42 dias / 6 semanas.
-  -	Tipo do Problema: Previsão de Vendas.
-  -	Potenciais Métodos: Séries Temporais.
-  -	Formato da Entrega:
-   -	O valor total de vendas de cada loja no final da sexta semana.
-   -	Poder verificar as informações pelo celular.
+  -	**Granularidade**: Previsão de vendas por dia para cada loja para os próximas 42 dias / 6 semanas.
+  -	**Tipo do Problema**: Previsão de Vendas.
+  -	**Potenciais Métodos**: Séries Temporais.
+  -	**Formato da Entrega**:
+  -	-	O valor total de vendas de cada loja no final da sexta semana.
+  - -	Poder verificar as informações pelo celular.

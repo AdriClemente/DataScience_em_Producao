@@ -219,12 +219,12 @@ Um Insight é gerado através de duas formas:
        Estamos procurando com as hipóteses saber todos os pequenos efeitos que contribuem para aumentar ou diminuir a venda e desta maneira, poder ensinar o algoritmo de Machine Learning à aprender estes padrões.
 
     -	**Hipóteses das Lojas**
-    1.	Lojas com número maior de funcionários deveriam vender mais.
-    2.	Lojas com maior capacidade de estoque deveriam vender mais.
-3.	Lojas com maior porte deveriam vender mais.
-4.	Lojas com maior sortimento deveriam vender mais.
-5.	Lojas com competidores mais próximos deveriam vender menos.
-6.	Lojas com competidores à mais tempo deveriam vender mais.
+    1. Lojas com número maior de funcionários deveriam vender mais.
+    2. Lojas com maior capacidade de estoque deveriam vender mais.
+    3. Lojas com maior porte deveriam vender mais.
+    4. Lojas com maior sortimento deveriam vender mais.
+    5. Lojas com competidores mais próximos deveriam vender menos.
+    6. Lojas com competidores à mais tempo deveriam vender mais.
 
 
 

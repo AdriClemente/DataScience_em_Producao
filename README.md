@@ -299,6 +299,13 @@ Foi removida a variável `promo_interval` que foi utilizada para derivar a vari�
 
 Foi removida a variável `month_map` que foi utilizada como uma variável auxiliar para a criação de outras variáveis.
 
+---
+
+## 05. Análise Exploratória de Dados
+### a. O Mapa Mental de Hipóteses
+
+
+
 
 
 

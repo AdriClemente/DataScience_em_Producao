@@ -92,6 +92,7 @@ promo2_since_week|               float64
 promo2_since_year|               float64
 promo_interval|                   object
 
+
 ### h. Check NA
 | Variable      | Qty |
 | ----------- | ----------- | 

@@ -201,8 +201,8 @@ Por exemplo: O cliente possui uma idade, escolaridade, estado civil, família, n
 O objetivo do Mapa Mental de Hipóteses é derivar uma lista de hipóteses e com esta lista iremos priorizar ela e fazer a análise para validar estas hipóteses.
 Cada hipótese validada ou descartada é um Insight.
 Um Insight é gerado através de duas formas:  
-  -	Através da surpresa: Exemplo: Descobrimos que vendemos mais aos Sábados e ninguém sabia desta informação.
-  -	Contrapor uma crença: Exemplo: o CFO diz ter certeza que acontecem mais vendas no final do ano. Durante a exploração dos dados é verificado que se vende menos no final do ano e isto choca a crença do CFO que esperava outra informação e ele gosta deste Insight que realizamos.
+    -	Através da surpresa: Exemplo: Descobrimos que vendemos mais aos Sábados e ninguém sabia desta informação.
+    -	Contrapor uma crença: Exemplo: o CFO diz ter certeza que acontecem mais vendas no final do ano. Durante a exploração dos dados é verificado que se vende menos no final do ano e isto choca a crença do CFO que esperava outra informação e ele gosta deste Insight que realizamos.
         
 
 

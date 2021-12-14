@@ -181,6 +181,10 @@ Para sabermos qual o mínimo de detalhamento que necessitamos ter, é necessári
 
 O Mapa Mental de Hipóteses vai nos guiar na Análise Exploratória de Dados, possibilitando realizar este passo de forma muito mais rápida, mais direta e trazer Insights valiosos para aquele momento do ciclo do CRISP-DM.
 
+-	**i. Fenômeno:**
+Qual o fenômeno que estou modelando?
+Aquilo que estou tentando medir ou modelar. Por exemplo: vendas, detecção de objetos em uma imagem, classificação da imagem entre gato e cachorro, Clusterização de clientes para criação de Personas, etc...
+É o fenômeno que estamos modelando para ensinar os algoritmos de Machine Learning.
 
 
 

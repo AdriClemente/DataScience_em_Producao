@@ -154,3 +154,12 @@ Não era certeza que esta premissa iria funcionar. Por isso utilizei o método c
 
 <img src="img/categorical_attributes_1.jpg" alt="drawing" width="75%"/>
 
+O gráfico acima exibe uma distribuição muito dispersa dos dados, pois a dimensão das variáveis está muito diferente.
+Isto é muito provável de ocorrer, pois temos dias que são feriados, onde a loja está fechada e consequentemente a quantidade de vendas é zero.
+Neste caso, a coluna 0 que representa dias sem feriados possui um volume de vendas bem maior que as outras três colunas a, b e c que são feriados: a = public holiday, b = Easter holiday, c = Christmas.
+Desta maneira, criei dois boxplots separados, um para os dias normais e outro para os feriados.
+
+
+
+
+

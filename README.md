@@ -62,3 +62,7 @@ Dependendo da quantidade de dados, o nosso computador pessoal não vai suportar 
   A estatística descritiva nos fornece uma noção da grandeza dos dados, ter uma noção de limites mínimos e máximos das variáveis, mediana, estatísticas básicas para poder descrever os dados de uma maneira macro.
 
 
+### f. Data Dimension
+- **Dados de treino**:
+    -	Number of rows: 1017209
+    -	Number of columns: 18

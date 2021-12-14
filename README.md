@@ -307,7 +307,7 @@ Foi removida a variável `month_map` que foi utilizada como uma variável auxili
 e
 **“Qual é a força desse impacto?”**.
 A Análise Exploratória de Dados serve para medir o impacto das variáveis em relação à variável resposta e em muitas vezes, tentar quantificar este impacto.
-A análise exploratória de dados nos fornece uma noção de como os dados se comportam e quais variáveis que impactam o fenômeno, nos ajudando a selecionar as variáveis que serão utilizadas no modelo de Machine Learning, aumentando a assertividade do projeto.
+A análise exploratória de dados nos fornece uma noção de como os dados se comportam e quais variáveis impactam o fenômeno que estamos prevendo, nos ajudando a selecionar as variáveis que serão utilizadas no modelo de Machine Learning, aumentando a assertividade do projeto.
 
 
 

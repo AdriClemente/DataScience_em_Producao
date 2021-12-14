@@ -66,3 +66,9 @@ Dependendo da quantidade de dados, o nosso computador pessoal não vai suportar 
 - **Dados de treino**:
     -	Number of rows: 1017209
     -	Number of columns: 18
+
+### g. Data Type
+
+
+
+

@@ -33,7 +33,7 @@ Depois da reunião, todos os gerentes entraram em contato, requisitando uma prev
 
 ## 3-	Data Preparation
 ### a.	O Objetivo da Descrição dos Dados
-- **“O quão desafiador é o problema que estou lidando”**. Precisamos saber a dimensão do problema que iremos enfrentar. Pode ser um problema que dure anos ou pode ser um problema que dure semanas.
+**“O quão desafiador é o problema que estou lidando”**. Precisamos saber a dimensão do problema que iremos enfrentar. Pode ser um problema que dure anos ou pode ser um problema que dure semanas.
 
 
 ### b.	Qual a Quantidade de Dados?

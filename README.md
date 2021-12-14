@@ -349,6 +349,6 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
     A análise multivariada ajuda a identificar quais as variáveis que são correlacionadas e portanto, podem ser excluídas para diminuir a dimensionalidade do Dataset e desta maneira, diminuir a complexidade do modelo.
 
 -	**iv. Correlação entre variáveis***
-  -	**Variáveis numéricas***: O método Pearson é um teste estatístico para calcular a correlação entre duas variáveis numéricas. Os valores da correlação variam de 1 até -1.  Quanto mais próxima de zero, mais fraca é a correlação e quanto mais próximo de 1 ou -1, mais forte é a correlação.
+    -	**Variáveis numéricas***: O método Pearson é um teste estatístico para calcular a correlação entre duas variáveis numéricas. Os valores da correlação variam de 1 até -1.  Quanto mais próxima de zero, mais fraca é a correlação e quanto mais próximo de 1 ou -1, mais forte é a correlação.
  
 

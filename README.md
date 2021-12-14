@@ -117,12 +117,7 @@ promo_interval|                  508031
 
 ### i.	Fillout NA
 -	**i.	Competition Distance**: No site do Kagle [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data) temos a seguinte definição para esta variável: _distance in meter to the nearest competitor store_.
-Verifiquei qual é a distância em metros do competidor mais distante:
-print(df1['competition_distance'].max())
-75860.0
-O valor em metros do competidor mais distante é 75860.
-Eu assumi para os valores NA, um valor muito mais distante do que o competidor mais distante no dataset.
-Neste caso, iremos considerar um valor de 200000 para os valores NA/vazio.
+Verifiquei qual a distância em metros do competidor mais distante era de **75860**. Eu assumi o valor **200000** para os valores faltantes.
 
 
 

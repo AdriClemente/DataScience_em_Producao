@@ -10,7 +10,7 @@ A história da empresa começa em 1972, quando Dirk Roßmann abriu a primeira fa
 
 ---
 
-## 02.	Business Request
+## 02. Business Request
 ### a.	The Business Situation
 **Cenário**: “O CFO da empresa fez uma reunião com todos os gerentes de loja e pediu que cada um deles trouxesse uma previsão diária das próximas 6 semanas de vendas.
 Depois da reunião, todos os gerentes entraram em contato, requisitando uma previsão de vendas de sua loja.”
@@ -31,7 +31,7 @@ Depois da reunião, todos os gerentes entraram em contato, requisitando uma prev
 
 ---
 
-## 3-	Data Preparation
+## 03. Data Preparation
 ### a.	O Objetivo da Descrição dos Dados
 **“O quão desafiador é o problema que estou lidando”**. Precisamos saber a dimensão do problema que iremos enfrentar. Pode ser um problema que dure anos ou pode ser um problema que dure semanas.
 
@@ -167,4 +167,20 @@ O gráfico acima representa os dias que são feriados onde a loja estava aberta,
 
 O gráfico acima representa os dias que não são feriados onde a loja estava aberta, isto é, com o valor da variável `sales` diferente de zero.
 -	`state_holiday`, `store_type`, `assortment` have many outliers.
+
+---
+
+## 04. Feature Engineering
+### a. O Mapa Mental de Hipóteses
+A Análise Exploratória de Dados é um passo que pode ser tão complicado e tão detalhado quanto você queira.
+A causa disso é que existem várias maneiras de fazer uma análise exploratória de dados e existem vários detalhamentos que podemos executar.
+
+Podemos gastar muito tempo neste passo e temos que lembrar que estamos trabalhando em Ciclos de desenvolvimento e consequentemente, iremos executar novamente este passo. Então, não precisamos perder muito tempo neste passo, pois iremos detalhá-lo cada vez que executarmos um novo ciclo.
+
+Para sabermos qual o mínimo de detalhamento que necessitamos ter, é necessário realizar um Mapa Mental de Hipóteses que é basicamente um roteiro que vai nos mostrar quais variáveis precisamos ter para fazer determinadas análises e validar as hipóteses.
+
+O Mapa Mental de Hipóteses vai nos guiar na Análise Exploratória de Dados, possibilitando realizar este passo de forma muito mais rápida, mais direta e trazer Insights valiosos para aquele momento do ciclo do CRISP-DM.
+
+
+
 

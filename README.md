@@ -285,14 +285,9 @@ Foi alterado os valores da feature `state_holiday` conforme descrito abaixo:
 -	de **c** para **christimas**.
 
 ### c. Filtrando Variáveis
--	**i. O objetivo da Filtragem de Variáveis**
--	“Restrições de Negócio”.
-O problema é que as vezes começamos a fazer um projeto de ciência de dados e descobrimos lá no final que não conseguimos colocar o modelo em produção. E uma das maiores causas e que não consideramos as restrições de negócio no começo do projeto.
-Uma solução para isto não ocorrer e considerar as restrições de negócio no início do projeto.
+-	**i. Restrições de Negócio”**: As vezes começamos a fazer um projeto de ciência de dados e descobrimos no final do projeto que não conseguimos colocar o modelo em produção. E uma das maiores causas é que não consideramos as restrições de negócio no início do projeto. Uma solução para isto não ocorrer é considerar as restrições de negócio no início do projeto.
 
--	**ii.	Variáveis mais relevantes para o Modelo**
-Está relacionado às variáveis mais relevantes para o modelo. O algoritmo vai verificar as correlações entre as variáveis e vai decidir quais variáveis são relevantes para o modelo, porém o algoritmo não leva em consideração as restrições de negócio. 
-É papel do cientista de dados pensar com funciona os processos dos times e quais as restrições que os times possuem para prover os dados para serem utilizados no modelo.
+-	**ii.	Variáveis mais relevantes para o Modelo**: Está relacionado às variáveis mais relevantes para o modelo. O algoritmo vai verificar as correlações entre as variáveis e vai decidir quais variáveis são relevantes para o modelo, porém o algoritmo não leva em consideração as restrições de negócio. É papel do cientista verifiar quais são as restrições que os times de negócio possuem para prover os dados para serão utilizados no modelo de Machine Learning.
 
 
 

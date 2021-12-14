@@ -328,5 +328,17 @@ Se você apresenta para o time de negócio uma informação que contradiz uma cr
 Quando fazemos análise exploratória de dados, ganhamos a sensibilidade de quais variáveis impactam o fenômeno. Desta forma, ajudaria o modelo à ser mais assertivo.
 O algoritmo de Machine Learning possui funcionalidades para definir quais variáveis são relevantes para treinar o modelo. Porém, devemos julgar se esta seleção de variáveis realmente faz sentido. A análise exploratória de dados pode apontar como relevante algumas variáveis que o modelo não sugeriu e iremos saber da sua relevância através dos gráficos e dos resultados da análise exploratória de dados. Então, incluímos as variáveis apontadas pela análise exploratória de dados como complemento para a sugestão que o algoritmo fez. Portanto, a análise exploratória de dados é importante para termos o conhecimento das variáveis e realizarmos uma validação no que o algoritmo informou como variáveis relevantes.
 
+### c. Os Tipos de Análise Exploratória de Dados
+-	**i. Análise Univariada**: Se importa unicamente com a variável. Como é esta variável? (Min, Max, Distribuição, Range, etc..). Quais são os valores mínimo, máximos, distribuição, etc.. Estuda como é esta variável e como esta variável se comporta.
+
+-	**ii. Análise Bivariada**: Analisamos o impacto de uma única variável em relação à variável resposta. Como a variável impacta a resposta? (Correlação, Validação de Hipóteses, etc..).
+
+-	**iii. Análise Multivariada***: Analisamos o impacto de mais de uma variável em relação à variável resposta e também o impacto entre as variáveis. Como as variáveis se relacionam? (Qual a correlação entre elas?). Exemplo: temos o impacto de uma única variável em relação à variável resposta, porém quando esta variável se junta com outra variável, o impacto dobra.
+     Os algoritmos de Machine Learning seguem algumas premissas. Uma dessas premissas é a teoria de Occan’s Razor ou Navalha de Occan. Ela é uma teoria que garante o aprendizado dos modelos. A teoria da Navalha de Occan diz que se tivermos vários modelos para escolher, temos que escolher sempre o modelo de menor complexidade, porque ele generaliza melhor o aprendizado.
+
+    Existem várias formas de tornar o algoritmo mais complexo, uma delas é a dimensionalidade do seu Dataset. Podemos entender dimensionalidade como o número de colunas do Dataset. Quanto maior o número de colunas, maior é a dimensionalidade e mais complexo é o seu modelo.
+
+
+
 
 

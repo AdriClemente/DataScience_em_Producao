@@ -161,5 +161,10 @@ Desta maneira, criei dois boxplots separados, um para os dias normais e outro pa
 
 <img src="img/categorical_attributes_2.jpg" />
 
-O gráfico acima representa os dias que são feriados onde a loja estava aberta, isto é, com o valor da coluna `sales` diferentes de zero.
+O gráfico acima representa os dias que são feriados onde a loja estava aberta, isto é, com o valor da coluna `sales` diferente de zero.
+
+<img src="img/categorical_attributes_3.jpg" />
+
+O gráfico acima representa os dias que não são feriados onde a loja estava aberta, isto é, com o valor da coluna `sales` diferente de zero.
+-	`state_holiday`, `store_type`, `assortment` have many outliers.
 

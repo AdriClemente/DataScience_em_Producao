@@ -117,7 +117,7 @@ promo_interval|                  508031
 
 ### i.	Fillout NA
 -	**i.	Competition Distance**: No site do Kagle [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data) temos a seguinte definição para esta variável: _distance in meter to the nearest competitor store_.
-Verifiquei qual a distância em metros do competidor mais distante era de **75860**. Eu assumi o valor **200000** para os valores faltantes.
+Verifiquei que a distância em metros do competidor mais distante era de **75860**. Eu assumi o valor **200000** para os valores faltantes.
 
 
 

@@ -144,12 +144,8 @@ Não era certeza que esta premissa iria funcionar. Por isso utilizei o método c
 
 ### k. Descriptive Statistics
 -	**i. Numerical Attributes** 
-  - competition_distance, competition_open_since_year are heavily skewed;
-•	customers, competition_distance, competition_open_since_year have a high kurtosis, which indicates a profusion of outliers;
+    -	competition_distance, competition_open_since_year are heavily skewed;
+    -	customers, competition_distance, competition_open_since_year have a high kurtosis, which indicates a profusion of outliers;
  
-* **Data Dimensions (rows x columns)**: 
 
-  * Train dataset: 969,264 x 18 
-  * Valid dataset: 47,945  x 18
-  * Date Range: 2013-01-01 (first) / 2015-07-31 (last)
 

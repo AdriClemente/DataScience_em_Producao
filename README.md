@@ -264,25 +264,25 @@ A lista final de Hipóteses abaixo considera as hipóteses criadas no item anter
 
 ### b. Feature Enginnering
 Foram criadas as seguintes variáveis:
--	year contendo o ano da variável "date".
--	month contendo o mês da variável "date".
--	day contendo o dia da variável "date".
--	week of year contendo a semana do ano da variável "date".
--	year week contendo o número do ano e o número da semana da variável "date".
+-	`year` contendo o ano da variável `date`.
+-	`month` contendo o mês da variável `date`.
+-	`day` contendo o dia da variável `date`.
+-	`week` of year contendo a semana do ano da variável `date`.
+-	year week contendo o número do ano e o número da semana da variável `date`.
 -	competition_since contendo a informação do ano da variável competition_open_since_year, o valor do mês da variável competition_open_since_month e o valor do dia igual à 1
 -	competition_time_month contendo o valor em meses de quanto tempo existe um competidor. Este valor é a diferença da data da variável "date" com o valor da data da variável "competition_since", dividindo o resultado por 30 para obter a quantidade de meses.
 -	promo_since contendo o valor da variável "promo2_since_year" e "promo2_since_week", onde ambos os valores são convertidos para string e entre estes valores é acrescentado o caractere "-". Por fim, esta variável é convertida para o formato de data.
 -	promo_time_week contendo o valor em semanas de quanto tempo existe uma promoção. Este valor é a diferença da data da variável "date" com o valor da data da variável "promo_since", dividindo o resultado por 7 para obter a quantidade de semanas.
 
 Foi alterado os valores da feature assortiment conforme descrito abaixo:
-•	de “a” para “basic”.
-•	de “b” para “extra”.
-•	de “c” para “extended”.
+-	de "a" para "basic”.
+-	de "b" para “extra”.
+-	de "c" para “extended”.
 
 Foi alterado os valores da feature state_holiday conforme descrito abaixo:
-•	de “a” para “public_holiday”.
-•	de “b” para “easter_holiday”.
-•	de “c” para “christimas”.
+-	de “a” para “public_holiday”.
+-	de “b” para “easter_holiday”.
+-	de “c” para “christimas”.
 
 
 

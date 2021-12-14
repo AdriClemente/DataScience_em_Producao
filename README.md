@@ -149,5 +149,6 @@ Não era certeza que esta premissa iria funcionar. Por isso utilizei o método c
 -	`customers`, `competition_distance`, `competition_open_since_year` have a high kurtosis, which indicates a profusion of outliers;
  
 -	**ii. Categorical Attributes**
--	 
+
+<img src="img/categorical_attributes_1.jpg" alt="drawing" width="100%"/>
 

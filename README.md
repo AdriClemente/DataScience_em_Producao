@@ -186,5 +186,14 @@ Qual o fenômeno que estou modelando?
 Aquilo que estou tentando medir ou modelar. Por exemplo: vendas, detecção de objetos em uma imagem, classificação da imagem entre gato e cachorro, Clusterização de clientes para criação de Personas, etc...
 É o fenômeno que estamos modelando para ensinar os algoritmos de Machine Learning.
 
+-	**ii. Agentes:**
+Quem são os agentes que atuam sobre o fenômeno de interesse?
+São todas as entidades que de alguma forma impactam no fenômeno.
+Por exemplo: Você acha que os clientes impactam no fenômeno de vendas? A resposta é sim, pois se tivermos mais clientes, provavelmente teremos mais vendas. Lojas também são agentes, pois quanto mais lojas temos, mais iremos vender. Produto também é um agente, pois produto tem um preço que se subirmos o preço do produto venderemos menos e se diminuirmos venderemos mais.
+
+-	**iii. Atributos do Agente**.	
+Qual é a descrição dos agentes?
+Por exemplo: O cliente possui uma idade, escolaridade, estado civil, família, número de filhos, frequência que vai na loja, salário, profissão, etc ...
+
 
 

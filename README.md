@@ -289,6 +289,15 @@ Foi alterado os valores da feature `state_holiday` conforme descrito abaixo:
 
 -	**ii.	Variáveis mais relevantes para o Modelo**: Está relacionado às variáveis mais relevantes para o modelo. O algoritmo vai verificar as correlações entre as variáveis e vai decidir quais variáveis são relevantes para o modelo. Porém, o algoritmo não leva em consideração as restrições de negócio. É papel do cientista verificar quais são as restrições que os times de negócio possuem para prover os dados que serão utilizados no modelo de Machine Learning.
 
+•	Foram removidos os dados referentes à lojas fechadas e lojas sem vendas já que são irrelevantes para o objetivo de predição de vendas. Para isto, foram mantidos apenas as linhas que continham o valor da variável “open” diferente de zero, e o valor da variável “sales” maior do que zero.
+
+•	Foi removida a varíavel “open” já que uma vez que selecionamos no passo anterior apenas as linhas da variável “open” que possuem valor diferente de zero, isto é, valor igual à 1, não teremos variabilidade de valor nesta variável, pois todos os valores são iguais à um. Portanto, podemos excluir a variável “open”.
+
+•	Foi removida a variável “customer” baseado no contexto deste projeto, não temos a informação de quantos customers teremos daqui à seis semanas. Teríamos que fazer um projeto separado para prever quantos clientes estariam nas lojas daqui à seis semanas, pegar o resultado e utilizá-lo como input neste projeto. Porém, não iremos fazer isto.neste primeiro ciclo do projeto. Portanto, a variável customers é uma variável que não temos disponível no momento da predição, significando que é uma restrição de negócio.
+
+•	Foi removida a variável promo_interval que foi utilizada para derivar a variável is_promo.
+
+•	Foi removida a variável month_map que foi utilizada como uma variável auxiliar para a criação de outras variáveis.
 
 
 

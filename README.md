@@ -12,10 +12,10 @@ A história da empresa começa em 1972, quando Dirk Roßmann abriu a primeira fa
 
 ## 02.	Business Request
 ### a.	The Business Situation
-- **Cenário**: “O CFO da empresa fez uma reunião com todos os gerentes de loja e pediu que cada um deles trouxesse uma previsão diária das próximas 6 semanas de vendas.
+**Cenário**: “O CFO da empresa fez uma reunião com todos os gerentes de loja e pediu que cada um deles trouxesse uma previsão diária das próximas 6 semanas de vendas.
 Depois da reunião, todos os gerentes entraram em contato, requisitando uma previsão de vendas de sua loja.”
 ### b.	Questão de Negócio:
-- **Qual é o valor das vendas de cada loja nas próximas 6 semanas?**.  
+**Qual é o valor das vendas de cada loja nas próximas 6 semanas?**.  
 
 ### c.	Entendimento do Negócio:
 - **Qual é a motivação?** A previsão de vendas foi requisitada pelo CFO em uma reunião mensal sobre os resultados das lojas.  

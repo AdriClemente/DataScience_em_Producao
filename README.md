@@ -143,10 +143,11 @@ Não era certeza que esta premissa iria funcionar. Por isso utilizei o método c
 ### k. Descriptive Statistics
 -	**i. Numerical Attributes** 
 
-![]<img src="img/numerical_attributes.jpg" alt="drawing" width="100%"/>
+<img src="img/numerical_attributes.jpg" alt="drawing" width="100%"/>
 
-* `competition_distance` and `competition_open_since_year` are heavily skewed;
-    -	`customers`, `competition_distance`, `competition_open_since_year` have a high kurtosis, which indicates a profusion of outliers;
+  * `competition_distance` and `competition_open_since_year` are heavily skewed;
+
+  * `customers`, `competition_distance`, `competition_open_since_year` have a high kurtosis, which indicates a profusion of outliers;
  
  
 -	**ii. Categorical Attributes**

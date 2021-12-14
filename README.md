@@ -197,3 +197,4 @@ Por exemplo: O cliente possui uma idade, escolaridade, estado civil, família, n
 
 <img src="img/MindMapHipothesis.png" />
 
+-	**iv. Lista de Hipóteses**.	

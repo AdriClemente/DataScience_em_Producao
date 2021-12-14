@@ -79,20 +79,20 @@ date|                             object
 sales|                             int64
 customers|                         int64
 open|                              int64
-promo                             int64
-state_holiday                    object
-school_holiday                    int64
-store_type                       object
-assortment                       object
-competition_distance            float64
-competition_open_since_month    float64
-competition_open_since_year     float64
-promo2                            int64
-promo2_since_week               float64
-promo2_since_year               float64
-promo_interval                   object
+promo|                             int64
+state_holiday|                    object
+school_holiday|                    int64
+store_type|                       object
+assortment|                       object
+competition_distance|            float64
+competition_open_since_month|    float64
+competition_open_since_year|     float64
+promo2|                            int64
+promo2_since_week|               float64
+promo2_since_year|               float64
+promo_interval|                   object
 
-
+asdasdfasdf
 
 
 

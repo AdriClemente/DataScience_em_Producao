@@ -11,13 +11,13 @@ A história da empresa começa em 1972, quando Dirk Roßmann abriu a primeira fa
 ---
 
 ## 02. Business Request
-### a.	The Business Situation
+### a. The Business Situation
 **Cenário**: “O CFO da empresa fez uma reunião com todos os gerentes de loja e pediu que cada um deles trouxesse uma previsão diária das próximas 6 semanas de vendas.
 Depois da reunião, todos os gerentes entraram em contato, requisitando uma previsão de vendas de sua loja.”
-### b.	Questão de Negócio:
+### b. Questão de Negócio:
 **Qual é o valor das vendas de cada loja nas próximas 6 semanas?**  
 
-### c.	Entendimento do Negócio:
+### c. Entendimento do Negócio:
 - **Qual é a motivação?** A previsão de vendas foi requisitada pelo CFO em uma reunião mensal sobre os resultados das lojas.  
 - **Qual é a causa raiz?** Dificuldade em determinar o valor do investimento para a reforma de cada loja.
 - **Quem é o dono do problema?** Diretor Financeiro ( CFO ) da Rossmann.
@@ -32,19 +32,19 @@ Depois da reunião, todos os gerentes entraram em contato, requisitando uma prev
 ---
 
 ## 03. Data Preparation
-### a.	O Objetivo da Descrição dos Dados
+### a. O Objetivo da Descrição dos Dados
 **“O quão desafiador é o problema que estou lidando”**. Precisamos saber a dimensão do problema que iremos enfrentar. Pode ser um problema que dure anos ou pode ser um problema que dure semanas.
 
 
-### b.	Qual a Quantidade de Dados?
+### b. Qual a Quantidade de Dados?
 **Servidores? Clusters? Spark? Hadoop?**
 Eu tenho os recursos corretos para trabalhar?
 Dependendo da quantidade de dados, o nosso computador pessoal não vai suportar e necessitaremos de servidores, cluster de servidores, linguagens preparadas para trabalhar com uma grande quantidade de dados, como por exemplo Spark e Hadoop.
 
-### c.	Tipos de Variáveis
+### c. Tipos de Variáveis
 **Quais são os tipos de variáveis? (% Numérica, % Categórica, % Temporal)**. Saber a porcentagem do tipo dos dados vai nos guiar à escolher as técnicas para trabalhar com os tipos de variáveis.
 
-### d.	Quantidade de Dados Faltantes
+### d. Quantidade de Dados Faltantes
 -	**Qual o volume de dados NA?**
   Necessitamos saber qual o volume de dados NA (não aplicável) ou vazio no conjunto de dados.
   Dependendo da quantidade de dados NA, podemos tomar duas decisões?
@@ -302,17 +302,13 @@ Foi removida a variável `month_map` que foi utilizada como uma variável auxili
 ---
 
 ## 05. Análise Exploratória de Dados
-### a. O objetico da Análise Exploratória de Dados
-
-
-“Como as variáveis impactam o fenômeno?”
+### a. O objetivo da Análise Exploratória de Dados
+**“Como as variáveis impactam o fenômeno?”**
 e
-“Qual é a força desse impacto?”
+**“Qual é a força desse impacto?”**.
 A Análise Exploratória de Dados serve para medir o impacto das variáveis em relação à variável resposta e em muitas vezes, tentar quantificar este impacto.
 Relato do professor: “Por muito tempo eu não fazia EDA. Pulava esta etapa e ia direto para os algoritmos de Machine Learning. E quando os algoritmos de ML não performavam bem, eu não conseguia descobrir o porquê. Porque eu não tinha analisado os dados. Ficava fazendo várias tentativas e erro. Ficava colocando e tirando variáveis e isto tomava muito tempo no projeto.
 Depois que eu comecei a fazer uma EDA bem feita, eu já tinha uma noção maior de como os dados se comportavam, quais variáveis que impactavam o fenômeno e eu já sabia mais ou menos quais variáveis deveria colocar no modelo de ML. Então o processo ficou mais assertivo e mais rápido. Por isso que é importante fazer uma Análise Exploratória de Dados”.
-
-
 
 
 

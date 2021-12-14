@@ -92,7 +92,27 @@ promo2_since_week|               float64
 promo2_since_year|               float64
 promo_interval|                   object
 
-asdasdfasdf
+### h. Check Data
+| Variable      | Qty |
+| ----------- | ----------- | 
+store|                                0
+day_of_week|                          0
+date|                                 0
+sales|                                0
+customers|                            0
+open|                                 0
+promo                                0
+state_holiday                        0
+school_holiday                       0
+store_type                           0
+assortment                           0
+competition_distance              2642
+competition_open_since_month    323348
+competition_open_since_year     323348
+promo2                               0
+promo2_since_week               508031
+promo2_since_year               508031
+promo_interval                  508031
 
 
 

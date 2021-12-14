@@ -60,14 +60,13 @@ Dependendo da quantidade de dados, o nosso computador pessoal não vai suportar 
             -	Entender o negócio: As vezes o NA está lá porque é uma lógica de negócio, foi definida por uma regra de negócio e soubermos a regra, podemos colocar valores nos NA´s e recuperar os dados.
 
 ### e. Resumo Geral dos Dados
--	**Estatística Descritiva**
-  A estatística descritiva nos fornece uma noção da grandeza dos dados, ter uma noção de limites mínimos e máximos das variáveis, mediana, estatísticas básicas para poder descrever os dados de uma maneira macro.
+A **Estatística Descritiva** nos fornece uma noção da grandeza dos dados, ter uma noção de limites mínimos e máximos das variáveis, mediana, estatísticas básicas para poder descrever os dados de uma maneira macro.
 
 
 ### f. Data Dimension
-- **Dados de treino**:
-    -	Number of rows: 1017209
-    -	Number of columns: 18
+**Dados de treino**:
+- Number of rows: 1017209
+- Number of columns: 18
 
 ### g. Data Type
 | Variable      | Data Type |

@@ -250,6 +250,17 @@ Existirão Hipóteses que não possuímos os dados para validar. Então teremos 
 Validamos as hipóteses que possuem os seus respectivos dados. Após isto, se o modelo de ML estiver performando mal e verificarmos que outras variáveis sejam relevantes, então iremos coletá-las e utilizá-las na análise.
 
 A lista final de Hipóteses abaixo considera as hipóteses criadas no item anterior que possuíam dados no conjunto de dados:
+1. Lojas com maior sortimento deveriam vender mais.
+2. Lojas com competidores mais próximos deveriam vender menos.
+3. Lojas com competidores à mais tempo deveriam vender mais.
+4. Lojas com promoções ativas por mais tempo deveriam vender mais.
+5. Lojas com mais promoções consecutivas deveriam vender mais.
+6. Lojas abertas durante o feriado de Natal deveriam vender mais.
+7. Lojas deveriam vender mais ao longo dos anos.
+8. Lojas deveriam vender mais no segundo semestre do ano.
+9. Lojas deveriam vender mais depois do dia 10 de cada mês.
+10. Lojas deveriam vender menos aos finais de semana.
+11. Lojas deveriam vender menos durante os feriados escolares.
 
 
 

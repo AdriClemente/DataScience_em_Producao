@@ -285,8 +285,8 @@ Foi alterado os valores da feature `state_holiday` conforme descrito abaixo:
 -	de **c** para **christimas**.
 
 ### c. Filtrando Variáveis
--	**i. A Motivação da Filtragem de Variáveis**
-     “Restrições de Negócio”.
+-	**i. O objetivo da Filtragem de Variáveis**
+-	“Restrições de Negócio”.
 O problema é que as vezes começamos a fazer um projeto de ciência de dados e descobrimos lá no final que não conseguimos colocar o modelo em produção. E uma das maiores causas e que não consideramos as restrições de negócio no começo do projeto.
 Uma solução para isto não ocorrer e considerar as restrições de negócio no início do projeto.
 

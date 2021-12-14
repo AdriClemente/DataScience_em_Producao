@@ -272,7 +272,7 @@ Foram criadas as seguintes variáveis:
 -	`competition_since` contendo a informação do ano da variável `competition_open_since_year`, o valor do mês da variável `competition_open_since_month` e o valor do dia igual à 1.
 -	`competition_time_month` contendo o valor em meses de quanto tempo existe um competidor. Este valor é a diferença da data da variável `date` com o valor da data da variável `competition_since`, dividindo o resultado por 30 para obter a quantidade de meses.
 -	`promo_since` contendo o valor da variável `promo2_since_year` e `promo2_since_week`, onde ambos os valores são convertidos para string e entre estes valores é acrescentado o caractere "-". Por fim, esta variável é convertida para o formato de data.
--`promo_time_week` contendo o valor em semanas de quanto tempo existe uma promoção. Este valor é a diferença da data da variável `date` com o valor da data da variável `promo_since`, dividindo o resultado por 7 para obter a quantidade de semanas.
+-	`promo_time_week` contendo o valor em semanas de quanto tempo existe uma promoção. Este valor é a diferença da data da variável `date` com o valor da data da variável `promo_since`, dividindo o resultado por 7 para obter a quantidade de semanas.
 
 Foram alterados os valores da feature `assortiment` conforme descrito abaixo:
 -	de **a** para **basic**.

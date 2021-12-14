@@ -307,8 +307,7 @@ Foi removida a variável `month_map` que foi utilizada como uma variável auxili
 e
 **“Qual é a força desse impacto?”**.
 A Análise Exploratória de Dados serve para medir o impacto das variáveis em relação à variável resposta e em muitas vezes, tentar quantificar este impacto.
-Relato do professor: “Por muito tempo eu não fazia EDA. Pulava esta etapa e ia direto para os algoritmos de Machine Learning. E quando os algoritmos de ML não performavam bem, eu não conseguia descobrir o porquê. Porque eu não tinha analisado os dados. Ficava fazendo várias tentativas e erro. Ficava colocando e tirando variáveis e isto tomava muito tempo no projeto.
-Depois que eu comecei a fazer uma EDA bem feita, eu já tinha uma noção maior de como os dados se comportavam, quais variáveis que impactavam o fenômeno e eu já sabia mais ou menos quais variáveis deveria colocar no modelo de ML. Então o processo ficou mais assertivo e mais rápido. Por isso que é importante fazer uma Análise Exploratória de Dados”.
+A análise exploratória de dados nos fornece uma noção de como os dados se comportam e quais variáveis que impactam o fenômeno, nos ajudando a selecionar as variáveis que serão utilizadas no modelo de Machine Learning, aumentando a assertividade do projeto.
 
 
 

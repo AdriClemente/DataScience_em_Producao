@@ -150,5 +150,5 @@ Não era certeza que esta premissa iria funcionar. Por isso utilizei o método c
  
 -	**ii. Categorical Attributes**
 
-<img src="img/categorical_attributes_1.jpg" alt="drawing" width="100%"/>
+<img src="img/categorical_attributes_1.jpg"/>
 

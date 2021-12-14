@@ -195,5 +195,5 @@ Por exemplo: Você acha que os clientes impactam no fenômeno de vendas? A respo
 Qual é a descrição dos agentes?
 Por exemplo: O cliente possui uma idade, escolaridade, estado civil, família, número de filhos, frequência que vai na loja, salário, profissão, etc ...
 
-
+<img src="img/MindMapHipothesis.png" />
 

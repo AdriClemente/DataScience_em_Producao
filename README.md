@@ -71,8 +71,10 @@ Dependendo da quantidade de dados, o nosso computador pessoal não vai suportar 
     -	Number of columns: 18
 
 ### g. Data Type
-store                             int64
-day_of_week                       int64
+| Variable      | Data Type |
+| ----------- | ----------- | 
+| store  | int64 |
+ day_of_week                       int64
 date                             object
 sales                             int64
 customers                         int64

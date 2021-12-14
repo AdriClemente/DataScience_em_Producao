@@ -57,6 +57,8 @@ Dependendo da quantidade de dados, o nosso computador pessoal não vai suportar 
             -	Quando não temos informação de negócio: utilizando algoritmos de machine learning, utilizando mediana, media, etc...
             -	Entender o negócio: As vezes o NA está lá porque é uma lógica de negócio, foi definida por uma regra de negócio e soubermos a regra, podemos colocar valores nos NA´s e recuperar os dados.
 
-
+### e. Resumo Geral dos Dados
+-	**Estatística Descritiva**
+  A estatística descritiva nos fornece uma noção da grandeza dos dados, ter uma noção de limites mínimos e máximos das variáveis, mediana, estatísticas básicas para poder descrever os dados de uma maneira macro.
 
 

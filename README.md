@@ -333,7 +333,7 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
 -	**ii. Análise Bivariada**: Analisamos o impacto de uma única variável em relação à variável resposta. Como a variável impacta a resposta? (Correlação, Validação de Hipóteses, etc..).
 
--	**iii. Análise Multivariada***: Analisamos o impacto de mais de uma variável em relação à variável resposta e também o impacto entre as variáveis. Como as variáveis se relacionam? (Qual a correlação entre elas?). Exemplo: temos o impacto de uma única variável em relação à variável resposta, porém quando esta variável se junta com outra variável, o impacto dobra.
+-	**iii. Análise Multivariada**: Analisamos o impacto de mais de uma variável em relação à variável resposta e também o impacto entre as variáveis. Como as variáveis se relacionam? (Qual a correlação entre elas?). Exemplo: temos o impacto de uma única variável em relação à variável resposta, porém quando esta variável se junta com outra variável, o impacto dobra.
 
      Os algoritmos de Machine Learning seguem algumas premissas. Uma dessas premissas é a teoria de Occan’s Razor ou Navalha de Occan. Ela é uma teoria que garante o aprendizado dos modelos. A teoria da Navalha de Occan diz que se tivermos vários modelos para escolher, temos que escolher sempre o modelo de menor complexidade, porque ele generaliza melhor o aprendizado.
 
@@ -348,7 +348,7 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
     A análise multivariada ajuda a identificar quais as variáveis que são correlacionadas e portanto, podem ser excluídas para diminuir a dimensionalidade do Dataset e desta maneira, diminuir a complexidade do modelo.
 
--	**iv. Correlação entre variáveis***
-    -	**Variáveis numéricas***: O método Pearson é um teste estatístico para calcular a correlação entre duas variáveis numéricas. Os valores da correlação variam de 1 até -1.  Quanto mais próxima de zero, mais fraca é a correlação e quanto mais próximo de 1 ou -1, mais forte é a correlação.
+-	**iv. Correlação entre variáveis**
+    -	**Variáveis numéricas**: O método Pearson é um teste estatístico para calcular a correlação entre duas variáveis numéricas. Os valores da correlação variam de 1 até -1.  Quanto mais próxima de zero, mais fraca é a correlação e quanto mais próximo de 1 ou -1, mais forte é a correlação.
  
 

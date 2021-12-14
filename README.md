@@ -116,7 +116,7 @@ promo2_since_year|               508031
 promo_interval|                  508031
 
 ### i.	Fillout NA
--	**i.	Competition Distance**: No site do Kagle [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data) temos a seguinte definição para esta variável: distance in meter to the nearest competitor store.
+-	**i.	Competition Distance**: No site do Kagle [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data) temos a seguinte definição para esta variável: _distance in meter to the nearest competitor store_.
 Verifiquei qual é a distância em metros do competidor mais distante:
 print(df1['competition_distance'].max())
 75860.0

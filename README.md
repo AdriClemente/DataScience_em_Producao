@@ -148,5 +148,6 @@ Não era certeza que esta premissa iria funcionar. Por isso utilizei o método c
 -	`competition_distance` and `competition_open_since_year` are heavily skewed;
 -	`customers`, `competition_distance`, `competition_open_since_year` have a high kurtosis, which indicates a profusion of outliers;
  
-
+-	**ii. Categorical Attributes**
+-	 
 

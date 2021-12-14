@@ -318,14 +318,11 @@ Então, a AED é uma oportunidade de ganhar experiência para debater com o time
 -	**ii.	Validar Hipóteses de Negócio (Insights)**
 Validar as hipóteses de negócio criadas no Mind Mapping de Hipóteses e com isto, gerar Insights.
 Para gerar Insights necessitamos de duas coisas:
-
-    -Gerar surpresa: Fornecer uma informação que as pessoas não conheciam. 
-
-    -Chocar uma crença de uma pessoa: O time de negócios já possui muitos Insights de como a empresa funciona e consequentemente possuem muitas crenças. 
+    -	**Gerar surpresa**: Fornecer uma informação que as pessoas não conheciam. 
+    -	**Chocar uma crença de uma pessoa**: O time de negócios já possui muitos Insights de como a empresa funciona e consequentemente possuem muitas crenças. 
 Exemplo: as pessoas do time de negócio sabem que no fim de semana vende mais, que no feriado vende menos, que determinado tipo de loja vende mais, etc...
 São todas informações empíricas, pois provavelmente o time de negócio não parou para analisar os dados.
 Se você apresenta para o time de negócio uma informação que contradiz uma crença, por exemplo: o time de negócio tem uma crença que um determinado tipo de loja vende mais, porém a análise dos dados mostra que este determinado tipo de loja vende menos,  e você apresenta isto, você está chocando uma crença da pessoa. Então a pessoa vai se pronunciar falando que sempre pensou que funcionava de uma maneira, mas agora estamos apresentando que funciona de outra maneira. Neste momento geramos um novo Insight, pois derrubamos uma crença.
-
 
 -	**iii.	Perceber variáveis que são importantes para o modelo**
 Quando fazemos AED, ganhamos a sensibilidade de quais variáveis impactam o fenômeno, então ensinaria ao modelo um comportamento melhor.

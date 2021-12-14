@@ -1,4 +1,7 @@
 # Sales Forecast for Rossmann Stores (Time Series + Telegram Bot)
+
+<img src="img/Rossmann_Schriftzug_mit_Centaur.jpg" alt="drawing" width="100%"/>
+
 _This sales prediction project uses data from Rossmann, a Germany-based drug store chain with operations over more than 3,000 stores across seven European countries. The dataset is publicly available from a [Kaggle competition](https://www.kaggle.com/c/rossmann-store-sales/data)._
 
 ---

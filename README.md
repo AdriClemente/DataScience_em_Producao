@@ -339,6 +339,14 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
     Existem várias formas de tornar o algoritmo mais complexo, uma delas é a dimensionalidade do seu Dataset. Podemos entender dimensionalidade como o número de colunas do Dataset. Quanto maior o número de colunas, maior é a dimensionalidade e mais complexo é o seu modelo.
 
+    Para diminuir a dimensionalidade, podemos excluir colunas do Dataset.
+    Um dos critérios utilizados para escolher quais colunas serão excluídas, é o quanto de informação cada coluna carrega. Por exemplo, se tivermos duas colunas que carregam o mesmo conteúdo de informação, podemos excluir uma delas e não teremos perda de informação.
+
+    Como encontramos as variáveis que possuem o mesmo nível de informação, isto é, que carregam o mesmo nível de informação?
+    Para fazer isto, existe um método utilizado na álgebra linear que são os vetores linearmente dependentes. Se tivermos dois vetores, neste caso duas colunas que são linearmente dependentes, podemos excluir uma das colunas e o conteúdo de informação se mantém.
+    Uma das maneiras de encontrar se os vetores são linearmente dependentes, é olhar para a correlação entre as variáveis. Se uma variável estiver muito correlacionada com outra variável, podemos excluir uma das variáveis que o conteúdo de informação se mantém.
+
+    A análise multivariada ajuda a identificar quais as variáveis que são correlacionadas e portanto, podem ser excluídas para diminuir a dimensionalidade do Dataset e desta maneira, diminuir a complexidade do modelo.
 
 
 

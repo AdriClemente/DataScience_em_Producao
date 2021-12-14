@@ -142,6 +142,10 @@ Não era certeza que esta premissa iria funcionar. Por isso utilizei o método c
 -	Foi alterado o tipo da feature `date` de object para datetime64.
 
 
-
+### k. Descriptive Statistics
+-	**i. Numerical Attributes** 
+  - competition_distance, competition_open_since_year are heavily skewed;
+•	customers, competition_distance, competition_open_since_year have a high kurtosis, which indicates a profusion of outliers;
+ 
 
 

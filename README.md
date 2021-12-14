@@ -302,7 +302,7 @@ Foi removida a variável `month_map` que foi utilizada como uma variável auxili
 ---
 
 ## 05. Análise Exploratória de Dados
-### a. A mMtivação da Análise Exploratória de Dados
+### a. A Motivação da Análise Exploratória de Dados
 **“Como as variáveis impactam o fenômeno?”**
 e
 **“Qual é a força desse impacto?”**.
@@ -315,19 +315,19 @@ Entender como o negócio funciona, o comportamento que o negócio possui atravé
 Você como cientista de dados não possui este conhecimento pois fica em um time fora da operação.
 Então, a AED é uma oportunidade de ganhar experiência para debater com o time de negócio, trocar ideias e trocas Insights.
 
--	ii.	Validar Hipóteses de Negócio (Insights)
+-	**ii.	Validar Hipóteses de Negócio (Insights)**
 Validar as hipóteses de negócio criadas no Mind Mapping de Hipóteses e com isto, gerar Insights.
 Para gerar Insights necessitamos de duas coisas:
 
-o	Gerar surpresa: Fornecer uma informação que as pessoas não conheciam. 
+    -Gerar surpresa: Fornecer uma informação que as pessoas não conheciam. 
 
-o	Chocar uma crença de uma pessoa: O time de negócios já possui muitos Insights de como a empresa funciona e consequentemente possuem muitas crenças. 
+    -Chocar uma crença de uma pessoa: O time de negócios já possui muitos Insights de como a empresa funciona e consequentemente possuem muitas crenças. 
 Exemplo: as pessoas do time de negócio sabem que no fim de semana vende mais, que no feriado vende menos, que determinado tipo de loja vende mais, etc...
 São todas informações empíricas, pois provavelmente o time de negócio não parou para analisar os dados.
 Se você apresenta para o time de negócio uma informação que contradiz uma crença, por exemplo: o time de negócio tem uma crença que um determinado tipo de loja vende mais, porém a análise dos dados mostra que este determinado tipo de loja vende menos,  e você apresenta isto, você está chocando uma crença da pessoa. Então a pessoa vai se pronunciar falando que sempre pensou que funcionava de uma maneira, mas agora estamos apresentando que funciona de outra maneira. Neste momento geramos um novo Insight, pois derrubamos uma crença.
 
 
--	iii.	Perceber variáveis que são importantes para o modelo
+-	**iii.	Perceber variáveis que são importantes para o modelo**
 Quando fazemos AED, ganhamos a sensibilidade de quais variáveis impactam o fenômeno, então ensinaria ao modelo um comportamento melhor.
 Em um passo posterior deste treinamento, veremos como utilizar um algoritmo para definir as variáveis mais relevantes para treinar o modelo. Só que este algoritmo não pode ser 100% confiável. Você precisa trabalhar em conjunto com ele. Por exemplo: o modelo vai falar para nós que determinadas variáveis são mais relevantes e você vai julgar se aquilo realmente faz sentido. Por que pode ocorrer em muitas vezes o modelo informar para colocar certas variáveis no modelo, porém a AED apontou relevante algumas outras variáveis que o modelo não sugeriu, e sabemos da sua relevância através dos gráficos e dos resultados da AED. Então incluímos as variáveis apontadas pelo AED como complemento para a sugestão que o algoritmo nos informou.
 Portanto, a AED é importante para darmos este conhecimento e fazermos um double check no que o algoritmo informou sobre quais variáveis são relevantes para o modelo.

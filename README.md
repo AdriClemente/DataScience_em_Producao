@@ -159,7 +159,7 @@ Isto é muito provável de ocorrer, pois temos dias que são feriados, onde a lo
 Neste caso, a coluna 0 que representa dias sem feriados possui um volume de vendas bem maior que as outras três colunas a, b e c que são feriados: a = public holiday, b = Easter holiday, c = Christmas.
 Desta maneira, criei dois boxplots separados, um para os dias normais e outro para os feriados.
 
-
+<img src="img/categorical_attributes_2.jpg" alt="drawing" width="100%"/>
 
 
 

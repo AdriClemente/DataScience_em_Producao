@@ -73,7 +73,7 @@ Dependendo da quantidade de dados, o nosso computador pessoal não vai suportar 
 ### g. Data Type
 | Variable      | Data Type |
 | ----------- | ----------- | 
-| store  | int64 |
+|store|int64|
  day_of_week                       int64
 date                             object
 sales                             int64

@@ -226,5 +226,26 @@ Um Insight é gerado através de duas formas:
     5. Lojas com competidores mais próximos deveriam vender menos.
     6. Lojas com competidores à mais tempo deveriam vender mais.
 
+    -	**Hipóteses dos Produtos**
+    1. Lojas que investem mais em Marketing deveriam vender mais.
+    2. Lojas com maior exposição de produto deveriam vender mais.
+    3. Lojas com produtos com preço menor deveriam vender mais.
+    4. Lojas com promoções mais agressivas (descontos maiores), deveriam vender mais.
+    5. Lojas com promoções ativas por mais tempo deveriam vender mais.
+    6. Lojas com mais dias de promoção deveriam vender mais.
+    7. Lojas com mais promoções consecutivas deveriam vender mais.
+
+
+    -	**Hipóteses de Tempo** :
+    1. Lojas abertas durante o feriado de Natal deveriam vender mais.
+    2. Lojas deveriam vender mais ao longo dos anos.
+    3. Lojas deveriam vender mais no segundo semestre do ano.
+    4. Lojas deveriam vender mais depois do dia 10 de cada mês.
+    5. Lojas deveriam vender menos aos finais de semana.
+    6. Lojas deveriam vender menos durante os feriados escolares.
+
+
+
+
 
 

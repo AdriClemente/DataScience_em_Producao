@@ -226,6 +226,8 @@ Um Insight é gerado através de duas formas:
     5. Lojas com competidores mais próximos deveriam vender menos.
     6. Lojas com competidores à mais tempo deveriam vender mais.
 
+
+
     -	**Hipóteses dos Produtos**
     1. Lojas que investem mais em Marketing deveriam vender mais.
     2. Lojas com maior exposição de produto deveriam vender mais.
@@ -234,6 +236,8 @@ Um Insight é gerado através de duas formas:
     5. Lojas com promoções ativas por mais tempo deveriam vender mais.
     6. Lojas com mais dias de promoção deveriam vender mais.
     7. Lojas com mais promoções consecutivas deveriam vender mais.
+
+
 
 
     -	**Hipóteses de Tempo** :

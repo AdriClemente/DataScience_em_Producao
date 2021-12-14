@@ -137,3 +137,11 @@ Não era certeza que esta premissa iria funcionar. Por isso utilizei o método c
         - se o valor da variável `promo_interval` for igual à 0, atribui o valor 0 na variável `is_promo`, significando que a loja não está participando da promoção.
         - se o valor da variável `promo_interval` for diferente de 0, atribui o valor 1 na variável `is_promo`, se algum dos meses contidos no valor da variável `promo_interval` for igual ao valor do mês da variável `month_map`. Caso contrário, é atribuído o valor 0 na variável `is_promo`.
 
+### j.	Change Type
+•	Foram alterados os tipos das features competition_open_since_month, competition_open_since_year , promo2_since_year e 'promo2_since_week' de float64 para int64.
+•	Foi alterado o tipo da feature date de object para datetime64.
+
+
+
+
+

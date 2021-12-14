@@ -127,3 +127,13 @@ Não era certeza que esta premissa iria funcionar. Por isso utilizei o método c
 
 -	**iii. Competition_open_since_year**: No site do Kagle [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data) temos a seguinte definição para esta variável: _gives the approximate year and month of the time the nearest competitor was opened_. Eu assumi como premissa para os dados faltantes, o valor do ano da variável `date`. Foi utilizado o mesmo raciocínio descrito acima para a variável `Competition_open_since_month`.
 
+-	**iv. promo2_since_week**: No site do Kagle [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data) temos a seguinte definição para esta variável: _describes the year and calendar week when the store started participating in Promo2_. Eu substituí os valores faltantes pelo valor da semana da variável `date`.
+
+-	**v. promo2_since_year**: No site do Kagle [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data) temos a seguinte definição para esta variável: _describes the year and calendar week when the store started participating in Promo2_. Eu substituí os valores faltantes pelo valor do ano da variável `date`.
+
+-	**vi. promo_interval**: No site do Kagle [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data) temos a seguinte definição para esta variável: _describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store_. Foi atribuído o valor 0 quando o valor da variável promo_interval era NA/vazio.
+  -	Foi criada a variável month_map  com a descrição do mês que se encontra na variável date.
+Foi criada a variável is_promo onde foram utilizadas as seguintes condições:
+•	se o valor da variável promo_interval for igual à 0, atribui o valor 0 na variável is_promo, significando que ela não está participando da promoção.
+•	se o valor da variável promo_interval for diferente de zero, atribui o valor 1 na variável is_promo, se algum dos meses contidos no valor da variável promo_interval for igual ao valor do mês na variável month_map. Caso contrário, é atribuído o valor 0 na variável is_promo.
+

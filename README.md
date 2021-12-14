@@ -198,7 +198,7 @@ Por exemplo: O cliente possui uma idade, escolaridade, estado civil, família, n
 <img src="img/MindMapHipothesis.png" />
 
 -	**iv. Lista de Hipóteses**.
-O objetivo do Mapa Mental de Hipóteses é derivar uma lista de hipóteses e com esta lista iremos priorizar ela e fazer a análise para validar estas hipóteses.
+O objetivo do Mapa Mental de Hipóteses é derivar uma lista de hipóteses e com esta lista iremos priorizar e fazer a análise para validar estas hipóteses.
 Cada hipótese validada ou descartada é um Insight.
 Um Insight é gerado através de duas formas:  
     -	**Através da surpresa**: Exemplo: Descobrimos que vendemos mais aos Sábados e ninguém sabia desta informação.
@@ -209,8 +209,6 @@ Um Insight é gerado através de duas formas:
     -	Lojas de MAIOR Porte deveriam Vender MAIS.
     -	Lojas com MAIOR Sortimento deveriam Vender MAIS.
     -	Lojas com MAIS Competidores deveriam Vender MENOS.
-    
-    
     
        É importante deixar claro dois pontos para as pessoas envolvidas:
     -	**Primeiro**: Deixar claro que estas informações de Hipótese são apostas, portanto iremos precisar primeiro dos dados para validar se uma Hipótese é correta ou não.

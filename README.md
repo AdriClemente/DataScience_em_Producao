@@ -370,3 +370,7 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
           _Bias correction: Cramér's V can be a heavily biased estimator of its population counterpart and will tend to overestimate the strength of association. A bias correction, using the above notation, is given by:_
 
 
+
+
+
+

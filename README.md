@@ -379,7 +379,7 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 	       
 
 	      | Variable      | Value |      | Value |      | Value |      | Value |
-	      | ----------- | ----------- | 
+	      | ----------- | ----------- |  ----------- |  ----------- |  ----------- | 
 	       |_store_type|      a |       b |     c  |     d_
 
 

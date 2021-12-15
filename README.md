@@ -274,7 +274,7 @@ Foram criadas as seguintes variáveis:
 -	`promo_since` contendo o valor da variável `promo2_since_year` e `promo2_since_week`, onde ambos os valores são convertidos para string e entre estes valores é acrescentado o caractere "-". Por fim, esta variável é convertida para o formato de data.
 -	`promo_time_week` contendo o valor em semanas de quanto tempo existe uma promoção. Este valor é a diferença da data da variável `date` com o valor da data da variável `promo_since`, dividindo o resultado por 7 para obter a quantidade de semanas.
 
-Foram alterados os valores da feature `assortiment` conforme descrito abaixo:
+Foram alterados os valores da feature `assortment` conforme descrito abaixo:
 -	de **a** para **basic**.
 -	de **b** para **extra**.
 -	de **c** para **extended**.
@@ -349,6 +349,7 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
     A análise multivariada ajuda a identificar quais as variáveis que são correlacionadas e portanto, podem ser excluídas para diminuir a dimensionalidade do Dataset e desta maneira, diminuir a complexidade do modelo.
 
 -	**iv. Correlação entre variáveis**
-    -	**Variáveis numéricas**: O método Pearson é um teste estatístico para calcular a correlação entre duas variáveis numéricas. Os valores da correlação variam de 1 até -1.  Quanto mais próxima de zero, mais fraca é a correlação e quanto mais próximo de 1 ou -1, mais forte é a correlação.
+    -	**Variáveis numéricas**: O método Pearson é um teste estatístico para calcular a correlação entre duas variáveis numéricas. Os valores da correlação variam de 1 até -1.  Quanto mais próxima de 0, mais fraca é a correlação e quanto mais próximo de 1 ou -1, mais forte é a correlação.
  
+    -	**Variáveis categóricas**: Utilizamos o método Cramer V, ou V de Cramer (https://en.wikipedia.org/wiki/Cram%C3%A9r%27s_V).
 

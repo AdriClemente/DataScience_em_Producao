@@ -373,4 +373,13 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
           O resultado de V de Cramer varia de zero até um, onde quanto mais perto do zero, menor é a correlação e quanto mais perto de um, maior é a correlação.
 
+### d. Análise Univariada
+-	**i. Response Variable**: Exibe a distribuição da variável sales.
+
+          <img src="img/response_variable.jpg" alt="drawing" width="50%"/>
+
+
+
+
+
 

@@ -365,13 +365,13 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 		
 	       _Saída_:
 	       
-	       _store_type	a	b	c	d_
+	       _store_type       a        b      c       d_
 	       
 	       _state_holiday_				
 	       
-	       _christmas	4	66	0	1_
+	       _christmas        4       66     0       1_
 	       
-	       _easter_holiday	36	100	0	9_
+	       _easter_holiday  36	100	0	9_
 	       
 	       _public_holiday	236	285	65	108_
 	       

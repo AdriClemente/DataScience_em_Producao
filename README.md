@@ -365,7 +365,7 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 		
 	       _Saída_:
 	       
-	       _store_type       a        b      c       d_
+	       _store_type|      a |       b |     c  |     d_
 	       
 	       _state_holiday_				
 	       

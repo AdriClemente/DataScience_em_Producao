@@ -371,6 +371,6 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
           <img src="img/cramer_correction.jpg" alt="drawing" width="50%"/>
 
-
+          O resultado de V de Cramer varia de zero até um, onde quanto mais perto do zero, menor é a correlação e quanto mais perto de um, maior é a correlação.
 
 

@@ -354,4 +354,5 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
     -	**Variáveis categóricas**: Utilizamos o método Cramer V, ou V de Cramer (https://en.wikipedia.org/wiki/Cram%C3%A9r%27s_V).
 
           _Cramér's V is computed by taking the square root of the chi-squared statistic divided by the sample size and the minimum dimension minus 1_:
+          
           <img src="img/cramers.jpg" alt="drawing" width="50%"/>

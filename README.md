@@ -355,7 +355,7 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
           _Cramér's V is computed by taking the square root of the chi-squared statistic divided by the sample size and the minimum dimension minus 1_:
           
-          <img src="img/cramers.jpg" alt="drawing" width="60%"/>
+          <img src="img/cramers2.jpg" alt="drawing" width="60%"/>
           
 
 

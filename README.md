@@ -360,9 +360,9 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
           _onde_:
           - _y2 = is the phi coefficient_
           - _X2 = is derived from Pearson's chi-squared test_
-          _n = is the grand total of observations_
-          _k = being the number of columns_
-          _r = being the number of rows_
+          - _n = is the grand total of observations_
+          - _k = being the number of columns_
+          - _r = being the number of rows_
 
 
 

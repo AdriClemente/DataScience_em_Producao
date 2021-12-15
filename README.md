@@ -362,8 +362,11 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 	        Para determinar o Confusion Matrix / tabela de contingência, utilizamos a fórmula pd.crosstab abaixo que determina as possíveis combinações entre as variáveis categóricas informadas, contando o número de linhas para cada uma das combinações:
 	        _pd.crosstab(cat_attributes_v2['state_holiday'], cat_attributes_v2['store_type'])_
 	       _Saída_:
+	       
 	       _store_type	a	b	c	d_
+	       
 	       _state_holiday_				
+	       
 	       _christmas	4	66	0	1_
 	       _easter_holiday	36	100	0	9_
 	       _public_holiday	236	285	65	108_

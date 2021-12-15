@@ -366,6 +366,7 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
           <img src="img/cramer_exit.jpg" alt="drawing" width="50%"/>
 
           É necessário realizar uma correção na fórmula de V de Cramer:
+	  
           _Bias correction: Cramér's V can be a heavily biased estimator of its population counterpart and will tend to overestimate the strength of association. A bias correction, using the above notation, is given by:_
 
 

@@ -360,7 +360,9 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
           Para calcular o X2 que deriva do método chi quadrado de Pearson, utilizamos a função da biblioteca scipy chamada chi2_contingency(Consufion Matrix/tabela de contingencia).
 	        Para determinar o Confusion Matrix / tabela de contingência, utilizamos a fórmula pd.crosstab abaixo que determina as possíveis combinações entre as variáveis categóricas informadas, contando o número de linhas para cada uma das combinações:
+		
 	        _pd.crosstab(cat_attributes_v2['state_holiday'], cat_attributes_v2['store_type'])_
+		
 	       _Saída_:
 	       
 	       _store_type	a	b	c	d_
@@ -368,9 +370,13 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 	       _state_holiday_				
 	       
 	       _christmas	4	66	0	1_
+	       
 	       _easter_holiday	36	100	0	9_
+	       
 	       _public_holiday	236	285	65	108_
+	       
 	       _regular_day	456766	15109	112903	258650_
+	       
 
 
 

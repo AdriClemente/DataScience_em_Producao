@@ -376,7 +376,7 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 ### d. Análise Univariada
 -	**i. Response Variable**: Exibe a distribuição da variável sales.
 
-          <img src="img/response_variable.jpg" alt="drawing" width="60%"/>
+
 
 
 

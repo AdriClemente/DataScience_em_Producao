@@ -364,8 +364,8 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 	        _pd.crosstab(cat_attributes_v2['state_holiday'], cat_attributes_v2['store_type'])_
 		
 	       _Saída_:
-	       
-	       _store_type|      a |       b |     c  |     d_
+	       | ----------- | ----------- | 
+	       |_store_type|      a |       b |     c  |     d_
 	       
 	       _state_holiday_				
 	       

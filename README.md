@@ -378,9 +378,11 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 	       _regular_day	456766	15109	112903	258650_
 	       
 
-	      | Variable      | Value |      | Value |      | Value |      | Value |
+	      | Variable    | Value |  Value | Value | Value |
 	      | ----------- | ----------- |  ----------- |  ----------- |  ----------- | 
-	       |_store_type|      a |       b |     c  |     d_
+
+
+|_store_type|      a |       b |     c  |     d_
 
 
 

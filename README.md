@@ -408,3 +408,8 @@ Podemos observar no gráfico acima que a venda média do tipo de assortment=extr
 **Verdict: FALSE**
 Lojas com maior sortimento (assortment = extended) possuem uma venda média MENOR do que as lojas com o sortimento (assortment=extra). 
 
+- **H2. Lojas com competidores mais próximos deveriam vender menos.**
+
+<img src="img/h2_g1.jpg" alt="drawing" width="75%"/>
+<img src="img/h2_g2.jpg" alt="drawing" width="75%"/>
+<img src="img/h2_g3.jpg" alt="drawing" width="75%"/>

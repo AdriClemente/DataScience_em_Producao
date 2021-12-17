@@ -397,6 +397,6 @@ Highlights:
 
 - **H1. Lojas com maior sortimento deveriam vender mais.**
 
-<img src="img/h1_g1.jpg" alt="drawing" width="100%"/>
+<img src="img/h1_g1.jpg" alt="drawing" width="50%"/>
 
 

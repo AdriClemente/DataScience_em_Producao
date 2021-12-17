@@ -382,5 +382,5 @@ O gráfico acima mostra uma distribuição com uma skew positiva (cauda da distr
 
 - **ii. Numerical Variable**
 
-<img src="img/numerical_variables.jpg" alt="drawing" width="50%"/>
+<img src="img/numerical_variables.jpg" alt="drawing" width="100%"/>
 

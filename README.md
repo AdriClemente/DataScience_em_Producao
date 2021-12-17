@@ -483,8 +483,8 @@ A correlação entre a mesma variável possui o valor 1 e está representada na 
 Quando observamos a correlação da variável `sales`, verificamos uma correlação forte com a variável `day_of_week` de -0,46.
 Temos uma correlação forte entre as variáveis `sales` e `customers` de 0,89, porém não conseguiremos utilizar a variável `customers`, pois necessitamos obter a quantidade de `customers` que estarão na loja nas próximas seis semanas, porém não possuímos esta previsão. Uma alternativa seria realizar um projeto de previsão de `customers` ao longo das próximas seis semanas e incorporar neste projeto. 
 
--	Correlações negativa forte: `sales` x `day_of_week`, `open` x `day_of_week`, `promo` x `day_of_week`, `school_holiday` x `day_of_week`, `promo2_since_year` x `promo2`, `is_promo` x `promo2_since_year`.
+-	**Correlações negativa forte**: `sales` x `day_of_week`, `open` x `day_of_week`, `promo` x `day_of_week`, `school_holiday` x `day_of_week`, `promo2_since_year` x `promo2`, `is_promo` x `promo2_since_year`.
 
--	Correlação positiva forte: `is_promo` x `promo2`, `sales` x `open`, `sales` x `promo`, `sales` x `customers`, `open` x `customers`, `promo` x `customers`, `promo` x `open`.
+-	**Correlação positiva forte**: `is_promo` x `promo2`, `sales` x `open`, `sales` x `promo`, `sales` x `customers`, `open` x `customers`, `promo` x `customers`, `promo` x `open`.
 
 

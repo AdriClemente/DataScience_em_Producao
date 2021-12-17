@@ -466,7 +466,7 @@ O gráfico acima informa que o feriado de Natal obteve uma venda média maior no
 
 O gráfico acima mostra que a média das vendas durante os feriados escolares é um pouco superior que os dias que não são feriados escolares.
 
-<img src="img/h11_g2.jpg" alt="drawing" width="75%"/>
+<img src="img/h11_g2.jpg" alt="drawing" width="100%"/>
 
 O gráfico acima mostra a soma das vendas para os dias que são feriados escolares e para os dias que não são feriados escolares ao longo do ano. Podemos notar que os meses 7 e 8 que são as férias escolares, possuem um aumento no volume de vendas.
 

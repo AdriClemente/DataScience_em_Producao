@@ -402,8 +402,7 @@ Highlights:
 
 Podemos observar no gráfico acima que a venda média do tipo de assortment=extra vem aumentando mais ao longo do tempo do que os outros dois tipos de assortment. 
 
-**Verdict: FALSE**
-Lojas com maior sortimento (assortment = extended) possuem uma venda média MENOR do que as lojas com o sortimento (assortment=extra). 
+**Verdict: FALSE**. Lojas com maior sortimento (assortment = extended) possuem uma venda média MENOR do que as lojas com o sortimento (assortment=extra). 
 
 - **H2. Lojas com competidores mais próximos deveriam vender menos.**
 
@@ -411,7 +410,7 @@ Lojas com maior sortimento (assortment = extended) possuem uma venda média MENO
 <img src="img/h2_g2.jpg" alt="drawing" width="75%"/>
 <img src="img/h2_g3.jpg" alt="drawing" width="75%"/>
 
-   **Verdict: FALSE** As lojas com COMPETIDORES MAIS PRÓXIMOS vendem na MÉDIA.
+   **Verdict: FALSE**. As lojas com COMPETIDORES MAIS PRÓXIMOS vendem na MÉDIA.
 
 - **H3. Lojas com competidores à mais tempo deveriam vender mais.**
 
@@ -421,11 +420,10 @@ Lojas com maior sortimento (assortment = extended) possuem uma venda média MENO
 <img src="img/h3_g4.jpg" alt="drawing" width="75%"/>
 <img src="img/h3_g5.jpg" alt="drawing" width="75%"/>
 
-**Verdict: FALSE**
-Lojas com COMPETIDORES À MAIS TEMPO vendem na MÉDIA.
+**Verdict: FALSE**. Lojas com COMPETIDORES À MAIS TEMPO vendem na MÉDIA.
 
 - **H4. Lojas com promoções ativas por mais tempo deveriam vender mais.**
 <img src="img/h4_g1.jpg" alt="drawing" width="100%"/>
-**Verdict: FALSE**
-Lojas com promoções ativas por mais tempo vendem MENOS depois de um certo período de promoção.
+
+**Verdict: FALSE**. Lojas com promoções ativas por mais tempo vendem MENOS depois de um certo período de promoção.
 

@@ -424,3 +424,6 @@ Lojas com maior sortimento (assortment = extended) possuem uma venda média MENO
 **Verdict: FALSE**
 Lojas com COMPETIDORES À MAIS TEMPO vendem na MÉDIA.
 
+- **H4. Lojas com promoções ativas por mais tempo deveriam vender mais.**
+<img src="img/h4_g1.jpg" alt="drawing" width="75%"/>
+

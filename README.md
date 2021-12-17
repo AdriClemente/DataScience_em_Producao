@@ -393,4 +393,10 @@ Highlights:
 - store_type: there are more sales data points for store of type "a", and fewer stores of type "b".
 - assortment: there are fewer sales data points for stores with assortment of type 'extra' than other assortment types.
 
+### e. Análise Bivariada
+
+- **H1. Lojas com maior sortimento deveriam vender mais.**
+
+<img src="img/h1_g1.jpg" alt="drawing" width="100%"/>
+
 

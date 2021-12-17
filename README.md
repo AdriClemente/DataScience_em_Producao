@@ -429,7 +429,7 @@ Podemos observar no gráfico acima que a venda média do tipo de assortment=extr
 **Verdict: FALSE**. Lojas com promoções ativas por mais tempo vendem MENOS depois de um certo período de promoção.
 
 - **H5. Lojas com mais promoções consecutivas deveriam vender mais.**
-<img src="img/h5_g1.jpg" alt="drawing" width="100%"/>
+<img src="img/h5_g1.jpg" alt="drawing" width="75%"/>
 
 **Verdict: FALSE**. No gráfico acima observamos que as lojas que participaram da promoção consecutiva, isto é, (tradicional + estendida) possuem um volume de vendas menor do que as lojas que apenas participaram da promoção tradicional.
 

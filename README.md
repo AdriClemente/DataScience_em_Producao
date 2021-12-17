@@ -488,6 +488,6 @@ Temos uma correlação forte entre as variáveis `sales` e `customers` de 0,89, 
 -	**Correlação positiva forte**: `is_promo` x `promo2`, `sales` x `open`, `sales` x `promo`, `sales` x `customers`, `open` x `customers`, `promo` x `customers`, `promo` x `open`.
 
 - **ii. Categorical Attributes**
-- <img src="img/multi_categorical.jpg" alt="drawing" width="75%"/>
+<img src="img/multi_categorical.jpg" alt="drawing" width="75%"/>
 
 Existe uma correlação moderada entre as variáveis `store_type` e `assortment`.

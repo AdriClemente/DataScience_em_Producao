@@ -451,4 +451,8 @@ O gráfico acima informa que o feriado de Natal obteve uma venda média maior no
 
 **Verdict: True**. Lojas obtém uma venda média MAIOR no segundo semestre do ano.
 
+- **H9. Lojas deveriam vender mais depois do dia 10 de cada mês**.
+<img src="img/h9_g1.jpg" alt="drawing" width="100%"/>
+
+**Verdict: False**. Lojas possuem uma venda média MENOR depois do dia 10 de cada mês.
 

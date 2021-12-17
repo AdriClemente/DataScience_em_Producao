@@ -378,6 +378,8 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
 <img src="img/response_variable.jpg" alt="drawing" width="50%"/>
 
+O gráfico acima mostra uma distribuição com um formato de um sino e com uma skew positiva (cauda da distribuição para o lado direito).
+Nos importamos com estas características da distribuição, pois a maioria dos algoritmos de Machine Learning são criados baseados em algumas premissas, onde uma destas premissas é que os dados sejam independentes e que sigam uma distribuição normal. Então quanto mais normal for a distribuição da variável resposta, melhor o algoritmo vai performar.
 
 
 

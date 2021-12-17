@@ -384,3 +384,9 @@ O gráfico acima mostra uma distribuição com uma skew positiva (cauda da distr
 
 <img src="img/numerical_variables.jpg" alt="drawing" width="100%"/>
 
+- **iii. Categorical Variable**
+
+<img src="img/categorical_variables.jpg" alt="drawing" width="100%"/>
+
+
+

@@ -396,6 +396,8 @@ Highlights:
 ### e. Análise Bivariada
 
 - **H1. Lojas com maior sortimento deveriam vender mais.**
+* **Verdict: FALSE**
+Lojas com maior sortimento (assortment = extended) possuem uma venda média MENOR do que as lojas com o sortimento (assortment=extra). 
 
 <img src="img/h1_g1.jpg" alt="drawing" width="75%"/>
 <img src="img/h1_g2.jpg" alt="drawing" width="75%"/>

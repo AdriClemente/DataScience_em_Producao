@@ -398,10 +398,10 @@ Highlights:
 - **H1. Lojas com maior sortimento deveriam vender mais.**
 
 <img src="img/h1_g1.jpg" alt="drawing" width="75%"/>
+ 
+   
 
-textp
-
-<img src="img/h1_g2.jpg" alt="drawing" width="50%"/>
+<img src="img/h1_g2.jpg" alt="drawing" width="75%"/>
 
 Podemos observar no gráfico acima que a venda média do tipo de assortment=extra vem aumentando mais ao longo do tempo do que os outros dois tipos de assortment. 
 

@@ -437,7 +437,7 @@ Podemos observar no gráfico acima que a venda média do tipo de assortment=extr
 <img src="img/h6_g1.jpg" alt="drawing" width="75%"/>
 <img src="img/h6_g2.jpg" alt="drawing" width="75%"/>
 
-     O gráfico acima informa que o feriado de Natal obteve uma venda média maior no ano de 2014 do que no ano de 2013. O gráfico mostra também que o ano de 2015 não está completo, pois não existem dados referentes ao feriado de Natal em 2015.
+O gráfico acima informa que o feriado de Natal obteve uma venda média maior no ano de 2014 do que no ano de 2013. O gráfico mostra também que o ano de 2015 não está completo, pois não existem dados referentes ao feriado de Natal em 2015.
 
 **Verdict: FALSE**. Lojas abertas durante o feriado de Natal obtém uma venda média MENOR do que as lojas abertas durante o feriado de Páscoa.
 

@@ -399,6 +399,7 @@ Highlights:
 
 <img src="img/h1_g1.jpg" alt="drawing" width="75%"/>
 
+textp
 
 <img src="img/h1_g2.jpg" alt="drawing" width="50%"/>
 

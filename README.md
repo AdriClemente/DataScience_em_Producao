@@ -441,3 +441,8 @@ O gráfico acima informa que o feriado de Natal obteve uma venda média maior no
 
 **Verdict: FALSE**. Lojas abertas durante o feriado de Natal obtém uma venda média MENOR do que as lojas abertas durante o feriado de Páscoa.
 
+- **H7. Lojas deveriam vender mais ao longo dos anos.**
+<img src="img/h7_g1.jpg" alt="drawing" width="75%"/>
+**Verdict: True**. Lojas vendem MAIS ao longo dos anos, lembrando que o ano de 2015 não está completo.
+
+

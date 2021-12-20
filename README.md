@@ -530,6 +530,8 @@ Outro problema que devemos tratar é com relação à variação dos valores (ra
    Rescaling funciona muito bem para as variáveis que não possuem uma distribuição Gaussiana, ou seja, que não possuem uma distribuição normal. Reescala para o intervalo entre 0 e 1. 
 
     -	**Min-Max Scaler**
+   <img src="img/min_max_scaler.jpg" alt="drawing" width="25%"/>
+   
   Necessitamos saber qual o volume de dados NA (não aplicável) ou vazio no conjunto de dados.
   Dependendo da quantidade de dados NA, podemos tomar duas decisões?
   

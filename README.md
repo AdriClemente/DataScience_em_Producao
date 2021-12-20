@@ -508,4 +508,6 @@ Outro problema que devemos tratar é com relação à variação dos valores (ra
 - **i. Normalização**
 <img src="img/normalizacao.jpg" alt="drawing" width="25%"/>
 
-          _Cramér's V is computed by taking the square root of the chi-squared statistic divided by the sample size and the minimum dimension minus 1_:
+ Temos as seguintes distribuições no conjunto de dados:
+ <img src="img/numerical_variables.jpg" alt="drawing" width="100%"/>
+ 

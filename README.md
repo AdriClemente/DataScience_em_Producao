@@ -587,5 +587,10 @@ se o valor da variável `promo_interval` for igual à 0, atribui o valor 0 na va
 
           <img src="img/natureza_ciclica.jpg" alt="drawing" width="100%"/>
 
+          Na ilustração acima temos:
+  	         -	Janeiro: seno = 1 e coseno = 0
+  	         -	Fevereiro: seno = 0,92 e coseno = 0,4. 
+
+          Cada variável será transformada em duas variáveis: variável_seno e variável_coseno, que combinadas representam a sua natureza cíclica da variável.
 
 

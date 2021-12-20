@@ -536,30 +536,6 @@ Outro problema que devemos tratar é com relação à variação dos valores (ra
 
           A técnica Min-Max Scaler é muito sensível à Outliers, pois considera em sua fórmula o valor máximo (x max). Se tivermos Outliers na coluna, o valor de x max vai ser muito grande e quando dividimos um valor por outro valor muito grande, o resultado é um valor muito pequeno. Então, quando temos Outliers na coluna e aplicamos o Min-Max Scaler esta transformação tende a colocar todos os dados originais muito próximos do zero na nova escala. Temos uma concentração dos valores originais perto do zero, perdendo o formato da distribuição original.
 
-   Foi utilizado Min-Max Scaler nas variáveis `promo_time_week` e `year` por não possuírem Outliers relevantes.
+          Foi utilizado Min-Max Scaler nas variáveis `promo_time_week` e `year` por não possuírem Outliers relevantes.
 
 
-
-### d. Quantidade de Dados Faltantes
--	**Qual o volume de dados NA?**
-  Necessitamos saber qual o volume de dados NA (não aplicável) ou vazio no conjunto de dados.
-  Dependendo da quantidade de dados NA, podemos tomar duas decisões?
-  
-    -	Não fazer o projeto porque não temos dados suficiente.
-    	
-    -	Continuar com o projeto:
-        -	Descartar as linhas que possuírem dados vazios.
-  	         -	**Vantagem**: é rápido.
-
-
-
-### c. Os Tipos de Análise Exploratória de Dados
--	**i. Análise Univariada**: Se importa unicamente com a variável. Como é esta variável? (Min, Max, Distribuição, Range, etc..). Quais são os valores mínimo, máximos, distribuição, etc.. Estuda como é esta variável e como esta variável se comporta.
-
--	**ii. Análise Bivariada**: Analisamos o impacto de uma única variável em relação à variável resposta. Como a variável impacta a resposta? (Correlação, Validação de Hipóteses, etc..).
-
--	**iii. Análise Multivariada**: Analisamos o impacto de mais de uma variável em relação à variável resposta e também o impacto entre as variáveis. Como as variáveis se relacionam? (Qual a correlação entre elas?). Exemplo: temos o impacto de uma única variável em relação à variável resposta, porém quando esta variável se junta com outra variável, o impacto dobra.
-
-     Os algoritmos de Machine Learning seguem algumas premissas. Uma dessas premissas é a teoria de Occan’s Razor ou Navalha de Occan. Ela é uma teoria que garante o aprendizado dos modelos. A teoria da Navalha de Occan diz que se tivermos vários modelos para escolher, temos que escolher sempre o modelo de menor complexidade, porque ele generaliza melhor o aprendizado.
-
-    Existem várias formas de tornar o algoritmo mais complexo, uma delas é a dimensionalidade do seu Dataset. Podemos entender dimensionalidade como o número de colunas do Dataset. Quanto maior o número de colunas, maior é a dimensionalidade e mais complexo é o seu modelo.

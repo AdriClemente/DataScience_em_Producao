@@ -593,6 +593,6 @@ se o valor da variável `promo_interval` for igual à 0, atribui o valor 0 na va
 	  
         - Fevereiro: seno = 0,92 e coseno = 0,4. 
 
-         Cada variável será transformada em duas variáveis: variável_seno e variável_coseno, que combinadas representam a sua natureza cíclica da variável.
+         **Cada variável será transformada em duas variáveis: variável_seno e variável_coseno**, que combinadas representam a sua natureza cíclica da variável.
 
          Foi utilizada a transformação de natureza cíclica nas variáveis `month`, `day`, `week_of_year` e `day_of_week`.

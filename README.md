@@ -492,6 +492,8 @@ Temos uma correlação forte entre as variáveis `sales` e `customers` de 0,89, 
 
 Existe uma correlação moderada entre as variáveis `store_type` e `assortment`.
 
+---
+
 ## 06. Data Preprocessing
 ### a. O Objetivo da Preparação dos Dados
 

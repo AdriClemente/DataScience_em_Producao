@@ -475,17 +475,18 @@ O gráfico acima mostra a soma das vendas para os dias que são feriados escolar
 ### f. Análise Multivariada
 
 - **i. Numerical Attributes**
-<img src="img/multi_numerical.jpg" alt="drawing" width="100%"/>
 
-Na matriz acima, quanto mais escura for a cor, maior é a correlação negativa e quanto mais clara for a cor, maior é a correlação positiva.
-Esta matriz é simétrica, isto é, se dividirmos a matriz com uma diagonal, a parte de baixo é o espelho da parte de cima. 
-A correlação entre a mesma variável possui o valor 1 e está representada na diagonal da matriz.
-Quando observamos a correlação da variável `sales`, verificamos uma correlação forte com a variável `day_of_week` de -0,46.
-Temos uma correlação forte entre as variáveis `sales` e `customers` de 0,89, porém não conseguiremos utilizar a variável `customers`, pois necessitamos obter a quantidade de `customers` que estarão na loja nas próximas seis semanas, porém não possuímos esta previsão. Uma alternativa seria realizar um projeto de previsão de `customers` ao longo das próximas seis semanas e incorporar neste projeto. 
+   <img src="img/multi_numerical.jpg" alt="drawing" width="100%"/>
 
-**Correlações negativa forte**: `sales` x `day_of_week`, `open` x `day_of_week`, `promo` x `day_of_week`, `school_holiday` x `day_of_week`, `promo2_since_year` x `promo2`, `is_promo` x `promo2_since_year`.
+   Na matriz acima, quanto mais escura for a cor, maior é a correlação negativa e quanto mais clara for a cor, maior é a correlação positiva.
+   Esta matriz é simétrica, isto é, se dividirmos a matriz com uma diagonal, a parte de baixo é o espelho da parte de cima. 
+   A correlação entre a mesma variável possui o valor 1 e está representada na diagonal da matriz.
+   Quando observamos a correlação da variável `sales`, verificamos uma correlação forte com a variável `day_of_week` de -0,46.
+   Temos uma correlação forte entre as variáveis `sales` e `customers` de 0,89, porém não conseguiremos utilizar a variável `customers`, pois necessitamos obter a quantidade de `customers` que estarão na loja nas próximas seis semanas, porém não possuímos esta previsão. Uma alternativa seria realizar um projeto de previsão de `customers` ao longo das próximas seis semanas e incorporar neste projeto. 
 
-**Correlação positiva forte**: `is_promo` x `promo2`, `sales` x `open`, `sales` x `promo`, `sales` x `customers`, `open` x `customers`, `promo` x `customers`, `promo` x `open`.
+   **Correlações negativa forte**: `sales` x `day_of_week`, `open` x `day_of_week`, `promo` x `day_of_week`, `school_holiday` x `day_of_week`, `promo2_since_year` x `promo2`, `is_promo` x `promo2_since_year`.
+
+   **Correlação positiva forte**: `is_promo` x `promo2`, `sales` x `open`, `sales` x `promo`, `sales` x `customers`, `open` x `customers`, `promo` x `customers`, `promo` x `open`.
 
 - **ii. Categorical Attributes**
 

@@ -516,4 +516,9 @@ Temos as seguintes distribuições no conjunto de dados:
 Não existe nenhuma variável com característica de distribuição normal, portanto não foi executada a normalização para nenhuma das variáveis do conjunto de dados.
 
 - **ii. Rescaling:**
-    -	Lojas de MAIOR Porte deveriam Vender MAIS.
+
+ Rescaling funciona muito bem para as variáveis que não possuem uma distribuição Gaussiana, ou seja, que não possuem uma distribuição normal. Reescala para o intervalo entre 0 e 1.
+
+
+
+    -	**Min-Max Scaler**

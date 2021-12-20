@@ -577,7 +577,9 @@ se o valor da variável `promo_interval` for igual à 0, atribui o valor 0 na va
 
           Foi utilizada a transformação logarítmica na variável resposta `sales`.
 
-    -	**Transformação de Natureza Cíclica**: Alguns dados relacionados ao tempo, como por exemplo a variável meses é uma variável cíclica, pois dentro de cada ano temos o mesmo conjunto de meses que varia de 1 até 12. Portanto, temos uma natureza cíclica. Porém, considerando estes valores, o mês de dezembro (12) parece estar muito longe do mês de janeiro (1) do ano seguinte, mas na realidade não está. A distância do mês de dezembro para o mês de janeiro do ano seguinte, é a mesma distância do mês de janeiro para fevereiro.
+    -	**Transformação de Natureza Cíclica**: Alguns dados relacionados ao tempo, como por exemplo a variável meses é uma variável cíclica, pois dentro de cada ano temos o mesmo conjunto de meses que varia de 1 até 12. Portanto, temos uma natureza cíclica.
+    
+          Porém, considerando estes valores, o mês de dezembro (12) parece estar muito longe do mês de janeiro (1) do ano seguinte, mas na realidade não está. A distância do mês de dezembro para o mês de janeiro do ano seguinte, é a mesma distância do mês de janeiro para fevereiro.
 
           Existe uma forma de transformar esta variação de 1 até 12 de uma forma que ela fique cíclica e então o modelo entenderá esta natureza cíclica e os intervalos entre os meses.
 	  

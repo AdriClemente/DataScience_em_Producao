@@ -517,8 +517,6 @@ Não existe nenhuma variável com característica de distribuição normal, port
 
 - **ii. Rescaling:**
 
- Rescaling funciona muito bem para as variáveis que não possuem uma distribuição Gaussiana, ou seja, que não possuem uma distribuição normal. Reescala para o intervalo entre 0 e 1.
+ Rescaling funciona muito bem para as variáveis que não possuem uma distribuição Gaussiana, ou seja, que não possuem uma distribuição normal. Reescala para o intervalo entre 0 e 1. 
 
-
-
-    -	1. **Min-Max Scaler**
+-	1. **Min-Max Scaler**

@@ -506,4 +506,4 @@ Outro problema que devemos tratar é com relação à variação dos valores (ra
 - **i. Normalização**
 <img src="img/normalizacao.jpg" alt="drawing" width="25%"/>
 
-<img src="img/normalizacao.jpg"/>
+https://www.kaggle.com/discdiver/guide-to-scaling-and-standardizing

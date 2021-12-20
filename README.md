@@ -521,4 +521,4 @@ Não existe nenhuma variável com característica de distribuição normal, port
 
 
 
-    -	**Min-Max Scaler**
+    -	1. **Min-Max Scaler**

@@ -531,9 +531,10 @@ Outro problema que devemos tratar é com relação à variação dos valores (ra
    Rescaling funciona muito bem para as variáveis que não possuem uma distribuição Gaussiana, ou seja, que não possuem uma distribuição normal. Reescala para o intervalo entre 0 e 1. 
 
     -	**Min-Max Scaler**
-   <img src="img/min_max_scaler.jpg" alt="drawing" width="25%"/>
-   
-  A técnica Min-Max Scaler é muito sensível à Outliers, pois considera em sua fórmula o valor máximo (x max). Se tivermos Outliers na coluna, o valor de x max vai ser muito grande e quando dividimos um valor por outro valor muito grande, o resultado é um valor muito pequeno. Então, quando temos Outliers na coluna e aplicamos o Min-Max Scaler esta transformação tende a colocar todos os dados originais muito próximos do zero na nova escala. Temos uma concentração dos valores originais perto do zero, perdendo o formato da distribuição original.
+
+          <img src="img/min_max_scaler.jpg" alt="drawing" width="25%"/>
+
+          A técnica Min-Max Scaler é muito sensível à Outliers, pois considera em sua fórmula o valor máximo (x max). Se tivermos Outliers na coluna, o valor de x max vai ser muito grande e quando dividimos um valor por outro valor muito grande, o resultado é um valor muito pequeno. Então, quando temos Outliers na coluna e aplicamos o Min-Max Scaler esta transformação tende a colocar todos os dados originais muito próximos do zero na nova escala. Temos uma concentração dos valores originais perto do zero, perdendo o formato da distribuição original.
 
    Foi utilizado Min-Max Scaler nas variáveis `promo_time_week` e `year` por não possuírem Outliers relevantes.
 

@@ -513,4 +513,4 @@ A normalização reescala o centro para 0 com desvio-padrão igual à 1. **Funci
 Temos as seguintes distribuições no conjunto de dados:
 <img src="img/numerical_variables.jpg" alt="drawing" width="100%"/>
  
-Notamos que não existe nenhuma variável com característica de distribuição normal, portanto não foi executada a normalização para nenhuma das variáveis do conjunto de dados.
+Não existe nenhuma variável com característica de distribuição normal, portanto não foi executada a normalização para nenhuma das variáveis do conjunto de dados.

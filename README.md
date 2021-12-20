@@ -431,35 +431,40 @@ Podemos observar no gráfico acima que a venda média do tipo de assortment=extr
 - **H5. Lojas com mais promoções consecutivas deveriam vender mais.**
 <img src="img/h5_g1.jpg" alt="drawing" width="75%"/>
 
-**Verdict: FALSE**. No gráfico acima observamos que as lojas que participaram da promoção consecutiva, isto é, (tradicional + estendida) possuem um volume de vendas menor do que as lojas que apenas participaram da promoção tradicional.
+   **VERDICT: FALSE**. No gráfico acima observamos que as lojas que participaram da promoção consecutiva, isto é, (tradicional + estendida) possuem um volume de vendas menor do que as lojas que apenas participaram da promoção tradicional.
 
 - **H6. Lojas abertas durante o feriado de Natal deveriam vender mais.**
-<img src="img/h6_g1.jpg" alt="drawing" width="75%"/>
-<img src="img/h6_g2.jpg" alt="drawing" width="75%"/>
 
-O gráfico acima informa que o feriado de Natal obteve uma venda média maior no ano de 2014 do que no ano de 2013. O gráfico mostra também que o ano de 2015 não está completo, pois não existem dados referentes ao feriado de Natal em 2015.
+   <img src="img/h6_g1.jpg" alt="drawing" width="75%"/>
+   <img src="img/h6_g2.jpg" alt="drawing" width="75%"/>
 
-**Verdict: FALSE**. Lojas abertas durante o feriado de Natal obtém uma venda média MENOR do que as lojas abertas durante o feriado de Páscoa.
+   O gráfico acima informa que o feriado de Natal obteve uma venda média maior no ano de 2014 do que no ano de 2013. O gráfico mostra também que o ano de 2015 não está completo, pois não existem dados referentes ao feriado de Natal em 2015.
+
+   **VERDICT: FALSE**. Lojas abertas durante o feriado de Natal obtém uma venda média MENOR do que as lojas abertas durante o feriado de Páscoa.
 
 - **H7. Lojas deveriam vender mais ao longo dos anos.**
-<img src="img/h7_g1.jpg" alt="drawing" width="100%"/>
 
-**Verdict: True**. Lojas vendem MAIS ao longo dos anos, lembrando que o ano de 2015 não está completo.
+   <img src="img/h7_g1.jpg" alt="drawing" width="100%"/>
+
+   **VERDICT: TRUE**. Lojas vendem MAIS ao longo dos anos, lembrando que o ano de 2015 não está completo.
 
 - **H8. Lojas deveriam vender mais no segundo semestre do ano.**
-<img src="img/h8_g1.jpg" alt="drawing" width="100%"/>
 
-**Verdict: True**. Lojas obtém uma venda média MAIOR no segundo semestre do ano.
+   <img src="img/h8_g1.jpg" alt="drawing" width="100%"/>
+
+   **VERDICT: TRUE**. Lojas obtém uma venda média MAIOR no segundo semestre do ano.
 
 - **H9. Lojas deveriam vender mais depois do dia 10 de cada mês.**
-<img src="img/h9_g1.jpg" alt="drawing" width="100%"/>
 
-**Verdict: False**. Lojas possuem uma venda média MENOR depois do dia 10 de cada mês.
+   <img src="img/h9_g1.jpg" alt="drawing" width="100%"/>
+
+   **VERDICT: FALSE**. Lojas possuem uma venda média MENOR depois do dia 10 de cada mês.
 
 - **H10. Lojas deveriam vender menos aos finais de semana.**
-<img src="img/h10_g1.jpg" alt="drawing" width="100%"/>
 
-**Verdict: False**. Lojas obtém uma venda média MENOR aos Sábados, porém obtém uma venda média MAIOR aos Domingos.
+   <img src="img/h10_g1.jpg" alt="drawing" width="100%"/>
+
+   **VERDICT: FALSE**. Lojas obtém uma venda média MENOR aos Sábados, porém obtém uma venda média MAIOR aos Domingos.
 
 - **H11. Lojas deveriam vender menos durante os feriados escolares.**
 

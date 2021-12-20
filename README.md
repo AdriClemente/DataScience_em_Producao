@@ -546,3 +546,9 @@ Outro problema que devemos tratar é com relação à variação dos valores (ra
           **A técnica de rescaling Robust Scaler diminui a sensibilidade aos Outliers**, considerando em sua fórmula a diferença entre quartis, em vez de considerar o valor máximo como ocorre na técnica Min-Max Scaler.
 
           Foi utilizado Rescaling Robust Scaler nas variáveis `competition_distance` e `competition_time_month`, por possuírem Outliers relevantes.
+
+- **iii. Transformação:**
+
+    -	**Encoding**: Converte as Features categóricas para numéricas.
+
+

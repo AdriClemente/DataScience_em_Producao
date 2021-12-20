@@ -503,8 +503,7 @@ A maioria dos algoritmos de Machine Learning foram criados seguindo alguns crit�
 Outro problema que devemos tratar é com relação à variação dos valores (range) das variáveis numéricas. Alguns algoritmos de Machine Learning tendem à dar uma importância maior para variáveis com maior range. Exemplo: variável_A possui um range de 0 até 10, e a variável_B possui um range de 0 até 10.000. Neste caso, o algoritmo de Machine Learning dará uma importância maior para a variável_B que possui um range maior que a variável_A. Isto ocorre, devido à matemática utilizada nos modelos, por exemplo, as redes neurais, utilizam um método de otimização chamado Gradiente Descendente. O método Gradiente Descendente trabalha com derivadas parciais e estas derivadas beneficiam as variáveis com maior range. Ele tende a dar uma importância maior para as variáveis que possuem um maior range de valores. Necessitamos trazer todas as variáveis para o mesmo range de valores para que o aprendizado de máquina dê a mesma importância para todas as variáveis.
 
 ### b. Tipos de Preparação dos Dados
-<img src="img/preparacao_dados_tabela.jpg" alt="drawing" width="100%"/>
-https://www.kaggle.com/discdiver/guide-to-scaling-and-standardizing<br />
+<img src="img/preparacao_dados_tabela.jpg" alt="drawing" width="100%"/> https://www.kaggle.com/discdiver/guide-to-scaling-and-standardizing<br />
 
 - **i. Normalização**
 <img src="img/normalizacao.jpg" alt="drawing" width="25%"/>

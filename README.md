@@ -516,6 +516,7 @@ Outro problema que devemos tratar é com relação à variação dos valores (ra
 <img src="img/preparacao_dados_tabela.jpg" alt="drawing" width="100%"/> https://www.kaggle.com/discdiver/guide-to-scaling-and-standardizing<br />
 
 - **i. Normalização**
+
    <img src="img/normalizacao.jpg" alt="drawing" width="25%"/>
 
    A normalização reescala o centro para 0 com desvio-padrão igual à 1. **Funciona muito bem para as variáveis que possuem uma distribuição Gaussiana, ou seja, que possuem uma distribuição normal**.

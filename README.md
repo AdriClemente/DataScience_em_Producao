@@ -506,3 +506,4 @@ Outro problema que devemos tratar é com relação à variação dos valores (ra
 - **i. Normalização**
 <img src="img/normalizacao.jpg" alt="drawing" width="50%"/>
 
+<img src="img/normalizacao.jpg"/>

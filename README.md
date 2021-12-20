@@ -541,7 +541,7 @@ Outro problema que devemos tratar é com relação à variação dos valores (ra
 
     -	**Robust Scalerr**
 
-          <img src="img/robust_scaler.jpg" alt="drawing" width="25%"/>
+          <img src="img/robust_scaler.jpg" alt="drawing" width="50%"/>
 
           **A técnica de rescaling Robust Scaler diminui a sensibilidade aos Outliers**, considerando em sua fórmula a diferença entre quartis, em vez de considerar o valor máximo como ocorre na técnica Min-Max Scaler.
 

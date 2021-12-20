@@ -575,7 +575,7 @@ se o valor da variável `promo_interval` for igual à 0, atribui o valor 0 na va
 
         - **Logarithm Transformation**: Aplica o log em todos os valores da variável resposta. Transforma distribuições que possuem um skill muito à esquerda ou à direita em mais próximo possível de uma distribuição normal.
 
-          Foi utilizada a transformação logarítmica na variável resposta sales.
+          Foi utilizada a transformação logarítmica na variável resposta `sales`.
 
 
 

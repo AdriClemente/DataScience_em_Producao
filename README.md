@@ -560,10 +560,7 @@ se o valor da variável `promo_interval` for igual à 0, atribui o valor 0 na va
           Foi utilizado One Hot Encoding na variável `state_holiday`.
 
 
-    -	Continuar com o projeto:
-        -	Descartar as linhas que possuírem dados vazios.
-  	         -	**Vantagem**: é rápido.
-  	         -	**Desvantagem**: estamos jogando dado fora. As vezes descartas linhas não é uma boa estratégia, principalmente se temos poucos dados. As vezes apenas uma variável está NA, mas todas as outras variáveis estão completas e estas informações são muito importantes para o algoritmo aprender os padrões. Então, descartar as linhas pode prejudicar a performance do modelo.
-        -	Preencher os dados vazios.
-            -	Quando não temos informação de negócio: utilizando algoritmos de machine learning, utilizando mediana, media, etc...
-            -	Entender o negócio: As vezes o NA está lá porque é uma lógica de negócio, foi definida por uma regra de negócio e soubermos a regra, podemos colocar valores nos NA´s e recuperar os dados.
+        - **Label Encoding**: Label Encoding troca os níveis das variáveis categóricas por valores de maneira aleatória. Não existe uma relação entre os valores numéricos e os níveis das variáveis categóricas.
+  	         -	**Quando utilizar**: Quando temos variáveis categóricas que são apenas nomes, por exemplo, nome de loja. Quando não existe uma relação entre os níveis da variável categórica.
+
+          Foi utilizado Label Encoding na variável `store_type`.

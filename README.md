@@ -302,7 +302,7 @@ Foi removida a variável `month_map` que foi utilizada como uma variável auxili
 ---
 
 ## 05. Análise Exploratória de Dados
-### a. A Motivação da Análise Exploratória de Dados
+### a. O Objetivo da Análise Exploratória de Dados
 **“Como as variáveis impactam o fenômeno?”**
 e
 **“Qual é a força desse impacto?”**.
@@ -491,3 +491,7 @@ Temos uma correlação forte entre as variáveis `sales` e `customers` de 0,89, 
 <img src="img/multi_categorical.jpg" alt="drawing" width="75%"/>
 
 Existe uma correlação moderada entre as variáveis `store_type` e `assortment`.
+
+## 06. Data Preprocessing
+### a. O Objetivo da Preparação dos Dados
+

@@ -389,10 +389,10 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
    <img src="img/categorical_variables.jpg" alt="drawing" width="100%"/>
 
-   Highlights:
-   - state_holiday: there are more sales data points on public holidays than other holidays.
-   - store_type: there are more sales data points for store of type "a", and fewer stores of type "b".
-   - assortment: there are fewer sales data points for stores with assortment of type 'extra' than other assortment types.
+   **Highlights**:
+   - `state_holiday`: there are more sales data points on public holidays than other holidays.
+   - `store_type`: there are more sales data points for store of type "a", and fewer stores of type "b".
+   - `assortment`: there are fewer sales data points for stores with assortment of type 'extra' than other assortment types.
 
 ### e. Análise Bivariada
 

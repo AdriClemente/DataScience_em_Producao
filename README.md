@@ -520,3 +520,16 @@ Não existe nenhuma variável com característica de distribuição normal, port
  Rescaling funciona muito bem para as variáveis que não possuem uma distribuição Gaussiana, ou seja, que não possuem uma distribuição normal. Reescala para o intervalo entre 0 e 1. 
 
 -	1. **Min-Max Scaler**
+
+
+### d. Quantidade de Dados Faltantes
+-	**Qual o volume de dados NA?**
+  Necessitamos saber qual o volume de dados NA (não aplicável) ou vazio no conjunto de dados.
+  Dependendo da quantidade de dados NA, podemos tomar duas decisões?
+  
+    -	Não fazer o projeto porque não temos dados suficiente.
+    	
+    -	Continuar com o projeto:
+        -	Descartar as linhas que possuírem dados vazios.
+  	         -	**Vantagem**: é rápido.
+

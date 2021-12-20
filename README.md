@@ -564,3 +564,9 @@ se o valor da variável `promo_interval` for igual à 0, atribui o valor 0 na va
   	         -	**Quando utilizar**: Quando temos variáveis categóricas que são apenas nomes, por exemplo, nome de loja. Quando não existe uma relação entre os níveis da variável categórica.
 
           Foi utilizado Label Encoding na variável `store_type`.
+
+
+        - **Ordinal Encoding**: Ordinal Encoding troca os níveis das variáveis categóricas por valores respeitando uma ordem.
+  	         -	**Quando utilizar**: Quando os níveis (valores) de uma variável categórica possuem uma ordem, possuem uma hierarquia do que é maior e menor. Por exemplo: a temperatura é uma variável categórica que possui uma ordem nos seus níveis (valores). Altura (alto, médio, baixo) é outro exemplo de uma variável categórica que possui uma ordem em seus níveis (valores).
+
+          Foi utilizado Ordinal Encoding na variável `assortment`.

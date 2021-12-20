@@ -514,3 +514,6 @@ Temos as seguintes distribuições no conjunto de dados:
 <img src="img/numerical_variables.jpg" alt="drawing" width="100%"/>
  
 Não existe nenhuma variável com característica de distribuição normal, portanto não foi executada a normalização para nenhuma das variáveis do conjunto de dados.
+
+- **ii. Rescaling:**
+    -	Lojas de MAIOR Porte deveriam Vender MAIS.

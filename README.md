@@ -553,9 +553,8 @@ Outro problema que devemos tratar é com relação à variação dos valores (ra
 
         - **One Hot Encoding**: One Hot Encoding cria uma coluna para cada valor (nível) da variável categórica.
   	         -	**Benefício**: simples de aplicar.
-  	         -	**Desvantagem**: estamos jogando dado fora. As vezes descartas linhas não é uma boa estratégia, principalmente se temos poucos dados. As vezes apenas uma variável está NA, mas todas as outras variáveis estão completas e estas informações são muito importantes para o algoritmo aprender os padrões. Então, descartar as linhas pode prejudicar a performance do modelo.
-        
-        Desvantagens: Cria muitas novas colunas no Dataset, aumentando a dimensionalidade do Dataset, podendo prejudicar o aprendizado do modelo, tornando-o “OverFitting”.
+  	         -	**Desvantagens: Cria muitas novas colunas no Dataset, aumentando a dimensionalidade do Dataset, podendo prejudicar o aprendizado do modelo, tornando-o “OverFitting”.
+
         Quando utilizar: Quando uma variável categórica possui a ideia de estado, por exemplo, feriado. No feriado, vivemos um estado de dias regulares e depois entramos em um estado de feriado. Estes dois estados têm comportamento muito diferentes, as pessoas agem de um jeito em dias normais e agem de outro jeito em feriados.   
 se o valor da variável `promo_interval` for igual à 0, atribui o valor 0 na variável `is_promo`, significando que a loja não está participando da promoção.
 

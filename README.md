@@ -377,59 +377,61 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 ### d. Análise Univariada
 - **i. Response Variable**: Exibe a distribuição da variável sales.
 
-<img src="img/response_variable.jpg" alt="drawing" width="50%"/>
+   <img src="img/response_variable.jpg" alt="drawing" width="50%"/>
 
-O gráfico acima mostra uma distribuição com uma skew positiva (cauda da distribuição para o lado direito). A maioria dos algoritmos de Machine Learning são criados baseados em premissas, onde uma destas premissas é que os dados tenham uma distribuição normal. Então quanto mais normal for a distribuição da variável resposta, melhor o algoritmo vai performar.
+   O gráfico acima mostra uma distribuição com uma skew positiva (cauda da distribuição para o lado direito). A maioria dos algoritmos de Machine Learning são criados baseados em premissas, onde uma destas premissas é que os dados tenham uma distribuição normal. Então quanto mais normal for a distribuição da variável resposta, melhor o algoritmo vai performar.
 
 - **ii. Numerical Variable**
 
-<img src="img/numerical_variables.jpg" alt="drawing" width="100%"/>
+   <img src="img/numerical_variables.jpg" alt="drawing" width="100%"/>
 
 - **iii. Categorical Variable**
 
-<img src="img/categorical_variables.jpg" alt="drawing" width="100%"/>
+   <img src="img/categorical_variables.jpg" alt="drawing" width="100%"/>
 
-Highlights:
-- state_holiday: there are more sales data points on public holidays than other holidays.
-- store_type: there are more sales data points for store of type "a", and fewer stores of type "b".
-- assortment: there are fewer sales data points for stores with assortment of type 'extra' than other assortment types.
+   Highlights:
+   - state_holiday: there are more sales data points on public holidays than other holidays.
+   - store_type: there are more sales data points for store of type "a", and fewer stores of type "b".
+   - assortment: there are fewer sales data points for stores with assortment of type 'extra' than other assortment types.
 
 ### e. Análise Bivariada
 
 - **H1. Lojas com maior sortimento deveriam vender mais.**
 
-<img src="img/h1_g1.jpg" alt="drawing" width="75%"/>
-<img src="img/h1_g2.jpg" alt="drawing" width="75%"/>
+   <img src="img/h1_g1.jpg" alt="drawing" width="75%"/>
+   <img src="img/h1_g2.jpg" alt="drawing" width="75%"/>
 
-Podemos observar no gráfico acima que a venda média do tipo de assortment=extra vem aumentando mais ao longo do tempo do que os outros dois tipos de assortment. 
+   Podemos observar no gráfico acima que a venda média do tipo de assortment=extra vem aumentando mais ao longo do tempo do que os outros dois tipos de assortment. 
 
-**Verdict: FALSE**. Lojas com maior sortimento (assortment = extended) possuem uma venda média MENOR do que as lojas com o sortimento (assortment=extra). 
+   **VERDICT: FALSE**. Lojas com maior sortimento (assortment = extended) possuem uma venda média MENOR do que as lojas com o sortimento (assortment=extra). 
 
 - **H2. Lojas com competidores mais próximos deveriam vender menos.**
 
-<img src="img/h2_g1.jpg" alt="drawing" width="75%"/>
-<img src="img/h2_g2.jpg" alt="drawing" width="75%"/>
-<img src="img/h2_g3.jpg" alt="drawing" width="75%"/>
+   <img src="img/h2_g1.jpg" alt="drawing" width="75%"/>
+   <img src="img/h2_g2.jpg" alt="drawing" width="75%"/>
+   <img src="img/h2_g3.jpg" alt="drawing" width="75%"/>
 
-   **Verdict: FALSE**. As lojas com COMPETIDORES MAIS PRÓXIMOS vendem na MÉDIA.
+   **VERDICT: FALSE**. As lojas com COMPETIDORES MAIS PRÓXIMOS vendem na MÉDIA.
 
 - **H3. Lojas com competidores à mais tempo deveriam vender mais.**
 
-<img src="img/h3_g1.jpg" alt="drawing" width="75%"/>
-<img src="img/h3_g2.jpg" alt="drawing" width="75%"/>
-<img src="img/h3_g3.jpg" alt="drawing" width="75%"/>
-<img src="img/h3_g4.jpg" alt="drawing" width="75%"/>
-<img src="img/h3_g5.jpg" alt="drawing" width="75%"/>
+   <img src="img/h3_g1.jpg" alt="drawing" width="75%"/>
+   <img src="img/h3_g2.jpg" alt="drawing" width="75%"/>
+   <img src="img/h3_g3.jpg" alt="drawing" width="75%"/>
+   <img src="img/h3_g4.jpg" alt="drawing" width="75%"/>
+   <img src="img/h3_g5.jpg" alt="drawing" width="75%"/>
 
-**Verdict: FALSE**. Lojas com COMPETIDORES À MAIS TEMPO vendem na MÉDIA.
+   **VERDICT: FALSE**. Lojas com COMPETIDORES À MAIS TEMPO vendem na MÉDIA.
 
 - **H4. Lojas com promoções ativas por mais tempo deveriam vender mais.**
-<img src="img/h4_g1.jpg" alt="drawing" width="100%"/>
 
-**Verdict: FALSE**. Lojas com promoções ativas por mais tempo vendem MENOS depois de um certo período de promoção.
+   <img src="img/h4_g1.jpg" alt="drawing" width="100%"/>
+
+   **VERDICT: FALSE**. Lojas com promoções ativas por mais tempo vendem MENOS depois de um certo período de promoção.
 
 - **H5. Lojas com mais promoções consecutivas deveriam vender mais.**
-<img src="img/h5_g1.jpg" alt="drawing" width="75%"/>
+
+   <img src="img/h5_g1.jpg" alt="drawing" width="75%"/>
 
    **VERDICT: FALSE**. No gráfico acima observamos que as lojas que participaram da promoção consecutiva, isto é, (tradicional + estendida) possuem um volume de vendas menor do que as lojas que apenas participaram da promoção tradicional.
 

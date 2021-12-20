@@ -585,7 +585,7 @@ se o valor da variável `promo_interval` for igual à 0, atribui o valor 0 na va
 	  
           Utilizamos um círculo trigonométrico, calculando as medidas de seno e coseno para cada um dos meses, conforme ilustrado na figura abaixo:
 
-
+          <img src="img/natureza_ciclica.jpg" alt="drawing" width="50%"/>
 
 
 

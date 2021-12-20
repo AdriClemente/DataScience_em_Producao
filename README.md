@@ -497,4 +497,5 @@ Existe uma correlação moderada entre as variáveis `store_type` e `assortment`
 ## 06. Data Preprocessing
 ### a. O Objetivo da Preparação dos Dados
 _“O aprendizado da maioria dos algoritmos de Machine Learning é facilitado com dados numéricos, na mesma escala”_.
+
 A maioria dos algoritmos de Machine Learning foram criados seguindo alguns critérios e um desses critérios era que as variáveis fossem numéricas. O motivo disto é que os algoritmos de Machine Learning trabalham com métodos de otimização. Estes métodos de otimização encontram os melhores parâmetros para o seu conjunto de dados, utilizando em muitas vezes, cálculos com derivadas. As derivadas como outros tipos de cálculos 

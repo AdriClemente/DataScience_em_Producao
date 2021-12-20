@@ -533,3 +533,15 @@ Não existe nenhuma variável com característica de distribuição normal, port
         -	Descartar as linhas que possuírem dados vazios.
   	         -	**Vantagem**: é rápido.
 
+
+
+### c. Os Tipos de Análise Exploratória de Dados
+-	**i. Análise Univariada**: Se importa unicamente com a variável. Como é esta variável? (Min, Max, Distribuição, Range, etc..). Quais são os valores mínimo, máximos, distribuição, etc.. Estuda como é esta variável e como esta variável se comporta.
+
+-	**ii. Análise Bivariada**: Analisamos o impacto de uma única variável em relação à variável resposta. Como a variável impacta a resposta? (Correlação, Validação de Hipóteses, etc..).
+
+-	**iii. Análise Multivariada**: Analisamos o impacto de mais de uma variável em relação à variável resposta e também o impacto entre as variáveis. Como as variáveis se relacionam? (Qual a correlação entre elas?). Exemplo: temos o impacto de uma única variável em relação à variável resposta, porém quando esta variável se junta com outra variável, o impacto dobra.
+
+     Os algoritmos de Machine Learning seguem algumas premissas. Uma dessas premissas é a teoria de Occan’s Razor ou Navalha de Occan. Ela é uma teoria que garante o aprendizado dos modelos. A teoria da Navalha de Occan diz que se tivermos vários modelos para escolher, temos que escolher sempre o modelo de menor complexidade, porque ele generaliza melhor o aprendizado.
+
+    Existem várias formas de tornar o algoritmo mais complexo, uma delas é a dimensionalidade do seu Dataset. Podemos entender dimensionalidade como o número de colunas do Dataset. Quanto maior o número de colunas, maior é a dimensionalidade e mais complexo é o seu modelo.

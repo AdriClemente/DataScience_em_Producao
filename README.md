@@ -539,3 +539,10 @@ Outro problema que devemos tratar é com relação à variação dos valores (ra
           Foi utilizado Min-Max Scaler nas variáveis `promo_time_week` e `year` por não possuírem Outliers relevantes.
 
 
+    -	**Robust Scalerr**
+
+          <img src="img/robust_scaler.jpg" alt="drawing" width="25%"/>
+
+          **A técnica de rescaling Robust Scaler diminui a sensibilidade aos Outliers**, considerando em sua fórmula a diferença entre quartis, em vez de considerar o valor máximo como ocorre na técnica Min-Max Scaler.
+
+          Foi utilizado Rescaling Robust Scaler nas variáveis `competition_distance` e `competition_time_month`, por possuírem Outliers relevantes.

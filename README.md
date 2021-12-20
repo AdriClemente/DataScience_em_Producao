@@ -498,4 +498,10 @@ Existe uma correlação moderada entre as variáveis `store_type` e `assortment`
 ### a. O Objetivo da Preparação dos Dados
 _“O aprendizado da maioria dos algoritmos de Machine Learning é facilitado com dados numéricos, na mesma escala”_.
 
-A maioria dos algoritmos de Machine Learning foram criados seguindo alguns critérios e um desses critérios era que as variáveis fossem numéricas. O motivo disto é que os algoritmos de Machine Learning trabalham com métodos de otimização. Estes métodos de otimização encontram os melhores parâmetros para o seu conjunto de dados, utilizando em muitas vezes, cálculos com derivadas. As derivadas como outros tipos de cálculos 
+A maioria dos algoritmos de Machine Learning foram criados seguindo alguns critérios e um desses critérios era que as variáveis fossem numéricas. O motivo disto é que os algoritmos de Machine Learning trabalham com métodos de otimização. Estes métodos de otimização encontram os melhores parâmetros para o seu conjunto de dados, utilizando em muitas vezes, cálculos com derivadas. As derivadas como outros tipos de cálculos utilizam variáveis numéricas e portanto, não é possível utilizar variáveis categóricas.
+
+Outro problema que devemos tratar é com relação à variação dos valores (range) das variáveis numéricas. Alguns algoritmos de Machine Learning tendem à dar uma importância maior para variáveis com maior range. Exemplo: variável_A possui um range de 0 até 10, e a variável_B possui um range de 0 até 10.000. Neste caso, o algoritmo de Machine Learning dará uma importância maior para a variável_B que possui um range maior que a variável_A. Isto ocorre, devido à matemática aplicada, por exemplo, as redes neurais, utilizam um método de otimização chamado Gradiente Descendente. O método Gradiente Descendente trabalha com derivadas parciais e estas derivadas beneficiam as variáveis com maior range. Ele tende a dar uma importância maior para as variáveis que possuem um maior range de valores. Necessitamos trazer todas as variáveis para o mesmo range de valores para que o aprendizado de máquina dê a mesma importância para todas as variáveis.
+
+
+
+

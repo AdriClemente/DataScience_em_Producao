@@ -584,7 +584,7 @@ se o valor da variável `promo_interval` for igual à 0, atribui o valor 0 na va
           Existe uma forma de transformar esta variação de 1 até 12 de uma forma que ela fique cíclica e então o modelo entenderá esta natureza cíclica e os intervalos entre os meses.
           Utilizamos um círculo trigonométrico, calculando as medidas de seno e coseno para cada um dos meses, conforme ilustrado na figura abaixo:
 
-<img src="img/natureza_ciclica.jpg" alt="drawing" width="50%"/>
+
 
 
 

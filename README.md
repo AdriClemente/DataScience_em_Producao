@@ -504,7 +504,11 @@ Outro problema que devemos tratar é com relação à variação dos valores (ra
 
 ### b. Tipos de Preparação dos Dados
 <img src="img/preparacao_dados_tabela.jpg" alt="drawing" width="100%"/>
-https://www.kaggle.com/discdiver/guide-to-scaling-and-standardizing
+(https://www.kaggle.com/discdiver/guide-to-scaling-and-standardizing) 
+
+
+
+
 '  '   
           
 - **i. Normalização**

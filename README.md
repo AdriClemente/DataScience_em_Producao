@@ -508,12 +508,12 @@ Outro problema que devemos tratar é com relação à variação dos valores (ra
 - **i. Normalização**
 <img src="img/normalizacao.jpg" alt="drawing" width="25%"/>
 
-   A normalização reescala o centro para 0 com desvio-padrão igual à 1. **Funciona muito bem para as variáveis que possuem uma distribuição Gaussiana, ou seja, que possuem uma distribuição normal**.
+A normalização reescala o centro para 0 com desvio-padrão igual à 1. **Funciona muito bem para as variáveis que possuem uma distribuição Gaussiana, ou seja, que possuem uma distribuição normal**.
 
-    Temos as seguintes distribuições no conjunto de dados:
+Temos as seguintes distribuições no conjunto de dados:
 <img src="img/numerical_variables.jpg" alt="drawing" width="100%"/>
  
-    Não existe nenhuma variável com característica de distribuição normal, portanto não foi executada a normalização para nenhuma das variáveis do conjunto de dados.
+Não existe nenhuma variável com característica de distribuição normal, portanto não foi executada a normalização para nenhuma das variáveis do conjunto de dados.
 
 - **ii. Rescaling:**
 

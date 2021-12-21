@@ -618,9 +618,9 @@ Quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de v
    <img src="img/wrapper method.jpg" alt="drawing" width="75%"/>
    
 
-    -	**Transformação de Grandeza**: O objetivo da transformação de grandeza é trazer a distribuição da variável resposta o mais próximo possível de uma distribuição normal.
+    -	a. No conjunto de dados original seleciona aleatoriamente uma variável, mais a variável resposta.
 
-   a.	No conjunto de dados original seleciona aleatoriamente uma variável, mais a variável resposta.
+   a.	
    
    b.	Utiliza-se um algoritmo de Machine Learning para treinar o modelo, onde geralmente é utilizado o algoritmo Random Forest.
    

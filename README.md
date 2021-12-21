@@ -612,6 +612,8 @@ Quando explicamos um fenômeno, colhemos variáveis/features para poder explicar
 Porém, pode ocorrer que duas ou mais features expliquem a mesma parte do fenômeno, ou seja, elas carregam o mesmo conteúdo de informação.
 Quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de variáveis colineares. Desta forma, temos que identificar e remover as variáveis colineares.
 
-- **i. Normalização**
+- **i. Seleção por Subset (Wrapper Methods):**
 
-
+   É um processo utilizado para determinar a relevância das variáveis:
+   
+   

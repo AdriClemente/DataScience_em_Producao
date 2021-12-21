@@ -600,7 +600,14 @@ se o valor da variável `promo_interval` for igual à 0, atribui o valor 0 na va
 ---
 
 ## 07. Feature Selection
-### a. O Objetivo da Preparação dos Dados
+### a. O Objetivo da Feature Selection
 _“A explicação mais simples sobre um fenômeno observado, deveria prevalecer sobre explicações mais complexas.” (Occam’s Razor – Navalha de Occam).”_
 
+O princípio de Occam diz que se temos dois modelos que representam o mesmo fenômeno, dê preferência para aquele que é mais simples, pois provavelmente ele generaliza melhor, ele descreve a maior quantidade de situações existentes.
+
+Para tornar mais simples a aprendizagem em Machine Learning, necessitamos utilizar modelos mais simples, isto é, modelos que possuem um número menor de variáveis.
+A simplicidade do conjunto de dados está representada pela sua quantidade de colunas.
+Quando explicamos um fenômeno, colhemos variáveis/features para poder explicar este fenômeno, onde cada feature explica um pedaço deste fenômeno.
+Porém, pode ocorrer que duas ou mais features expliquem a mesma parte do fenômeno, ou seja, elas carregam o mesmo conteúdo de informação.
+Portanto, quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de variáveis colineares.
 

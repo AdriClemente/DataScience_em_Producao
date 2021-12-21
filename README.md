@@ -615,5 +615,4 @@ Quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de v
 - **i. Seleção por Subset (Wrapper Methods):**
 
    É um processo utilizado para determinar a relevância das variáveis:
-   
-   
+   <img src="img/wrapper method.jpg" alt="drawing" width="75%"/>

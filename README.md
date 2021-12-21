@@ -605,9 +605,13 @@ _“A explicação mais simples sobre um fenômeno observado, deveria prevalecer
 
 O princípio de Occam diz que se temos dois modelos que representam o mesmo fenômeno, dê preferência para aquele que é mais simples, pois provavelmente ele generaliza melhor, ele descreve a maior quantidade de situações existentes.
 
+### b. Removendo as Variáveis Colineares
 Para tornar mais simples a aprendizagem em Machine Learning, necessitamos utilizar modelos mais simples, isto é, modelos que possuem um número menor de variáveis.
 A simplicidade do conjunto de dados está representada pela sua quantidade de colunas.
 Quando explicamos um fenômeno, colhemos variáveis/features para poder explicar este fenômeno, onde cada feature explica um pedaço deste fenômeno.
 Porém, pode ocorrer que duas ou mais features expliquem a mesma parte do fenômeno, ou seja, elas carregam o mesmo conteúdo de informação.
-Portanto, quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de variáveis colineares.
+Quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de variáveis colineares. Desta forma, temos que identificar e remover as variáveis colineares.
+
+- **i. Normalização**
+
 

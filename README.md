@@ -629,9 +629,9 @@ Quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de v
    
    **f**. Executa o algoritmo de Machine Learning para treinar o modelo e compara a performance com a iteração anterior.
    
-           - I.	Caso a performance tenha melhorado, mantemos a variável que foi incluído por último. Isto significa que a variável que foi adicionada por último possui alguma informação sobre o fenômeno que está sendo modelado, portanto o modelo conseguiu aprender um pouco mais sobre o fenômeno utilizando esta nova variável.
+    I.	Caso a performance tenha melhorado, mantemos a variável que foi incluído por último. Isto significa que a variável que foi adicionada por último possui alguma informação sobre o fenômeno que está sendo modelado, portanto o modelo conseguiu aprender um pouco mais sobre o fenômeno utilizando esta nova variável.
    
-           - II.	Caso a performance tenha piorado ou se manteve igual, removemos a variável que foi incluído por último.
+    II.	Caso a performance tenha piorado ou se manteve igual, removemos a variável que foi incluído por último.
    
    **g**. Adiciona uma nova variável ao conjunto de dados e repete o processo novamente até utilizar todas as variáveis do conjunto de dados.
    

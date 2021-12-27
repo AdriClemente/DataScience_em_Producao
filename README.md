@@ -643,6 +643,8 @@ Quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de v
    O algoritmo Boruta é utilizado para seleção de variáveis por Subset e funciona da seguinte maneira:
    <img src="img/boruta_method.jpg" alt="drawing" width="100%"/>
 
-   **a**. No conjunto de dados original seleciona aleatoriamente uma variável, mais a variável resposta.
+   **a**. No conjunto de dados original, seleciona duas variáveis aleatoriamente.
    
+   **b**. Cria variáveis Shadow das variáveis originais. Variável Shadow é uma cópia da variável original, porém com as linhas embaralhadas. O objetivo de misturar as linhas é remover a correlação entre as variáveis, porque se fizermos simplesmente uma cópia idêntica da variável, elas serão 100% correlacionadas.
    
+   **c**. Treina o modelo utilizando um algoritmo de Machine Learning, onde geralmente é utilizado o algoritmo Random Forest.

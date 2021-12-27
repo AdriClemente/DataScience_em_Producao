@@ -638,7 +638,9 @@ Quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de v
    **h**. No final do processo teremos um conjunto de dados composto apenas com as variáveis relevantes para o modelo.
 
 
-    -	**Min-Max Scaler**
+    -	**O Método Borutar**
+
+          O algoritmo Boruta é utilizado para seleção de variáveis por subset e funciona da seguinte maneira:
 
         - **One Hot Encoding**: One Hot Encoding cria uma coluna para cada valor (nível) da variável categórica.
   	         -	**Benefício**: simples de aplicar.

@@ -638,11 +638,10 @@ Quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de v
    **h**. No final do processo teremos um conjunto de dados composto apenas com as variáveis relevantes para o modelo.
 
 
-    -	**O Método Boruta**
+- **ii. O Método Boruta**
 
-          O algoritmo Boruta é utilizado para seleção de variáveis por Subset e funciona da seguinte maneira:
-
-          <img src="img/boruta_method.jpg" alt="drawing" width="100%"/>
+   O algoritmo Boruta é utilizado para seleção de variáveis por Subset e funciona da seguinte maneira:
+   <img src="img/boruta_method.jpg" alt="drawing" width="100%"/>
 	  
 	  
         - **One Hot Encoding**: One Hot Encoding cria uma coluna para cada valor (nível) da variável categórica.

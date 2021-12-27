@@ -692,4 +692,4 @@ Uma vez calculado o p-valor das variáveis, constrói a distribuição binomial,
 
    O Boruta considerou a variável `week_of_year_cos` como relevante, porém não considerou a variável `week_of_year_sin` como relevante. Neste caso, considerei também a variável `week_of_year_sin` como relevante.
    
-   
+   Segue abaixo a lista final das variáveis consideradas relevantes:

@@ -681,3 +681,7 @@ Uma vez calculado o p-valor das variáveis, constrói a distribuição binomial,
    As variáveis consideradas relevantes pelo Boruta foram:
    
    <img src="img/boruta_selected.jpg" alt="drawing" width="25%"/>
+
+   As variáveis consideradas não relevantes pelo Boruta foram:
+   
+   <img src="img/boruta_not_selected.jpg" alt="drawing" width="25%"/>

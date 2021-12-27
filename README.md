@@ -648,3 +648,13 @@ Quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de v
    **b**. Cria variáveis Shadow das variáveis originais. Variável Shadow é uma cópia da variável original, porém com as linhas embaralhadas. O objetivo de misturar as linhas é remover a correlação entre as variáveis, porque se fizermos simplesmente uma cópia idêntica da variável, elas serão 100% correlacionadas.
    
    **c**. Treina o modelo utilizando um algoritmo de Machine Learning, onde geralmente é utilizado o algoritmo Random Forest.
+   
+   **d**. Encontra-se o valor de importância para cada uma das variáveis/features, tanto as originais quanto as Shadow.
+
+    -	I.	Verifica qual a variável Shadow é mais importante. No exemplo acima, a variável Shadow S2 possui uma importância 0,4, maior que a variável Shadow S1 que obteve um valor de importância de 0,03.
+
+    -	II.	Compara o valor de importância desta variável Shadow S2 em relação aos valores de importâncias das outras variáveis originais, isto é, V1 com S2, V2 com S2 e assim por diante.
+
+    -	III.	Se a importância da variável original em relação à variável Shadow for maior, atribui o valor 1 (um) em uma tabela “Success Count”.  Se a importância da variável original em relação à variável Shadow for menor, atribui o valor 0 (zero) em uma tabela “Success Count”. No exemplo acima, a variável V1 possui um valor 0,6, maior que a variável S2 com valor de 0,4, portanto atribui-se o valor 1 (um) na tabela. Por sua vez, a variável V2 possui um valor 0,2, é menor que a variável S2 com valor de 0,4, portanto atribui-se o valor 0 (zero) na tabela.
+
+

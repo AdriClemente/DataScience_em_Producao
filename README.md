@@ -672,8 +672,11 @@ Uma vez calculado o p-valor das variáveis, constrói a distribuição binomial,
 
    **i**. No final teremos um conjunto de dados reduzido contendo apenas as variáveis que o algoritmo Boruta considerou relevante para o modelo.
 
-   Mais informações:
+   Os links abaixo contém informações sobre o funcionamento do método Boruta:
    
    https://towardsdatascience.com/boruta-explained-the-way-i-wish-someone-explained-it-to-me-4489d70e154a
    https://medium.com/data-hackers/como-selecionar-melhores-vari%C3%A1veis-para-o-seu-modelo-com-boruta-ef7cbfb3fc35
    https://www.kaggle.com/residentmario/automated-feature-selection-with-boruta
+
+   As variáveis consideradas relevantes pelo Boruta foram:
+

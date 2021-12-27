@@ -688,3 +688,8 @@ Uma vez calculado o p-valor das variáveis, constrói a distribuição binomial,
 
    Devemos verificar na análise exploratória de dados se existe alguma variável que verificamos como relevante que não foi selecionada pelo Boruta. Por exemplo, verificamos na etapa de análise exploratória de dados na hipótese #7 que as lojas vendem mais ao longo dos anos. Porém, o Boruta não considerou a variável `year` como relevante. Cabe ao cientista de dados decidir se inclui ou não estas variáveis. Como sugestão, se temos dúvida se utilizamos ou não alguma variável que o Boruta não considerou, no primeiro ciclo do CRIPS-DM consideramos somente as variáveis sugeridas pelo Boruta e nos próximos ciclos do CRISP-DM, adicionamos as variáveis e verificamos se melhora o desempenho do modelo.
 
+   O Boruta considerou a variável `month_cos` como relevante, porém não considerou a variável `month_sin` como relevante. Neste caso, considerei também a variável `month_sin` como relevante.
+
+   O Boruta considerou a variável `week_of_year_cos` como relevante, porém não considerou a variável `week_of_year_sin` como relevante. Neste caso, considerei também a variável `week_of_year_sin` como relevante.
+   
+   

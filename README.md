@@ -657,4 +657,13 @@ Quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de v
 
     -	III.	Se a importância da variável original em relação à variável Shadow for maior, atribui o valor 1 (um) em uma tabela “Success Count”.  Se a importância da variável original em relação à variável Shadow for menor, atribui o valor 0 (zero) em uma tabela “Success Count”. No exemplo acima, a variável V1 possui um valor 0,6, maior que a variável S2 com valor de 0,4, portanto atribui-se o valor 1 (um) na tabela. Por sua vez, a variável V2 possui um valor 0,2, é menor que a variável S2 com valor de 0,4, portanto atribui-se o valor 0 (zero) na tabela.
 
+   **e**. Mistura novamente as linhas das variáveis Shadow e executa novamente o modelo de Machine Learning.
 
+   **f**. Encontra-se os novos valores de importâncias das variáveis e realiza a comparação destes valores entre as variáveis Shadow e as variáveis originais, atribuindo os valores 0 (zero) e 1 (um) na tabela “Success Count”. 
+   
+   **g**. Podemos então utilizar uma distribuição binomial para calcular o p-valor das variáveis. O p-valor é um conceito da estatística que ajuda a determinar se uma hipótese é verdadeira ou falsa, isto é, se aceitamos ou rejeitamos uma hipótese. Neste caso, ajuda a determinar se a variável é importante para o modelo.
+Uma vez calculado o p-valor das variáveis, constrói a distribuição binomial, setando um valor de limite (threshold) do p-valor:
+
+    -	I.	Se o p-valor da variável for maior que o p-valor limite, confirma a variável como sendo importante.
+
+    -	II.	Se o p-valor da variável for menor que o p-valor limite, rejeita a variável.

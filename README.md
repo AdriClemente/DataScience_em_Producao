@@ -667,3 +667,12 @@ Uma vez calculado o p-valor das variáveis, constrói a distribuição binomial,
     -	I.	Se o p-valor da variável for maior que o p-valor limite, confirma a variável como sendo importante.
 
     -	II.	Se o p-valor da variável for menor que o p-valor limite, rejeita a variável.
+
+   **h**. Realiza este processo para todas as variáveis/features do conjunto de dados.
+
+   **i**. No final teremos um conjunto de dados reduzido contendo apenas as variáveis que o algoritmo Boruta considerou relevante para o modelo.
+
+   Mais informações:
+   https://towardsdatascience.com/boruta-explained-the-way-i-wish-someone-explained-it-to-me-4489d70e154a
+   https://medium.com/data-hackers/como-selecionar-melhores-vari%C3%A1veis-para-o-seu-modelo-com-boruta-ef7cbfb3fc35
+   https://www.kaggle.com/residentmario/automated-feature-selection-with-boruta

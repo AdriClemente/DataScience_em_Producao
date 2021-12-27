@@ -644,3 +644,5 @@ Quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de v
    <img src="img/boruta_method.jpg" alt="drawing" width="100%"/>
 
    **a**. No conjunto de dados original seleciona aleatoriamente uma variável, mais a variável resposta.
+   
+   

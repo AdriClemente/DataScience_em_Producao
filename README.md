@@ -679,4 +679,4 @@ Uma vez calculado o p-valor das variáveis, constrói a distribuição binomial,
    https://www.kaggle.com/residentmario/automated-feature-selection-with-boruta
 
    As variáveis consideradas relevantes pelo Boruta foram:
-
+   <img src="img/boruta_selected.jpg" alt="drawing" width="50%"/>

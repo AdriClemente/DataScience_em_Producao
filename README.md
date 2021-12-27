@@ -640,3 +640,5 @@ Quando duas ou mais variáveis/features explicam a mesma coisa, as chamamos de v
 
     -	**Min-Max Scaler**
 
+        - **One Hot Encoding**: One Hot Encoding cria uma coluna para cada valor (nível) da variável categórica.
+  	         -	**Benefício**: simples de aplicar.

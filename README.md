@@ -882,6 +882,6 @@ _“Como entender o desempenho do modelo e dizer para o CEO o quanto R$ esse mod
 
 ### b. Business Performance
 
-Exibe para cada lojas, o resultado dos erros MAE e MAPE, assim como o pior e melhor cenário de predição de vendas.
+Exibe para cada loja o resultado dos erros MAE e MAPE, assim como o pior e melhor cenário de predição de vendas.
 
 <img src="img/business_performance.jpg" alt="drawing" width="75%"/>

@@ -805,7 +805,7 @@ Fine Tuning é o processo para encontrar o conjunto de valores para os hiper par
 
 - **i. Random Search**
 
-   Define valores para cada um dos hiper parâmetros aleatoriamente.
+   Define valores aleatórios para cada um dos hiper parâmetros.
    
     -	**Vantagens**:
         - É muito rápido em comparação com as outras técnicas.

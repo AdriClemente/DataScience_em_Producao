@@ -748,7 +748,7 @@ Em Machine Learning o objetivo é ensinar o algoritmo a identificar estes padrõ
    
    • subsample=0.7.
 
-   ### c. Model Performance
+   ### c. Models Single Performance
 
    <img src="img/models_performance.jpg" alt="drawing" width="75%"/>
 
@@ -780,7 +780,7 @@ Este processo se repete para as próximas iterações.
 
 Geralmente o conjunto dos dados de validação possui o mesmo tamanho para todas as iterações. Neste projeto, como a previsão de vendas é para as próximas 6 semanas, os dados de validação terão sempre 6 semanas.
 
-Foi criada uma função chamada `cross_validation` que divide os dados de treino e teste para cada iteração do Cross-Validation, considerando 6 semanas para os dados de validação.
+Foi criada uma função chamada `cross_validation` que divide os dados de treino e teste para cada iteração do Cross-Validation, considerando 6 semanas para os dados de validação. Foram realizadas 5 iterações (K=5) para cada modelo.
 
 **Resultados obtidos**:
 

@@ -929,10 +929,12 @@ Exibe abaixo a soma das previsões de venda para todas as lojas, incluindo o mel
 ### d. Machine Learning Performance
 <img src="img/ml_performance.jpg" alt="drawing" width="100%"/>
 
-• Primeiro gráfico - vendas reais e previstas ao longo das seis semanas:
-As sombras representam a variação dos valores reais e previstos para cada loja.
-Isto ocorre pois plotamos os gráficos de todas as vendas para todas as lojas um em cima do outro.
-Portanto, as sombras mostram o valor de venda que varia de uma loja para outra.
+- **Primeiro gráfico** - vendas reais e previstas ao longo das seis semanas: As sombras representam a variação dos valores reais e previstos para cada loja. Isto ocorre pois plotamos os gráficos de todas as vendas para todas as lojas um em cima do outro. Portanto, as sombras mostram o valor de venda que varia de uma loja para outra.
+
+
+- **Qual é a causa raiz?** Dificuldade em determinar o valor do investimento para a reforma de cada loja.
+
+
 
 • Segundo gráfico - Taxa de erro da previsão em relação ao valor real.
 Representa qual a diferença em porcentagem dos valores previstos em relação aos valore reais.

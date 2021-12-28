@@ -415,6 +415,8 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
    **VERDICT: FALSE**. As lojas com COMPETIDORES MAIS PRÓXIMOS vendem na MÉDIA.
 
+<br>
+
 - **H3. Lojas com competidores à mais tempo deveriam vender mais.**
 
    <img src="img/h3_g1.jpg" alt="drawing" width="75%"/>
@@ -425,17 +427,23 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
    **VERDICT: FALSE**. Lojas com COMPETIDORES À MAIS TEMPO vendem na MÉDIA.
 
+<br>
+
 - **H4. Lojas com promoções ativas por mais tempo deveriam vender mais.**
 
    <img src="img/h4_g1.jpg" alt="drawing" width="100%"/>
 
    **VERDICT: FALSE**. Lojas com promoções ativas por mais tempo vendem MENOS depois de um certo período de promoção.
 
+<br>
+
 - **H5. Lojas com mais promoções consecutivas deveriam vender mais.**
 
    <img src="img/h5_g1.jpg" alt="drawing" width="75%"/>
 
    **VERDICT: FALSE**. No gráfico acima observamos que as lojas que participaram da promoção consecutiva, isto é, (tradicional + estendida) possuem um volume de vendas menor do que as lojas que apenas participaram da promoção tradicional.
+
+<br>
 
 - **H6. Lojas abertas durante o feriado de Natal deveriam vender mais.**
 
@@ -446,11 +454,15 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
    **VERDICT: FALSE**. Lojas abertas durante o feriado de Natal obtém uma venda média MENOR do que as lojas abertas durante o feriado de Páscoa.
 
+<br>
+
 - **H7. Lojas deveriam vender mais ao longo dos anos.**
 
    <img src="img/h7_g1.jpg" alt="drawing" width="100%"/>
 
    **VERDICT: TRUE**. Lojas vendem MAIS ao longo dos anos, lembrando que o ano de 2015 não está completo.
+
+<br>
 
 - **H8. Lojas deveriam vender mais no segundo semestre do ano.**
 
@@ -458,17 +470,23 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
    **VERDICT: TRUE**. Lojas obtém uma venda média MAIOR no segundo semestre do ano.
 
+<br>
+
 - **H9. Lojas deveriam vender mais depois do dia 10 de cada mês.**
 
    <img src="img/h9_g1.jpg" alt="drawing" width="100%"/>
 
    **VERDICT: FALSE**. Lojas possuem uma venda média MENOR depois do dia 10 de cada mês.
 
+<br>
+
 - **H10. Lojas deveriam vender menos aos finais de semana.**
 
    <img src="img/h10_g1.jpg" alt="drawing" width="100%"/>
 
    **VERDICT: FALSE**. Lojas obtém uma venda média MENOR aos Sábados, porém obtém uma venda média MAIOR aos Domingos.
+
+<br>
 
 - **H11. Lojas deveriam vender menos durante os feriados escolares.**
 
@@ -481,6 +499,8 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
    O gráfico acima mostra a soma das vendas para os dias que são feriados escolares e para os dias que não são feriados escolares ao longo do ano. Podemos notar que os meses 7 e 8 que são as férias escolares, possuem um aumento no volume de vendas.
 
    **VERDICT: FALSE**. Lojas vendem MAIS durante os feriados escolares.
+
+<br>
 
 ### f. Análise Multivariada
 

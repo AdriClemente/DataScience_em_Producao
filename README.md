@@ -919,3 +919,8 @@ _“Como entender o desempenho do modelo e dizer para o CEO o quanto R$ esse mod
 - **iii. MAPE Error**.
 
    <img src="img/MAPE_error.jpg" alt="drawing" width="100%"/>
+
+   Podemos verificar no gráfico abaixo que a maioria das lojas possui um erro MAPE em torno de 10%.
+   
+   
+   

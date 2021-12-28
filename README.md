@@ -784,4 +784,4 @@ Foi criada uma função chamada `cross_validation` que divide os dados de treino
 
 **Resultados obtidos**:
 
-
+<img src="img/models_cv.jpg" alt="drawing" width="75%"/>

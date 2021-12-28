@@ -827,4 +827,15 @@ Fine Tuning é o processo para encontrar o conjunto de valores para os hiper par
         - Demora muito tempo, pois testa todas as combinações de valores de parâmetros possível. Pode demorar meses para encontrar a melhor combinação de valores.
         - Quanto maior o tempo, maior o custo.
 
+- **iii. Bayesian Search**
+
+   Define os valores para os hiper parâmetros seguindo o teorema de Bayes.
+   O Bayesian Search encontra os valores dos parâmetros baseado no aprendizado do modelo.
+   Na primeira iteração, os valores são escolhidos de maneira aleatória. É realizado o treino e teste utilizando a técnica de Cross Validation e guardado o resultado do erro.
+   Na próxima iteração, é alterado o valor de apenas um dos parâmetros e realizado o treino e teste novamente. Se a acurácia do modelo melhorar, continua alterando o valor deste mesmo parâmetro e mantém os valores dos outros parâmetros.
+   Na próxima iteração se acurácia melhorar, continua alterando o valor deste parâmetro.
+   Se a acurácia piorar, considera o valor anterior do parâmetro quando a acurácia melhorou e altera o valor de outro parâmetro.
+   Repete este processo, trocando os valores dos parâmetros, baseado no aprendizado que foi obtido anteriormente.
+
+
 

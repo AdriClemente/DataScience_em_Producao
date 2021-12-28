@@ -881,7 +881,7 @@ Foram utilizados os seguintes ranges de parâmetor do XGBoost Regressor no Rando
 _“Como entender o desempenho do modelo e dizer para o CEO o quanto R$ esse modelo vai trazer para a empresa?”_.
 
 ### b. Business Performance
-- **i. Random Search**
-Exibe para cada loja o resultado dos erros MAE e MAPE, assim como o pior e melhor cenário de predição de vendas.
 
-<img src="img/business_performance.jpg" alt="drawing" width="75%"/>
+- **i. Exibe para cada loja o resultado dos erros MAE e MAPE, assim como o pior e melhor cenário de predição de vendas**.
+
+   <img src="img/business_performance.jpg" alt="drawing" width="75%"/>

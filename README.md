@@ -938,3 +938,4 @@ O valor á a divisão do valor previsto pelo valor real. Um valor igual à 1 sig
 
 - **Quarto gráfico - Gráfico de resíduo entre os valores preditos em relação ao erro**: Podemos observar que ocorrem erros maiores quando o modelo faz predições entre R$5.000,00 e R$10.000,00.
 
+ 

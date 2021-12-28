@@ -865,7 +865,9 @@ Foram utilizados os seguintes ranges de parâmetor do XGBoost Regressor no Rando
  
  • min_child_weight: [3, 8, 15]
 
-
+<br>
+<br>
+<br>
 
 
                            

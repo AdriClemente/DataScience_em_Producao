@@ -768,3 +768,19 @@ Nos modelos de series temporais (Time Series) devemos respeitar a ordem cronoló
 
 <img src="img/time_series_cross_validation.jpg" alt="drawing" width="75%"/>
    
+Na figura acima, temos a barra “Full Dataset” representando o conjunto de dados de treino.
+
+Na primeira iteração do Cross Validation (K=1), é selecionado os dados do início até certo ponto para os dados de treino e uma outra parte para a validação. Então, é realizado o treinamento e calculada a performance sobre os dados de validação.
+
+Na segunda iteração (K=2), os dados de treinamento irão englobar os dados de treinamento mais os dados de validação utilizados na iteração anterior. É selecionada uma parte subsequente para os dados de validação. Então, é realizado o treinamento e calculada a performance sobre os dados de validação.
+
+Na terceira iteração (K=3), os dados de treinamento irão englobar os dados de treinamento mais os dados de validação utilizados na iteração anterior. É selecionada uma parte subsequente para os dados de validação. Então, é realizado o treinamento e calculada a performance sobre os dados de validação.
+
+Este processo se repete para as próximas iterações.
+
+Geralmente o conjunto dos dados de validação possui o mesmo tamanho para todas as iterações. Neste projeto, como a previsão de vendas é para as próximas 6 semanas, os dados de validação terão sempre 6 semanas.
+Foi criada uma função chamada `cross_validation` que divide os dados de treino e teste para cada iteração do Cross-Validation, considerando 6 semanas para os dados de validação.
+
+**Resultados obtidos**:
+
+

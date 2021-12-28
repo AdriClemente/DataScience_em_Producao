@@ -842,5 +842,8 @@ Fine Tuning é o processo para encontrar o conjunto de valores para os hiper par
    
    Repete este processo, trocando os valores dos parâmetros, baseado no aprendizado que foi obtido anteriormente.
 
+    -	**Vantagens**:
+        - Define os valores para os hiper parâmetros baseado no aprendizado do modelo.
 
-
+    -	**Desvantagens**:
+        - Mais rápido que o Grid Search e mais lento que o Random Search.

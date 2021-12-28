@@ -732,7 +732,9 @@ Em Machine Learning o objetivo é ensinar o algoritmo a identificar estes padrõ
        -	**Encoding**: Converte as Features categóricas para numéricas.
    
    • n_estimators=100.
+   
    • n_jobs=-1.
+   
    • random_state=42.
 
 

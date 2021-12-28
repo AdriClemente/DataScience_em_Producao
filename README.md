@@ -847,3 +847,7 @@ Fine Tuning é o processo para encontrar o conjunto de valores para os hiper par
 
     -	**Desvantagens**:
         - Mais rápido que o Grid Search e mais lento que o Random Search.
+
+
+- **iv. Random Search**
+

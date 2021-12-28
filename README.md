@@ -748,4 +748,7 @@ Em Machine Learning o objetivo é ensinar o algoritmo a identificar estes padrõ
    
    • subsample=0.7.
 
-   
+   ### c. Model Performance
+
+   <img src="img/models_performance.jpg" alt="drawing" width="25%"/>
+

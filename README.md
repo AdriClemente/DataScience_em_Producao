@@ -874,3 +874,8 @@ Foram utilizados os seguintes ranges de parâmetor do XGBoost Regressor no Rando
 **O melhor resultado obtido utilizou os seguintes parâmetros:
 {'n_estimators': 3500, 'eta': 0.03, 'max_depth': 9, 'subsample': 0.7, 'min_child_weight': 8}**
 
+---
+
+## 10. Error Interpretation and Business Performance
+
+

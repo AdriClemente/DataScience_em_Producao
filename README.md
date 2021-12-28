@@ -707,7 +707,6 @@ Em Machine Learning o objetivo é ensinar o algoritmo a identificar estes padrõ
 
 ### b. Modelos de Machine Learning utilizados
 
-
 - **i. Average Model**
 
    O modelo de média prevê a média baseado nos resultados de entrada. Por exemplo: no caso da Rossman, temos a loja número 30. O modelo vai pegar todas as vendas da loja número 30 e calcular a média destas vendas. Sempre que formos predizer qualquer valor futuro para esta loja número 30, o modelo vai considerar este valor de média.
@@ -718,10 +717,15 @@ Em Machine Learning o objetivo é ensinar o algoritmo a identificar estes padrõ
 
 - **ii. Linear Regression**
 
-   Iniciamos a implementação dos modelos iniciando pelos modelos lineares. O motivo disto é o princípio da Navalha de Occam (Occam’s Raizor), isto é, necessitamos dar preferência para os modelos que são mais simples.
+   Iniciamos a implementação dos modelos iniciando pelos modelos lineares. O motivo disto é o princípio da Navalha de Occam (Occam’s Raizor), isto é, **necessitamos dar preferência para os modelos que são mais simples**.
    
    Temos um conjunto de dados que possui um fenômeno. Este fenômeno pode ser muito simples ou muito complexo.  Iniciamos com a utilização de algoritmos lineares pois são algoritmos mais simples. Se os modelos lineares tiverem uma boa performance, podemos assumir que o conjunto de dados possui um comportamento linear. Então neste caso, podemos utilizar modelos mais simples que trazem uma boa performance para ser utilizado como o modelo final. Caso os modelos lineares tenham uma performance muito ruim, significa que o fenômeno que estamos tentando modelar é complexo. Então neste caso, necessitamos utilizar modelos não lineares como por exemplo, as redes neurais, Random Forest, SVM, etc...
 
+- **iii. Linear Regression Regularized**
+
+   O modelo de regressão linear regularizado possui um parâmetro à mais que o modelo de regressão linear. É também chamado de Lasso ou Ridge. Geralmente possui uma performance um pouco melhor que a regressão linear.
+
+- **iv. Linear Regression Regularized**
 
 
 

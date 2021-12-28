@@ -788,3 +788,17 @@ Foi criada uma função chamada `cross_validation` que divide os dados de treino
 
 **Foi considerado o modelo XGBoost Regressor, por pelo fato dele executar o treino mais rápido que o modelo Random Forest Regressor.
 Além disso, o modelo treinado utilizando XGBoost Regressor, consome muito menos memória do servidor que o modelo treinado utilizando Random Forest Regressor. Este fato é importante para a redução dos custos com a infraestrutura utilizada para manter o modelo em produção**.
+
+---
+
+## 09. Hyperparameter Fine Tuning
+### a. O Objetivo do Hyperparameter Fine Tuning
+_“Encontrar o conjunto de parâmetros que maximiza o aprendizado do modelo”_.
+
+Hiper parâmetros no contexto de Machine Learning é o conjunto de parâmetros que um modelo utiliza para poder aprender um comportamento.
+Cada um destes parâmetros assume alguns valores, onde estes valores são limitados dentro de um conjunto de possíveis valores.
+
+Fine Tuning é o processo para encontrar o conjunto de valores para os hiper parâmetros, onde este conjunto de valores têm o objetivo de maximizar o aprendizado do modelo.
+
+
+

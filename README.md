@@ -864,10 +864,14 @@ Foram utilizados os seguintes ranges de parâmetor do XGBoost Regressor no Rando
  • subsample: [0.1, 0.5, 0.7]
  
  • min_child_weight: [3, 8, 15]
- 
-  
-   
-   
+
+
+
+
+
+
+
+
 **Os seguinte resultados foram obtidos**:
 
 <img src="img/hyperparameter.jpg" alt="drawing" width="75%"/>

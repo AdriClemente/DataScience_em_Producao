@@ -877,5 +877,11 @@ Foram utilizados os seguintes ranges de parâmetor do XGBoost Regressor no Rando
 ---
 
 ## 10. Error Interpretation and Business Performance
+### a. O Objetivo do Error Interpretation and Business Performance
+_“Como entender o desempenho do modelo e dizer para o CEO o quanto R$ esse modelo vai trazer para a empresa?”_.
 
+### b. Business Performance
 
+Exibe para cada lojas, o resultado dos erros MAE e MAPE, assim como o pior e melhor cenário de predição de vendas.
+
+<img src="img/business_performance.jpg" alt="drawing" width="75%"/>

@@ -725,7 +725,14 @@ Em Machine Learning o objetivo é ensinar o algoritmo a identificar estes padrõ
 
    O modelo de regressão linear regularizado possui um parâmetro à mais que o modelo de regressão linear. É também chamado de Lasso ou Ridge. Geralmente possui uma performance um pouco melhor que a regressão linear.
 
-- **iv. Linear Regression Regularized**
+- **iv. Random Forest Regressor**
 
+   Foram utilizados os seguintes parâmetros da classe RandomForestRegressor:
+   
+       -	**Encoding**: Converte as Features categóricas para numéricas.
+   
+   • n_estimators=100.
+   • n_jobs=-1.
+   • random_state=42.
 
 

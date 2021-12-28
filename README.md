@@ -934,7 +934,7 @@ Exibe abaixo a soma das previsões de venda para todas as lojas, incluindo o mel
 - **Segundo gráfico - Taxa de erro da previsão em relação ao valor real**: Representa qual a diferença em porcentagem dos valores previstos em relação aos valore reais.
 O valor á a divisão do valor previsto pelo valor real. Um valor igual à 1 significa que o valor predito foi igual ao valor real. Um valor acima de 1, significa que o modelo está superestimando o valor de venda real. Um valor abaixo de 1, significa que o modelo está subestimando o valor de venda real.
 
-- **Terceiro gráfico - distribuição do erro**: Mostra que a distribuição do erro está próxima de uma distribuição gaussiana, isto é, uma distribuição normal.
+- **Terceiro gráfico - Distribuição do erro**: Mostra que a distribuição do erro está próxima de uma distribuição gaussiana, isto é, uma distribuição normal.
 
-- **Quarto gráfico - gráfico de resíduo entre os valores preditos em relação ao erro**: Podemos observar que ocorrem erros maiores quando o modelo faz predições entre R$6.000,00 e R$10.000,00.
+- **Quarto gráfico - Gráfico de resíduo entre os valores preditos em relação ao erro**: Podemos observar que ocorrem erros maiores quando o modelo faz predições entre R$6.000,00 e R$10.000,00.
 

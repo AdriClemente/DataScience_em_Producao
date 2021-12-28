@@ -727,7 +727,7 @@ Em Machine Learning o objetivo é ensinar o algoritmo a identificar estes padrõ
 
 - **iv. Random Forest Regressor**
 
-   Foram utilizados os seguintes parâmetros da classe RandomForestRegressor:
+   Foram inicialmente utilizados os seguintes parâmetros da classe RandomForestRegressor:
      
    • n_estimators=100.
    
@@ -735,5 +735,14 @@ Em Machine Learning o objetivo é ensinar o algoritmo a identificar estes padrõ
    
    • random_state=42.
 
+- **v. XGBoost Regressor **
 
+   Foram inicialmente utilizados os seguintes parâmetros da classe XGBRegressor:
+   
+   • objective='reg:squarederror'.
+   • n_estimators=500.
+   • eta=0.01.
+   • max_depth=10.
+   • subsample=0.7.
 
+   

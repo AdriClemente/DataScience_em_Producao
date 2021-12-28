@@ -779,6 +779,7 @@ Na terceira iteração (K=3), os dados de treinamento irão englobar os dados de
 Este processo se repete para as próximas iterações.
 
 Geralmente o conjunto dos dados de validação possui o mesmo tamanho para todas as iterações. Neste projeto, como a previsão de vendas é para as próximas 6 semanas, os dados de validação terão sempre 6 semanas.
+
 Foi criada uma função chamada `cross_validation` que divide os dados de treino e teste para cada iteração do Cross-Validation, considerando 6 semanas para os dados de validação.
 
 **Resultados obtidos**:

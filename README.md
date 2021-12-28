@@ -926,3 +926,6 @@ _“Como entender o desempenho do modelo e dizer para o CEO o quanto R$ esse mod
 Exibe abaixo a soma das previsões de venda para todas as lojas, incluindo o melhor e pior cenário.
 <img src="img/total_performance.jpg" alt="drawing" width="50%"/>
 
+### d. Machine Learning Performance
+<img src="img/ml_performance.jpg" alt="drawing" width="100%"/>
+

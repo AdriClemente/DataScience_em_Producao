@@ -867,6 +867,6 @@ Foram utilizados os seguintes ranges de parâmetor do XGBoost Regressor no Rando
 
 Os seguinte resultados foram obtidos:
 
-
+<img src="img/hyperparameter.jpg" alt="drawing" width="75%"/>
 
 

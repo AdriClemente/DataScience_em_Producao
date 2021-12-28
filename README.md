@@ -405,6 +405,8 @@ O algoritmo de Machine Learning possui funcionalidades para definir quais variá
 
    **VERDICT: FALSE**. Lojas com maior sortimento (assortment = extended) possuem uma venda média MENOR do que as lojas com o sortimento (assortment=extra). 
 
+<br>
+
 - **H2. Lojas com competidores mais próximos deveriam vender menos.**
 
    <img src="img/h2_g1.jpg" alt="drawing" width="75%"/>

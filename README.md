@@ -853,6 +853,7 @@ Fine Tuning é o processo para encontrar o conjunto de valores para os hiper par
 ### c. Resultados Obtidos
 Neste projeto foi utilizado o método Random Search no XGBoost Regressor.
 Foram utilizados os seguintes ranges de parâmetor do XGBoost Regressor no Random Search:
+
  • n_estimators: [1500, 1700, 2500, 3000, 3500]
  
  • eta: [0.01, 0.03]

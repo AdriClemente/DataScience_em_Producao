@@ -912,3 +912,4 @@ _“Como entender o desempenho do modelo e dizer para o CEO o quanto R$ esse mod
 
 - **ii. Exibe as lojas que são mais difíceis de fazer a previsão, ordenando pelos maiores valores do erro MAPE.**.
 
+   <img src="img/worst_performance.jpg" alt="drawing" width="100%"/>

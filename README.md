@@ -766,5 +766,5 @@ No Cross Validation, cortamos várias fatias do nosso conjunto de treinamento pa
 
 Nos modelos de series temporais (Time Series) devemos respeitar a ordem cronológica dos dados. Não se pode realizar a separação dos dados entre treino e validação de maneira aleatória.
 
-<img src="img/ime_series_cross_validation.jpg" alt="drawing" width="75%"/>
+<img src="img/time_series_cross_validation.jpg" alt="drawing" width="75%"/>
    

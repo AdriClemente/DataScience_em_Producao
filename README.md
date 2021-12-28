@@ -936,5 +936,5 @@ O valor á a divisão do valor previsto pelo valor real. Um valor igual à 1 sig
 
 - **Terceiro gráfico - distribuição do erro**: Mostra que a distribuição do erro está próxima de uma distribuição gaussiana, isto é, uma distribuição normal.
 
-- **Quarto gráfico - gráfico de resíduo, entre as valore preditos em relação ao erro**: Podemos observar ocorrem erros maiores quando o modelo faz predições entre R$6.000,00 e R$10.000,00.
+- **Quarto gráfico - gráfico de resíduo entre os valores preditos em relação ao erro**: Podemos observar que ocorrem erros maiores quando o modelo faz predições entre R$6.000,00 e R$10.000,00.
 

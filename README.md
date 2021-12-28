@@ -752,3 +752,18 @@ Em Machine Learning o objetivo é ensinar o algoritmo a identificar estes padrõ
 
    <img src="img/models_performance.jpg" alt="drawing" width="75%"/>
 
+   ### d. Time Series Cross-Validation
+   
+No passo anterior verificamos os resultados dos desempenhos dos modelos testados.
+Lembrando que separamos os dados entre treino e teste, deixando as últimas 6 semanas para teste.
+Porém, pode ocorrer que os dados de teste das últimas 6 semanas podem possuir os dados mais comportados possível.
+Nesta situação, o modelo vai performar bem sobre os dados de teste.
+Então, não podemos avaliar os modelos de Machine Learning somente pelas últimas semanas.
+Para pegar toda a variabilidade que o fenômeno possui, precisamos medir a performance do modelo sob vários intervalos de tempo. 
+A técnica utilizada para dividir o conjunto de dados em várias partes para poder medir a performance do modelo sob cada uma destas partes, é chamada de Cross Validation. 
+No Cross Validation, cortamos várias fatias do nosso conjunto de treinamento para realizarmos esta validação. Desta forma, testamos o modelo em diferentes seções dos dados de treinamento para que tenhamos várias medições da performance deste modelo.
+A média de todas estas validações será a performance real do modelo.
+Nos modelos de series temporais (Time Series) devemos respeitar a ordem cronológica dos dados. Não se pode realizar a separação dos dados entre treino e validação de maneira aleatória.
+
+   
+   

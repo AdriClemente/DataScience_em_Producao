@@ -920,7 +920,7 @@ _“Como entender o desempenho do modelo e dizer para o CEO o quanto R$ esse mod
 
    <img src="img/MAPE_error.jpg" alt="drawing" width="100%"/>
 
-   Podemos verificar no gráfico abaixo que a maioria das lojas possui um erro MAPE em torno de 10%.
+   Podemos verificar no gráfico acima que a maioria das lojas possui um erro MAPE em torno de 10%.
 
 ### c. Total Performance
 Exibe abaixo a soma das previsões de venda para todas as lojas, incluindo o melhor e pior cenário:

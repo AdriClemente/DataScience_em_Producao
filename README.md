@@ -695,3 +695,22 @@ Uma vez calculado o p-valor das variáveis, constrói a distribuição binomial,
    Segue abaixo a lista final das variáveis consideradas relevantes:
 
    <img src="img/boruta_final_list.jpg" alt="drawing" width="25%"/>
+
+---
+
+## 08. Machine Learning Modeling
+### a. O Objetivo dos Modelos de Machine Learning
+_"Aprender o comportamento de vendas com as variáveis disponíveis e então generalizá-lo para o futuro_.”
+A definição de aprendizado no contexto de Machine Learning é poder generalizar para o futuro. 
+Exemplo: Quando olhamos para um computador, nosso cérebro extrai algumas features dele, com por exemplo, o formato quadrado, possui uma tela, possui um teclado, etc... Desta forma, criamos um modelo mental de um computador. E a partir deste momento, toda a vez que olharmos para computadores, o nosso cérebro vai fazer esta associação muito rápido.
+Em Machine Learning o objetivo é ensinar o algoritmo a identificar estes padrões e toda vez que ele recebe um objeto novo, o algoritmo é capaz de utilizar o aprendizado que ele obteve para poder classificar ou regredir aquele objeto.
+
+### b. Modelos de Machine Learning utilizados
+
+
+- **i. Modelo de Média (Average Model)**
+
+   O modelo de média prevê a média baseado nos resultados de entrada. Por exemplo: no caso da Rossman, temos a loja número 30. O modelo vai pegar todas as vendas da loja número 30 e calcular a média destas vendas. Sempre que formos predizer qualquer valor futuro para esta loja número 30, o modelo vai considerar este valor de média.
+   **O principal papel do modelo de média é ser uma base comparativa para a performance dos outros modelos**.
+   Se criarmos um modelo de Machine Learning e a performance dele for melhor que a performance do modelo de média, podemos afirmar que ocorreu um aprendizado do modelo de Machine Learning, justificando seguir no projeto com este modelo de Machine Learning.
+

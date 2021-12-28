@@ -923,7 +923,7 @@ _“Como entender o desempenho do modelo e dizer para o CEO o quanto R$ esse mod
    Podemos verificar no gráfico abaixo que a maioria das lojas possui um erro MAPE em torno de 10%.
 
 ### c. Total Performance
-Exibe abaixo a soma das previsões de venda para todas as lojas, incluindo o melhor e pior cenário.
+Exibe abaixo a soma das previsões de venda para todas as lojas, incluindo o melhor e pior cenário:
 <img src="img/total_performance.jpg" alt="drawing" width="50%"/>
 
 ### d. Machine Learning Performance

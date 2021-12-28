@@ -785,3 +785,6 @@ Foi criada uma função chamada `cross_validation` que divide os dados de treino
 **Resultados obtidos**:
 
 <img src="img/models_cv.jpg" alt="drawing" width="75%"/>
+
+**Foi considerado o modelo XGBoost Regressor, por pelo fato dele executar o treino mais rápido que o modelo Random Forest Regressor.
+Além disso, o modelo treinado utilizando XGBoost Regressor, consome muito menos memória do servidor que o modelo treinado utilizando Random Forest Regressor. Este fato é importante para a redução dos custos com a infraestrutura utilizada para manter o modelo em produção**.

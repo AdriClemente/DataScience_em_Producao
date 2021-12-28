@@ -869,4 +869,6 @@ Os seguinte resultados foram obtidos:
 
 <img src="img/hyperparameter.jpg" alt="drawing" width="75%"/>
 
+**O melhor resultado obtido utilizou os seguintes parâmetros:
+{'n_estimators': 3500, 'eta': 0.03, 'max_depth': 9, 'subsample': 0.7, 'min_child_weight': 8}**
 

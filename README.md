@@ -929,3 +929,20 @@ Exibe abaixo a soma das previsões de venda para todas as lojas, incluindo o mel
 ### d. Machine Learning Performance
 <img src="img/ml_performance.jpg" alt="drawing" width="100%"/>
 
+• Primeiro gráfico - vendas reais e previstas ao longo das seis semanas:
+As sombras representam a variação dos valores reais e previstos para cada loja.
+Isto ocorre pois plotamos os gráficos de todas as vendas para todas as lojas um em cima do outro.
+Portanto, as sombras mostram o valor de venda que varia de uma loja para outra.
+
+• Segundo gráfico - Taxa de erro da previsão em relação ao valor real.
+Representa qual a diferença em porcentagem dos valores previstos em relação aos valore reais.
+O valor á a divisão do valor previsto pelo valor real. 
+Um valor igual à 1 significa que o valor predito foi igual ao valor real.
+Um valor acima de 1, significa que o modelo está superestimando o valor de venda real.
+Um valor abaixo de 1, significa que o modelo está subestimando o valor de venda real.
+
+• Terceiro gráfico - distribuição do erro.
+Mostra que a distribuição do erro está próxima de uma distribuição gaussiana, isto é, uma distribuição normal.
+
+• Quarto gráfico - gráfico de resíduo, entre as valore preditos em relação ao erro.
+Podemos observar ocorrem erros maiores quando o modelo faz predições entre R$6.000,00 e R$10.000,00.

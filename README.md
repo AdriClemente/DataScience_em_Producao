@@ -742,6 +742,7 @@ Em Machine Learning o objetivo é ensinar o algoritmo a identificar estes padrõ
    • objective='reg:squarederror'.
    
    • n_estimators=500.
+   
    • eta=0.01.
    
    • max_depth=10.

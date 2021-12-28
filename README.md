@@ -736,3 +736,9 @@ Em Machine Learning o objetivo é ensinar o algoritmo a identificar estes padrõ
    • random_state=42.
 
 
+
+- **iii. Transformação:**
+
+    -	**Encoding**: Converte as Features categóricas para numéricas.
+
+        - **One Hot Encoding**: One Hot Encoding cria uma coluna para cada valor (nível) da variável categórica.

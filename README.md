@@ -850,5 +850,17 @@ Fine Tuning é o processo para encontrar o conjunto de valores para os hiper par
         - Mais rápido que o Grid Search e mais lento que o Random Search.
 
 
-- **iv. Random Search**
+### c. Resultados Obtidos
+Neste projeto foi utilizado o método Random Search no XGBoost Regressor.
+Foram utilizados os seguintes ranges de parâmetor do XGBoost Regressor no Random Search:
+ • n_estimators: [1500, 1700, 2500, 3000, 3500],
+ • eta: [0.01, 0.03],
+ • max_depth: [3, 5, 9],
+ • subsample: [0.1, 0.5, 0.7],
+ • min_child_weight: [3, 8, 15]}
+
+Os seguinte resultados foram obtidos:
+
+
+
 

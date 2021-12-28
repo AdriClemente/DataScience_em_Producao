@@ -924,5 +924,5 @@ _“Como entender o desempenho do modelo e dizer para o CEO o quanto R$ esse mod
 
 ### c. Total Performance
 Exibe abaixo a soma das previsões de vendas para todas as lojas, incluindo o melhor e pior cenário.
-<img src="img/total_performance.jpg" alt="drawing" width="100%"/>
+<img src="img/total_performance.jpg" alt="drawing" width="50%"/>
 

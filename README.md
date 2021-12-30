@@ -938,4 +938,16 @@ O valor á a divisão do valor previsto pelo valor real. Um valor igual à 1 sig
 
 - **Quarto gráfico - Gráfico de resíduo entre os valores preditos em relação ao erro**: Podemos observar que ocorrem erros maiores quando o modelo faz predições entre R$5.000,00 e R$10.000,00.
 
+ ---
  
+ ## 11. Deploy Machine Learning Model to Production
+### a. O Objetivo do Deploy Machine Learning Model to Production
+_“O objetivo é Tornar as Predições do Modelo acessível para qualquer consumidor”_.
+
+Consumidor pode ser uma pessoa, um celular, um aplicativo, um Web Site, um Google Sheets, um Excel, portanto qualquer software conectado na internet que consegue fazer uma requisição em API.
+
+Deixamos para traz algumas melhorias para serem aplicadas nos próximos ciclos do CRISP-DM. Porém, o primeiro objetivo é terminar o primeiro ciclo do CRISP-DM o mais rápido possível para podermos entregar a primeira versão da nossa solução. Desta maneira, as pessoas irão entender o valor que este trabalho traz e elas irão entender o quão importante é Machine Learning nas empresas hoje em dia. Desta maneira, ganhamos um folego para fazer a próxima interação do CRISP-DM de forma mais tranquila, onde podemos implementar algoritmos mais complexos, melhorar a etapa de Feature Engineering, etc...
+
+Portanto, o objetivo é entregar a primeira versão para ganharmos a confiança e aprovação da empresa para realizarmos as melhorias à serem aplicadas nos próximos ciclos do CRISP-DM.
+
+Decidimos que o algoritmo possui um resultado razoável e iremos colocá-lo em produção para que as pessoas possam usá-lo. É importante colocar o modelo em produção no final do primeiro ciclo do CRISP-DM, pois conseguimos coletar Feedbacks, tanto da usabilidade dos usuários, quanto coletar o Feedback do desempenho do modelo.

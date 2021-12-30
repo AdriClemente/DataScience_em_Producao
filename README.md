@@ -980,3 +980,7 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
 
 **Nota: Os arquivos utilizados nos passos abaixo, se encontram disponíveis nos diretórios _api_, _parameter_, _data_ e _model_ no repositório do GitHub deste projeto**.
 
+- **i. Lista de Tarefas para o teste local**.
+
+    -	**Vantagens**:
+        - Encontra o melhor conjunto de parâmetros que maximiza o aprendizado do modelo.

@@ -1022,5 +1022,5 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 
 - **i. Lista de Tarefas para realizar o Deploy no Heroku**.
 
-
+   Na tabela acima verificamos que a loja 292 possui o maior erro de predição MAPE = 54%. Portanto, para esta loja, não podemos utilizar este modelo, pois podemos estar 50% errado nas predições. Para melhorar isto, no próximo ciclo do CRISP-DM, podemos criar modelos específicos para estas lojas mais difíceis de fazer a previsão, ou podemos incluir mais variáveis no conjunto de dados. Enfim, buscar entender o porquê estas lojas são difíceis de fazer a previsão.
 

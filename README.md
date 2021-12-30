@@ -1022,15 +1022,9 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 
 - **i. Lista de Tarefas para realizar o Deploy no Heroku**.
 
-    -	**1- Cria uma Classe com as limpezas, transformações e Encoding (Data Preparation = Rossmann.py)**:
-
-
-        - Criar uma pasta chamada api.
-        - Criar uma pasta chamada rossmann dentro da pasta api.
-        - Salvar na pasta rossmann o script Rossmann.py.
- 
-   1- Criar um conta gratuita no Heroku em www.heroku.com
-   2- Instalar o “Client” do Heroku: https://devcenter.heroku.com/articles/heroku-cli
+    -	1- Criar um conta gratuita no Heroku em www.heroku.com
+    -	2- Instalar o “Client” do Heroku: https://devcenter.heroku.com/articles/heroku-cli
+    -	
    3- Criar uma pasta chamada webapp.
    4- Salvar na pasta webapp o script handler.py.
    5- Criar as pastas model, parameter e rossman dentro da pasta webapp.

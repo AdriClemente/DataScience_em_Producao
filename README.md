@@ -1010,7 +1010,7 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
 
     -	**3- Teste utilizando o Jupyter Notebook:**:
         - # loading test dataset
-        df10 = pd.read_csv('data/test.csv', low_memory=False)
+        - df10 = pd.read_csv('data/test.csv', low_memory=False)
 
 # merge test dataset + store
 df_test = pd.merge(df10, df_store_raw, how='left', on='Store')

@@ -982,8 +982,20 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
 
 - **i. Lista de Tarefas para o teste local**.
 
-    -	**1- Cria uma Classe com as limpezas, transformações e Encoding (Data Preparation = Rossmann.py).**:
+    -	**1- Cria uma Classe com as limpezas, transformações e Encoding (Data Preparation = Rossmann.py)**:
         - Criar uma pasta chamada api.
         - Criar uma pasta chamada rossmann dentro da pasta api.
         - Salvar na pasta rossmann o script Rossmann.py.
 
+    -	**2- Cria a API Handler (Handler.py)**:
+        - Salvar na pasta api o script handler.py.
+        - Na linha de comando executar: _python handler.py_
+        - Deve retornar a seguinte mensagem na console:
+    * Serving Flask app 'handler' (lazy loading)
+    * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://192.168.0.7:5000/ (Press CTRL+C to quit)

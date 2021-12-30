@@ -988,10 +988,6 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
         - Salvar na pasta rossmann o script Rossmann.py.
 
     -	**2- Cria a API Handler (Handler.py)**:
-        - Criar uma pasta chamada api.
-        - Criar uma pasta chamada rossmann dentro da pasta api.
-        - Salvar na pasta rossmann o script Rossmann.py.
-
         - Salvar na pasta api o script handler.py.
         - Na linha de comando executar: python handler.py
         - Deve retornar a seguinte mensagem na console:

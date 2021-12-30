@@ -989,7 +989,7 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
 
     -	**2- Cria a API Handler (Handler.py)**:
         - Salvar na pasta api o script handler.py.
-        - Na linha de comando executar: _python handler.py_
+        - Na linha de comando executar: python handler.py
         - Deve retornar a seguinte mensagem na console:
  
            Foi utilizado One Hot Encoding na variável `state_holiday`.

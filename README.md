@@ -992,22 +992,19 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
         - Na linha de comando executar: python handler.py
         - Deve retornar a seguinte mensagem na console:
  
-           _Foi utilizado One Hot Encoding na variável `state_holiday`._
+           _Serving Flask app 'handler' (lazy loading)_
+           
+           _Environment: production_
 	   
-           Foi utilizado One Hot Encoding na variável `state_holiday`.
-	    
-           Serving Flask app 'handler' (lazy loading)
+           _WARNING: This is a development server. Do not use it in a production deployment._
+	      adf
+	   
+	   _Use a production WSGI server instead._
            
-           Environment: production
+	   _Debug mode: off_
            
-	   WARNING: This is a development server. Do not use it in a production deployment.
+	   _Running on all addresses._
            
-	   Use a production WSGI server instead.
+	   _WARNING: This is a development server. Do not use it in a production deployment._
            
-	   Debug mode: off
-           
-	   Running on all addresses.
-           
-	   WARNING: This is a development server. Do not use it in a production deployment.
-           
-	   Running on http://192.168.0.7:5000/ (Press CTRL+C to quit)
+	   _Running on http://192.168.0.7:5000/ (Press CTRL+C to quit)_

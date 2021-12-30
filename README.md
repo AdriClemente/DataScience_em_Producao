@@ -996,12 +996,18 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
 	   
            Foi utilizado One Hot Encoding na variável `state_holiday`.
 	    
-           * Serving Flask app 'handler' (lazy loading)
+           Serving Flask app 'handler' (lazy loading)
            
-           * Environment: production
-           WARNING: This is a development server. Do not use it in a production deployment.
-           Use a production WSGI server instead.
-           * Debug mode: off
-           * Running on all addresses.
-           WARNING: This is a development server. Do not use it in a production deployment.
-           * Running on http://192.168.0.7:5000/ (Press CTRL+C to quit)
+           Environment: production
+           
+	   WARNING: This is a development server. Do not use it in a production deployment.
+           
+	   Use a production WSGI server instead.
+           
+	   Debug mode: off
+           
+	   Running on all addresses.
+           
+	   WARNING: This is a development server. Do not use it in a production deployment.
+           
+	   Running on http://192.168.0.7:5000/ (Press CTRL+C to quit)

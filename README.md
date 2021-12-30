@@ -993,7 +993,8 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
         - Deve retornar a seguinte mensagem na console:
  
            Foi utilizado One Hot Encoding na variável `state_holiday`.
-           Foi utilizado One Hot Encoding na variável `state_holiday`.	   
+	   
+           Foi utilizado One Hot Encoding na variável `state_holiday`.
  
     * Serving Flask app 'handler' (lazy loading)
     * Environment: production

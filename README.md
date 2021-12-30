@@ -1010,7 +1010,7 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
 
     -	**3- Teste utilizando o Jupyter Notebook:**:
 
-   <img src="img/blocal_test_script.jpg" alt="drawing" width="100%"/>
+   <img src="img/local_test_script.jpg" alt="drawing" width="100%"/>
 
 
 Deve retornar a predição de venda, conforme o exemplo abaixo:

@@ -1024,9 +1024,23 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 
     -	1- Criar um conta gratuita no Heroku em www.heroku.com
     -	2- Instalar o “Client” do Heroku: https://devcenter.heroku.com/articles/heroku-cli
-    -	
-   3- Criar uma pasta chamada webapp.
-   4- Salvar na pasta webapp o script handler.py.
-   5- Criar as pastas model, parameter e rossman dentro da pasta webapp.
-   6- Copiar o modelo treinado model_rossmann.pkl para dentro da pasta model.
+    -	3- Criar uma pasta chamada webapp.
+    -	4- Salvar na pasta webapp o script handler.py.
+    -	5- Criar as pastas model, parameter e rossman dentro da pasta webapp.
+    -	6- Copiar o modelo treinado model_rossmann.pkl para dentro da pasta model.
+    -   7- Copiar os arquivos de parâmetros: competition_distance_scaler.pkl, competition_time_month_scaler.pkl, promo_time_week_scaler.pkl, store_type_scaler.pkl e year_scaler.pkl para dentro da pasta parameter.
+    -   8- Copiar o arquivo Rossman.py para dentro da pasta rossmann.
+    -   9- Como o Heroku não sabe que a porta do Flask é 5000, deve-se alterar no arquivo hanlder.py a condicional if, conforme abaixo:
+    	-   	if __name__ == '__main__':
+    	-   	
+	     port = os.environ.get('PORT', 5000)
+    	     app.run('0.0.0.0', port=port)
+10-	Incluir na primeira linha do arquivo handler.py o comando:
+import os
+11-	Criar o arquivo Procfile na pasta webapp.
+12-	Edital o arquivo Procfile e incluir o seguinte comando:
+web: python handler.py
+13-	Criar o arquivo requirements.txt e copiar na pasta webapp.
+14-	Iniciar o git executando na pasta webapp o seguinte comando:
+git init
 

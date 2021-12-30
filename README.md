@@ -1031,6 +1031,10 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -   7- Copiar os arquivos de parâmetros: competition_distance_scaler.pkl, competition_time_month_scaler.pkl, promo_time_week_scaler.pkl, store_type_scaler.pkl e year_scaler.pkl para dentro da pasta parameter.
     -   8- Copiar o arquivo Rossman.py para dentro da pasta rossmann.
     -   9- Como o Heroku não sabe que a porta do Flask é 5000, deve-se alterar no arquivo hanlder.py a condicional if, conforme abaixo:
+
+        - Demora muito tempo, pois testa todas as combinações de valores de parâmetros possível. Pode demorar meses para encontrar a melhor combinação de valores.
+        - Quanto maior o tempo, maior o custo.
+
     	-   	if __name__ == '__main__':
     	-   	port = os.environ.get('PORT', 5000)
     	-       app.run('0.0.0.0', port=port)

@@ -1012,9 +1012,7 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
 
    <img src="img/local_test_script.jpg" alt="drawing" width="100%"/>
 
-
-Deve retornar a predição de venda, conforme o exemplo abaixo:
-Store Number 22 will sell R$148,968.16 in the next 6 weeks
+   Deve retornar a predição de venda, por exemplo: _Store Number 22 will sell R$148,968.16 in the next 6 weeks_
 
 
 

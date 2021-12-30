@@ -976,3 +976,7 @@ Portanto, o Handler encaminha os dados para o arquivo Data Preparation.
 Uma vez aplicada as transformações nos dados, o Data Preparation encaminha os dados para o modelo em produção (**Model Trained**) que já está carregado na memória.
 O modelo faz a predição e encaminha a resposta para o Data Preparation que por sua vez encaminha a resposta para o Hander API que devolve a informação da predição para a API Rossmann. 
 
+### c. API Local Test
+
+**Nota: Os arquivos utilizados nos passos abaixo, se encontram disponíveis nos diretórios _api_, _parameter_, _data_ e _model_ no repositório do GitHub deste projeto**.
+

@@ -992,7 +992,7 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
         - Na linha de comando executar: python handler.py
         - Deve retornar a seguinte mensagem na console:
  
-           _Foi utilizado One Hot Encoding na variável `state_holiday`.
+           _Foi utilizado One Hot Encoding na variável `state_holiday`._
 	   
            Foi utilizado One Hot Encoding na variável `state_holiday`.
 	    
@@ -1010,4 +1010,4 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
            
 	   WARNING: This is a development server. Do not use it in a production deployment.
            
-	   Running on http://192.168.0.7:5000/ (Press CTRL+C to quit)_
+	   Running on http://192.168.0.7:5000/ (Press CTRL+C to quit)

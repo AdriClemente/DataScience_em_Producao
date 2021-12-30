@@ -957,7 +957,7 @@ Decidimos que o algoritmo possui um resultado razoável e iremos colocá-lo em p
 
 - **Rossmann API**: é a API que recebe de um usuário uma mensagem através do aplicativo Telegram, contendo o código da loja que que será realizada a predição de vendas.
 Rossman API é um arquivo Python (.py) onde utilizamos a biblioteca Flask que é utilizada no desenvolvimento de aplicações Web na linguagem Python.
-Quando a API Rossmann recebe o código da loja, ele carrega na memória os dados de teste.
+Quando a API Rossmann recebe o código da loja, ele carrega na memória os **dados de teste**.
 Seleciona nos dados de teste apenas as vendas realizadas pelo código da loja.
 Encaminha os dados de teste filtrado pelo código da loja para a API Handler.
 Uma vez recebida a predição da API Handler, a API Rossmann cria uma mensagem e encaminha a mensagem do Telegram para o usuário que solicitou a predição.

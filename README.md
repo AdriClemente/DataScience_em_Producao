@@ -1021,6 +1021,10 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
 Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em produção.
 
 - **i. Lista de Tarefas para realizar o Deploy no Heroku**.
+
+    -	**1- Cria uma Classe com as limpezas, transformações e Encoding (Data Preparation = Rossmann.py)**:
+
+
         - Criar uma pasta chamada api.
         - Criar uma pasta chamada rossmann dentro da pasta api.
         - Salvar na pasta rossmann o script Rossmann.py.

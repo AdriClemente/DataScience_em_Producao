@@ -954,3 +954,6 @@ Decidimos que o algoritmo possui um resultado razoável e iremos colocá-lo em p
 
 ### b. Production Architecture utilizando Telegram Bot
 <img src="img/telegram_bot_architecture.jpg" alt="drawing" width="75%"/>
+
+
+

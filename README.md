@@ -951,3 +951,6 @@ Deixamos para traz algumas melhorias para serem aplicadas nos próximos ciclos d
 Portanto, o objetivo é entregar a primeira versão para ganharmos a confiança e aprovação da empresa para realizarmos as melhorias à serem aplicadas nos próximos ciclos do CRISP-DM.
 
 Decidimos que o algoritmo possui um resultado razoável e iremos colocá-lo em produção para que as pessoas possam usá-lo. É importante colocar o modelo em produção no final do primeiro ciclo do CRISP-DM, pois conseguimos coletar Feedbacks, tanto da usabilidade dos usuários, quanto coletar o Feedback do desempenho do modelo.
+
+### b. Production Architecture utilizando Telegram Bot
+<img src="img/telegram_bot_architecture.jpg" alt="drawing" width="100%"/>

@@ -1014,6 +1014,13 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
 
    Deve retornar a predição de venda, por exemplo: _Store Number 22 will sell R$148,968.16 in the next 6 weeks_
 
+### d. Production environment on Heroku Public Cloud:
+
+**Nota: Os arquivos utilizados nos passos abaixo, se encontram disponíveis no diretório webapp no repositório do GitHub deste projeto**.
+
+Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em produção.
+
+- **i. Lista de Tarefas para realizar o Deploy no Heroku**.
 
 
 

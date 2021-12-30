@@ -1032,6 +1032,7 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -   8- Copiar o arquivo Rossman.py para dentro da pasta rossmann.
     -   9- Como o Heroku não sabe que a porta do Flask é 5000, deve-se alterar no arquivo hanlder.py a condicional if, conforme abaixo:
     -   	asdfasdf
+    -   	adsfasdf
     	-   	if __name__ == '__main__':
     	-   	port = os.environ.get('PORT', 5000)
     	-       app.run('0.0.0.0', port=port)

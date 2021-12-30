@@ -991,6 +991,11 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
         - Salvar na pasta api o script handler.py.
         - Na linha de comando executar: _python handler.py_
         - Deve retornar a seguinte mensagem na console:
+ 
+           Foi utilizado One Hot Encoding na variável `state_holiday`.
+	   
+	   
+ 
     * Serving Flask app 'handler' (lazy loading)
     * Environment: production
    WARNING: This is a development server. Do not use it in a production deployment.

@@ -1036,7 +1036,7 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
         - app.run('0.0.0.0', port=port)
     -   10- Incluir na primeira linha do arquivo handler.py o comando: _import os_
     -   11- Criar o arquivo Procfile na pasta webapp.
-    -   12- Edital o arquivo Procfile e incluir o seguinte comando:0 _web: python handler.py_
+    -   12- Edital o arquivo Procfile e incluir o seguinte comando: _web: python handler.py_
     -   13- Criar o arquivo requirements.txt e copiar na pasta webapp.
     -   14- Iniciar o git executando na pasta webapp o seguinte comando: _git init_
         - A seguinte mensagem deverá aparecer: _Initialized empty Git repository in D:/Data_Science/DS em Produção/repos/DataScience_em_Producao/webapp/.git/_
@@ -1044,7 +1044,7 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
         - A seguinte mensagem deverá aparecer: _heroku: Press any key to open up the browser to login or q to exit:_
     -   16- Pressionar <enter>. Vai abrir o Browser solicitando logar no site do Heroku.
     -   17- No Browser no site do Heroku, clicar no botão Login.
-    -   18- Depois de logar no site do Heroku, vai aparecer no prompt de comando a seguinte mensagem: Logging in... done. Logged in as username@gmail.com
+    -   18- Depois de logar no site do Heroku, vai aparecer no prompt de comando a seguinte mensagem: _Logging in... done. Logged in as username@gmail.com_
     -   19- Criar um Dyno no Heroku executando o comando: _heroku apps:create project-name_
 	
 	Depois de logar no site do Heroku, vai aparecer no prompt de comando a seguinte mensagem: Logging in... done. Logged in as username@gmail.com

@@ -998,13 +998,12 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
 	   
            _WARNING: This is a development server. Do not use it in a production deployment._
 
-
            _Use a production WSGI server instead._
+
+           _Debug mode: off_
+   
+           _Running on all addresses._
            
-	   _Debug mode: off_
+           _WARNING: This is a development server. Do not use it in a production deployment._
            
-	   _Running on all addresses._
-           
-	   _WARNING: This is a development server. Do not use it in a production deployment._
-           
-	   _Running on http://192.168.0.7:5000/ (Press CTRL+C to quit)_
+           _Running on http://192.168.0.7:5000/ (Press CTRL+C to quit)_

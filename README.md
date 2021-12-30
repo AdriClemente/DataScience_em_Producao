@@ -1044,6 +1044,6 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
         - A seguinte mensagem deverá aparecer: heroku: Press any key to open up the browser to login or q to exit:
     -   16- Pressionar <enter>. Vai abrir o Browser solicitando logar no site do Heroku.
     -   17- No Browser no site do Heroku, clicar no botão Login.
-        - Depois de logar no site do Heroku, vai aparecer no prompt de comando a seguinte mensagem: Logging in... done. Logged in as <username>@gmail.com
+        - Depois de logar no site do Heroku, vai aparecer no prompt de comando a seguinte mensagem: Logging in... done. Logged in as username@gmail.com
 
    

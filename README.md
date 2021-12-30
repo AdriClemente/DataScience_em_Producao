@@ -968,11 +968,11 @@ O Handler já deixa carregado na memória o modelo em produção (**Model Traine
 Uma vez que o Handler recebe a resposta do arquivo Data Preparation, ele encaminha a predição para a API Rossmann.
 
 - **Data Preparation**: são todos os Encodings, as transformações e as limpezas de dados que necessitam ser replicados no ambiente de produção.
-Exemplo: Quando alguém faz uma requisição para o Handler, o mesmo recebe um arquivo que contém os dados cru (raw). Ele vai receber variáveis que não foram utilizadas no treinamento do modelo. No caso deste projeto, o Handler vai receber a variável date, onde desmembramos esta variável nas variáveis, year, week_of_year, week_of_day, etc...
+Exemplo: Quando alguém faz uma requisição para o Handler, o mesmo recebe um arquivo que contém os dados cru (raw). Ele vai receber variáveis que não foram utilizadas no treinamento do modelo. No caso deste projeto, o Handler vai receber a variável `date`, onde desmembramos esta variável nas variáveis, `year`, `week_of_year`, `week_of_day`, etc...
 Portanto, se o Handler recebe o dado cru e tenta rodar o modelo treinado, vai ocorrer um erro, pois o modelo treinado não está esperando por aquelas variáveis. 
 Temos que utilizar as mesmas variáveis que foram utilizadas no treinamento do modelo.
 Portanto, quando o Handler recebe uma requisição, necessitamos realizar as mesmas transformações nos dados, para que os mesmos possuam as mesmas variáveis que foram utilizadas no treinamento do modelo, para que o modelo em produção consiga realizar a previsão.
 Portanto, o Handler encaminha os dados para o arquivo Data Preparation.
-Uma vez aplicada as transformações nos dados, o Data Preparation encaminha os dados para o modelo em produção que já está carregado na memória.
+Uma vez aplicada as transformações nos dados, o Data Preparation encaminha os dados para o modelo em produção (**Model Trained**) que já está carregado na memória.
 O modelo faz a predição e encaminha a resposta para o Data Preparation que por sua vez encaminha a resposta para o Hander API que devolve a informação da predição para a API Rossmann. 
 

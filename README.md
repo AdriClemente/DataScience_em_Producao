@@ -1039,4 +1039,4 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -   12- Edital o arquivo Procfile e incluir o seguinte comando: web: python handler.py
     -   13- Criar o arquivo requirements.txt e copiar na pasta webapp.
     -   14- Iniciar o git executando na pasta webapp o seguinte comando: git init
-
+   

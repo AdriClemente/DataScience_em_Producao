@@ -1041,7 +1041,7 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -   14- Iniciar o git executando na pasta webapp o seguinte comando: _git init_
         - A seguinte mensagem deverá aparecer: Initialized empty Git repository in D:/Data_Science/DS em Produção/repos/DataScience_em_Producao/webapp/.git/
     -   15- Executar o comando: _heroku login_
-        - A seguinte mensagem deverá aparecer: heroku: Press any key to open up the browser to login or q to exit:
+        - A seguinte mensagem deverá aparecer: _heroku: Press any key to open up the browser to login or q to exit:_
     -   16- Pressionar <enter>. Vai abrir o Browser solicitando logar no site do Heroku.
     -   17- No Browser no site do Heroku, clicar no botão Login.
     -   18- Depois de logar no site do Heroku, vai aparecer no prompt de comando a seguinte mensagem: Logging in... done. Logged in as username@gmail.com

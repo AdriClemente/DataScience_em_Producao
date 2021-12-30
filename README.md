@@ -962,4 +962,8 @@ Seleciona nos dados de teste apenas as vendas realizadas pelo código da loja.
 Encaminha os dados de teste filtrado pelo código da loja para a API Handler.
 Uma vez recebida a predição da API Handler, a API Rossmann cria uma mensagem e encaminha a mensagem do Telegram para o usuário que solicitou a predição.
 
+- **Handler API**: é um arquivo Python (.py) onde utilizamos a biblioteca Flask que é utilizada no desenvolvimento de aplicações Web na linguagem Python.
+A função do Handler é ficar esperando alguém fazer uma requisição para ele. Quando o Handler recebe uma requisição, ele sabe para quem ele deve encaminhar.
+O Handler já deixa carregado na memória o modelo em produção (Model Trained) e quando a API Rossmann solicita para o Handler uma previsão de vendas de uma determinada loja, o Handler encaminha os dados recebidos para o arquivo Data Preparation para aplicar as transformações nos dados.
+Uma vez que o Handler recebe a resposta do arquivo Data Preparation, ele encaminha a predição para a API Rossmann.
 

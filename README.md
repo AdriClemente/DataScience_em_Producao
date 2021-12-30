@@ -1039,6 +1039,6 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -   12- Edital o arquivo Procfile e incluir o seguinte comando: web: _python handler.py_
     -   13- Criar o arquivo requirements.txt e copiar na pasta webapp.
     -   14- Iniciar o git executando na pasta webapp o seguinte comando: _git init_
-    	-   	A seguinte mensagem deverá aparecer: _Initialized empty Git repository in D:/Data_Science/DS em Produção/repos/DataScience_em_Producao/webapp/.git/_
+        - A seguinte mensagem deverá aparecer: Initialized empty Git repository in D:/Data_Science/DS em Produção/repos/DataScience_em_Producao/webapp/.git/
 
    

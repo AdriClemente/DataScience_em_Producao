@@ -1007,3 +1007,50 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
            _WARNING: This is a development server. Do not use it in a production deployment._
            
            _Running on http://192.168.0.7:5000/ (Press CTRL+C to quit)_
+
+    -	**3- Teste utilizando o Jupyter Notebook:**:
+        - # loading test dataset
+        df10 = pd.read_csv('data/test.csv', low_memory=False)
+
+# merge test dataset + store
+df_test = pd.merge(df10, df_store_raw, how='left', on='Store')
+
+# choose store for prediction
+df_test = df_test[df_test['Store'] == 22]
+
+# remove closed days
+df_test = df_test[df_test['Open'] != 0]
+df_test = df_test[~df_test['Open'].isnull()]  
+df_test = df_test.drop('Id', axis=1)
+
+# convert dataframe to json
+data = json.dumps(df_test.to_dict(orient='records'))
+
+# API Call
+url = 'http://0.0.0.0:5000/rossmann/predict'
+
+# set json type
+header = {'Content-type': 'application/json'}
+data = data
+
+# send request to API
+r = requests.post(url, data, headers=header)
+print('Status Code {}'.format(r.status_code))
+
+# convert json to dataframe
+d1 = pd.DataFrame(r.json(), columns=r.json()[0].keys())
+
+# sum next 6 weeks store sales prediction
+d2 = d1[['store', 'prediction']].groupby('store').sum().reset_index()
+
+# print sales prediction
+print('Store Number {} will sell R${:,.2f} in the next 6 weeks'.format(
+           d2['store'].values[0],
+           d2['prediction'].values[0]) )
+
+Deve retornar a predição de venda, conforme o exemplo abaixo:
+Store Number 22 will sell R$148,968.16 in the next 6 weeks
+
+
+
+

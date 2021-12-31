@@ -1142,5 +1142,6 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 
           <img src="img/telegram_sendmessage.jpg" alt="drawing" width="75%"/>		
 	
+          Existem dois parâmetros que são obrigatórios enviar para o método sendMessage que são chat_id e text. A informação do chat_id obtemos no retorno do método getUpdates descrito no passo anterior.
 	
 	

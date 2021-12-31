@@ -1205,3 +1205,7 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
     -	36- Edita o arquivo requirements.txt e excluir algumas bibliotecas que não serão necessárias:
 	
           <img src="img/requirements_delete.jpg" alt="drawing" width="25%"/>	
+
+    -	37- Iniciar o git executando o comando: _git init_
+        - A seguinte mensagem deverá aparecer: 	_Initialized empty Git repository in /Data_Science/DS em Produção/repos/DataScience_em_Producao/rossmann-telegram-api/.git/_	
+	

@@ -1195,4 +1195,13 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
 
           <img src="img/telegram_predictresponse.jpg" alt="drawing" width="50%"/>	
 	
+   **Deploy do Telegram Bot no Heroku**		
+
+    -	31- Na linha de comando ativar o environment do projeto. Exemplo: _conda activate DataScienceEmProducao_	
+    -	32- Na linha de comando e ir até a pasta rossmann-telegram-api.
+    -	33- Criar e editar o arquivo Procfile.
+    -	34- Incluir o seguinte comando no arquivo Procfile: _web: python rossmann.bot.py_
+    -	35- Criar o arquivo requirements.txt executando o comando: pip list --format=freeze > requirements.txt
+    -	36- Edita o arquivo requirements.txt e excluir algumas bibliotecas que não serão necessárias:
+	
 	

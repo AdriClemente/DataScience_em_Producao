@@ -1049,4 +1049,18 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
         - A seguinte mensagem deverá aparecer: _Creating project-name... done. https://project-name.herokuapp.com/ | https://git.heroku.com/project-name.git_
         - No Browser no site https://dashboard.heroku.com/apps deve aparecer a nova aplicação.
     -   20- Executar o comando: _git status_
+        - A seguinte mensagem deverá aparecer: _On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Procfile
+        handler.py
+        model/
+        parameter/
+        rossmann/
+
+nothing added to commit but untracked files present (use "git add" to track)
+_	
    

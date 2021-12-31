@@ -1238,3 +1238,8 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
     -   49- Clicar em project-name-telegram-bot, clicar no botão “More” e selecionar a opção “View logs”.
 
           <img src="img/heroku_viewlogs.jpg" alt="drawing" width="100%"/>
+
+        - A seguinte mensagem deverá aparecer:
+	
+          <img src="img/output10.jpg" alt="drawing" width="75%"/>	
+	

@@ -1127,7 +1127,7 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
           Quando digitamos este link no Web Browser, o mesmo faz uma requisição na API do Bot. Então, a API do Telegram retorna o JSON acima como resposta.	
 	
+    -	15- Utiliza-se o método getUpdates, para interceptar a mensagem que enviamos através do aplicativo Telegram.	
 	
-	
-	
+          <img src="img/telegram_gettingupdates.jpg" alt="drawing" width="75%"/>		
 	

@@ -1156,4 +1156,12 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
           <img src="img/output5.jpg" alt="drawing" width="75%"/>	
 	
-   Na tabela acima verificamos que a loja 292 possui o maior erro de predição MAPE = 54%. Portanto, para esta loja, não podemos utilizar este modelo, pois podemos estar 50% errado nas predições. Para melhorar isto, no próximo ciclo do CRISP-DM, podemos criar modelos específicos para estas lojas mais difíceis de fazer a previsão, ou podemos incluir mais variáveis no conjunto de dados. Enfim, buscar entender o porquê estas lojas são difíceis de fazer a previsão.
+   **Roteando o Rossmann API local para a Internet**
+	
+   O aplicativo do Telegram deve enviar mensagens para a Rossmann API (rossmann-bot.py) e para isto, é necessário deixar a máquina local visível para a Internet.
+Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da Internet para a máquina local.
+
+   Utilizei o serviço de roteamento ngrok:  https://ngrok.com/ 
+
+   Este serviço conecta SSH na máquina local e expõe esta máquina para a Internet. Na internet existirá um endereço utilizando a porta 80. Toda vez que alguém enviar uma mensagem para este endereço nesta porta 80, o serviço de roteamento ngrok redireciona a mensagem para a máquina local na porta 5000.
+

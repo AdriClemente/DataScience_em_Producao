@@ -1108,3 +1108,8 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
           <img src="img/telegram_botuser.jpg" alt="drawing" width="50%"/>	
 	
+    -	9- Clicar no link t.me/rossmannacel_bot do Bot criado para criar um novo contato para o bot.
+    -	10- Vai abrir a tela do contato RossmannBot. Clicar na mensagem “Começar” que aparece no celular.	
+    -	11- No contato RossmannBot, digitar o comando /start:	
+	
+	

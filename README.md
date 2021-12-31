@@ -1051,6 +1051,9 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -   20- Executar o comando: _git status_
         - A seguinte mensagem deverá aparecer: _On branch master
 
+          Foi utilizado One Hot Encoding na variável `state_holiday`.
+	
+	
 No commits yet
 
 Untracked files:

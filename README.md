@@ -1191,4 +1191,8 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
 
           <img src="img/telegram_storeid.jpg" alt="drawing" width="50%"/>		
 	
+    -	30- No aplicativo do Telegram deverá aparecer a seguinte mensagem: 	
+
+          <img src="img/telegram_predictresponse.jpg" alt="drawing" width="50%"/>	
+	
 	

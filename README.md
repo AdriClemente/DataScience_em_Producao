@@ -1058,3 +1058,10 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
         - A seguinte mensagem deverá aparecer: 
 	
           <img src="img/output2.jpg" alt="drawing" width="50%"/>	
+
+    -   23- Para enviar os arquivos para o Heroku executar o comando: _git push heroku master_
+        - A seguinte mensagem deverá aparecer: 
+	
+          <img src="img/output3.jpg" alt="drawing" width="50%"/>	
+
+	

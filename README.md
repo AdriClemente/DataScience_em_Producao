@@ -1094,17 +1094,17 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
     -	5- Após adicionar o contato BotFather, é exibido na tela um help com algumas informações:
 	
-          <img src="img/telegram_help.jpg" alt="drawing" width="40%"/>	
+          <img src="img/telegram_help.jpg" alt="drawing" width="50%"/>	
 	
     -	6- Para criar um novo Bot, digitar o comando: _/newbot_
 	
-          <img src="img/telegram_newbot.jpg" alt="drawing" width="40%"/>		
+          <img src="img/telegram_newbot.jpg" alt="drawing" width="50%"/>		
 
     -	7- Digitar RossmannBot para o nome do novo Bot:
 	
-          <img src="img/telegram_botname.jpg" alt="drawing" width="40%"/>		
+          <img src="img/telegram_botname.jpg" alt="drawing" width="50%"/>		
 
     -	8- Criar o usuário para o bot. Neste projeto, eu criei o usuário rossmannacel_bot:
 	
-          <img src="img/telegram_botuser.jpg" alt="drawing" width="40%"/>	
+          <img src="img/telegram_botuser.jpg" alt="drawing" width="50%"/>	
 	

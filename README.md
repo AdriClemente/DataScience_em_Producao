@@ -1204,4 +1204,4 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
     -	35- Criar o arquivo requirements.txt executando o comando: _pip list --format=freeze > requirements.txt_	
     -	36- Edita o arquivo requirements.txt e excluir algumas bibliotecas que não serão necessárias:
 	
-          <img src="img/requirements_delete.jpg" alt="drawing" width="50%"/>	
+          <img src="img/requirements_delete.jpg" alt="drawing" width="25%"/>	

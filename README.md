@@ -1086,15 +1086,15 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -	1- Criar uma pasta chamada rossmann-telegram-api.
     -	2- Copiar o arquivo rossmann-bot.py na pasta rossmann-telegram-api.	
     -	3- Copiar os datasets test.csv e store.csv na pasta rossmann-telegram-api.	
-    -	4- Abrir o aplicativo Telegram no telefone celular, procurar o contato BotFather e adicioná-lo nos contatos:
+    -	4- Abrir o aplicativo Telegram no telefone celular, procurar o contato BotFather e adicioná-lo na lista de contatos:
 	
           <img src="img/botfather_telegram.jpg" alt="drawing" width="40%"/>
 	
-          BothFather é o contato em sua lista que cria outros Bots.	
+          BothFather é o contato que cria outros Bots.	
 	
-    -	5- Abrir o aplicativo Telegram no telefone celular, procurar o contato BotFather e adicioná-lo nos contatos:
+    -	5- Após adicionar o contato BotFather, é exibido na tela um help com algumas informações:
 	
-	
+          <img src="img/telegram_help.jpg" alt="drawing" width="40%"/>	
 	
 	
 	

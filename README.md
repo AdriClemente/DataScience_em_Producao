@@ -1177,4 +1177,6 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
 	
    **Configuração do método setWebhook no Telegram**	
 	
-   Para que o Telegram envie mensagens para o end point que está na internet, devemos utilizar o método setWebhook. O método setWebhook faz o link da URL do Telegram para algum end-point especificado.
+   Para que o Telegram envie mensagens para o end point que está na internet, devemos utilizar o método setWebhook. O método setWebhook cria um link da URL do Telegram para algum end-point especificado.
+
+          <img src="img/telegram_setwebhook.jpg" alt="drawing" width="75%"/>

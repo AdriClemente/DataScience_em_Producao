@@ -1138,4 +1138,4 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
     -	18- Realizar um refresh na tela do Browser. A seguinte mensagem deverá aparecer no Browser: {"ok":true,"result":[{"update_id":679892927,
 "message":{"message_id":3,"from":{"id":1561073042,"is_bot":false,"first_name":"Adriano","last_name":"Lima","language_code":"en"},"chat":{"id":1561073042,"first_name":"Adriano","last_name":"Lima","type":"private"},"date":1636628439,"text":"Hi Rossman Bot!"}}]}
-	
+    -	19- Para enviarmos uma mensagem de volta para o aplicativo Telegram, utilizamos o método sendMessage.	

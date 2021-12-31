@@ -1171,4 +1171,4 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
     -	26- Na linha de comando executar o comando: _ngrok http 5000_
         - A seguinte mensagem deverá aparecer: 	
 
-          <img src="img/output6.jpg" alt="drawing" width="75%"/>	
+          <img src="img/output6.jpg" alt="drawing" width="50%"/>	

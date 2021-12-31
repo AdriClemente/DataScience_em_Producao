@@ -1225,4 +1225,6 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
     -   42- Pressionar <enter>. Vai abrir o Browser solicitando logar no site do Heroku.
     -   43- No Browser no site do Heroku, clicar no botão Login.
     -   44- Depois de logar no site do Heroku, vai aparecer no prompt de comando a seguinte mensagem: _Logging in... done. Logged in as username@gmail.com_
-	    -   19- Para hospedar o nosso projeto no Heroku temos que criar um App que por sua vez possui um Dyno que é um container com uma certa quantidade de memória e processamento. No prompt de comando executar: _heroku apps:create project-name_
+    -   45- Para hospedar o nosso projeto no Heroku temos que criar um App que por sua vez possui um Dyno que é um container com uma certa quantidade de memória e processamento. No prompt de comando executar: _heroku apps:create project-name-telegram-bot_
+        - A seguinte mensagem deverá aparecer:	_Creating project-name-telegram-bot... done. https://project-name-telegram-bot.herokuapp.com/ | https://git.heroku.com/project-name-telegram-bot.git_
+	

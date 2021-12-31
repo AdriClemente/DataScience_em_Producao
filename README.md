@@ -1250,5 +1250,9 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
     -   51- Deve aparecer a seguinte mensagem no Web Browser: {"ok":true,"result":true,"description":"Webhook was set"}
     -   52- Digitar uma mensagem no aplicativo do Telegram com o código de uma loja utilizando a barra / antes do número da loja: 
 	
-          <img src="img/heroku_viewlogs.jpg" alt="drawing" width="100%"/>	
+          <img src="img/telegram_storeid.jpg" alt="drawing" width="50%"/>		
+	
+    -	53- No aplicativo do Telegram deverá aparecer a seguinte mensagem: 	
+
+          <img src="img/telegram_predictresponse.jpg" alt="drawing" width="50%"/>
 	

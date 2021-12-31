@@ -1234,4 +1234,7 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
 	
           <img src="img/output9.jpg" alt="drawing" width="75%"/>	
 	
-	
+    -   48- No Web Browser no site https://dashboard.heroku.com/apps deve aparecer a nova aplicação project-name-telegram-bot.	
+    -   49- Clicar em project-name-telegram-bot, clicar no botão “More” e selecionar a opção “View logs”.
+
+          <img src="img/heroku_viewlogs.jpg" alt="drawing" width="100%"/>

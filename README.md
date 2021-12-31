@@ -1051,7 +1051,11 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -   20- Executar o comando: _git status_
         - A seguinte mensagem deverá aparecer: 
 
-          _On branch master_
+          <img src="img/output1.jpg" alt="drawing" width="50%"/>
+	
+	
+	
+	_On branch master_
 	
           No commits yet
 

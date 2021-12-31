@@ -1209,3 +1209,8 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
     -	37- Iniciar o git executando o comando: _git init_
         - A seguinte mensagem deverá aparecer: 	_Initialized empty Git repository in /Data_Science/DS em Produção/repos/DataScience_em_Producao/rossmann-telegram-api/.git/_	
 	
+    -	38- Executar o comando: _git status_
+        - A seguinte mensagem deverá aparecer:
+
+          <img src="img/output7.jpg" alt="drawing" width="25%"/>		
+	

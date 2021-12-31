@@ -1071,3 +1071,10 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -   25- Teste utilizando o Jupyter Notebook:
 	
           <img src="img/heroku_test_script.jpg" alt="drawing" width="100%"/>
+
+### d. Production environment on Heroku Public Cloud:
+
+	
+	
+	
+	

@@ -1064,4 +1064,9 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
           <img src="img/output3.jpg" alt="drawing" width="50%"/>	
 
+    -   24- Na console do heroku em https://dashboard.heroku.com/apps/project-name/logs devem aparecer as seguintes mensagens:
+
+          <img src="img/output4.jpg" alt="drawing" width="50%"/>	
+	
+	
 	

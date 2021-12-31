@@ -1171,4 +1171,9 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
     -	26- Na linha de comando executar o comando: _ngrok http 5000_
         - A seguinte mensagem deverá aparecer: 	
 
-          <img src="img/output6.jpg" alt="drawing" width="50%"/>	
+          <img src="img/output6.jpg" alt="drawing" width="75%"/>	
+
+    -	27- Iremos utilizar no método setWebhook no Telegram, o endereço https://e080-2804-14d-7830-8c46-887c-34e8-e3b6-d1c5.ngrok.io gerado pelo serviço ngrok, conforme exibido no exemplo acima.
+	
+	
+	

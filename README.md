@@ -1246,3 +1246,9 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
     -   50- Devemos configurar o aplicativo Telegram para que ele envie as mensagens para o end point que está no Heroku. Abrir uma aba no Web Browser e colar o link: https://api.telegram.org/bot1234567890:abcdefghijklmnopqrstuvwxyzabcdefghi/setWebhook?url=https://project-name-telegram-bot.herokuapp.com
 	
           **Observação**: O endereço https://project-name-telegram-bot.herokuapp.com é o endereço do end-point criado pelo Heroku.
+
+    -   51- Deve aparecer a seguinte mensagem no Web Browser: {"ok":true,"result":true,"description":"Webhook was set"}
+    -   52- Digitar uma mensagem no aplicativo do Telegram com o código de uma loja utilizando a barra / antes do número da loja: 
+	
+          <img src="img/heroku_viewlogs.jpg" alt="drawing" width="100%"/>	
+	

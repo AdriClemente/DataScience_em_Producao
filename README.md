@@ -1100,6 +1100,6 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
           <img src="img/telegram_newbot.jpg" alt="drawing" width="40%"/>		
 
+    -	7- Digitar RossmannBot para o nome do novo Bot:
 	
-	
-	
+          <img src="img/telegram_botname.jpg" alt="drawing" width="40%"/>		

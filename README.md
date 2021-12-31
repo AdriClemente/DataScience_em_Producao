@@ -1245,4 +1245,4 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
 	
     -   50- Devemos configurar o aplicativo Telegram para que ele envie as mensagens para o end point que está no Heroku. Abrir uma aba no Web Browser e colar o link: https://api.telegram.org/bot1234567890:abcdefghijklmnopqrstuvwxyzabcdefghi/setWebhook?url=https://project-name-telegram-bot.herokuapp.com
 	
-          O endereço https://project-name-telegram-bot.herokuapp.com é o endereço do end-point criado pelo Heroku.
+          **Observação**: O endereço https://project-name-telegram-bot.herokuapp.com é o endereço do end-point criado pelo Heroku.

@@ -1214,3 +1214,7 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
 
           <img src="img/output7.jpg" alt="drawing" width="50%"/>		
 	
+    -	39- Executar o comando: _git add ._
+    -	40- Executar o comando: _git commit -m “initial commit”_
+	
+	

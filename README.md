@@ -1212,5 +1212,5 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
     -	38- Executar o comando: _git status_
         - A seguinte mensagem deverá aparecer:
 
-          <img src="img/output7.jpg" alt="drawing" width="25%"/>		
+          <img src="img/output7.jpg" alt="drawing" width="50%"/>		
 	

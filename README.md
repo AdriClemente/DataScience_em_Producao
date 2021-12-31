@@ -1068,5 +1068,5 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 
           <img src="img/output4.jpg" alt="drawing" width="50%"/>	
 	
-	
+    -   25- Teste utilizando o Jupyter Notebook:
 	

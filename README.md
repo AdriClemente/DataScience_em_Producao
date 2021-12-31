@@ -1232,6 +1232,6 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
     -   47- Para enviar os arquivos para o Heroku executar o comando: _git push heroku master_
         - A seguinte mensagem deverá aparecer:
 	
-	
+          <img src="img/output9.jpg" alt="drawing" width="40%"/>	
 	
 	

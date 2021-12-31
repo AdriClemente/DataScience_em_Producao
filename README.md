@@ -1052,6 +1052,7 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
         - A seguinte mensagem deverá aparecer: _On branch master
 
           Foi utilizado One Hot Encoding na variável `state_holiday`.
+	
           Foi utilizado One Hot Encoding na variável `state_holiday`.
 	
 No commits yet

@@ -1081,6 +1081,7 @@ The goal is to provide a solution where stakeholders of the company can easily a
 
 Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em produção.
 	
+- **i. Lista de Tarefas para realizar o Deploy do Telegram Bot**.	
 	
-	
-	
+    -	1- Criar um conta gratuita no Heroku em www.heroku.com
+    -	2- Instalar o “Client” do Heroku: https://devcenter.heroku.com/articles/heroku-cli	

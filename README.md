@@ -1048,5 +1048,5 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -   19- Criar um Dyno no Heroku executando o comando: _heroku apps:create project-name_
         - A seguinte mensagem deverá aparecer: _Creating project-name... done. https://project-name.herokuapp.com/ | https://git.heroku.com/project-name.git_
         - No Browser no site https://dashboard.heroku.com/apps deve aparecer a nova aplicação.
-
+    -   20- Executar o comando: _git status_
    

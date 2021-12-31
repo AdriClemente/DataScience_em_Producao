@@ -1131,3 +1131,9 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
           <img src="img/telegram_gettingupdates.jpg" alt="drawing" width="75%"/>		
 	
+    -	16- Abrir uma aba no Web Broswer e colar o link: https://api.telegram.org/bot1234567890:abcdefghijklmnopqrstuvwxyzabcdefghi/getUpdates 
+    -	17- Digitar uma mensagem no aplicativo do Telegram:
+	
+	
+	
+	

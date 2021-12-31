@@ -1088,5 +1088,5 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -	3- Copiar os datasets test.csv e store.csv na pasta rossmann-telegram-api.	
     -	4- Abrir o aplicativo Telegram no telefone celular, procurar o contato BotFather e adicioná-lo nos contatos:
 	
-          <img src="img/botfather_telegram.jpg" alt="drawing" width="50%"/>
+          <img src="img/botfather_telegram.jpg" alt="drawing" width="40%"/>
 	

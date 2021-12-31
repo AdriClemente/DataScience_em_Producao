@@ -989,11 +989,11 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
 
     -	**2- Cria a API Handler (Handler.py)**:
         - Salvar na pasta api o script handler.py.
-        - Na linha de comando executar: python handler.py
-        - Deve retornar a seguinte mensagem na console:
+        - Executar o comando: _python handler.py_
+        - A seguinte mensagem deverá aparecer: 
  
  
-   <img src="img/output11.jpg" alt="drawing" width="75%"/>
+          <img src="img/output11.jpg" alt="drawing" width="75%"/>
 
     -	**3- Teste utilizando o Jupyter Notebook:**:
 

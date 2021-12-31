@@ -1154,5 +1154,5 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -	24- Executar o comando: _python rossmann-bot.py_
         - A seguinte mensagem deverá aparecer: 
 	
-	
+          <img src="img/output5.jpg" alt="drawing" width="50%"/>	
 	

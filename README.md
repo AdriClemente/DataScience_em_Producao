@@ -1201,7 +1201,7 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
     -	32- Na linha de comando e ir até a pasta rossmann-telegram-api.
     -	33- Criar e editar o arquivo Procfile.
     -	34- Incluir o seguinte comando no arquivo Procfile: _web: python rossmann.bot.py_
-    -	35- Criar o arquivo requirements.txt executando o comando: pip list --format=freeze > requirements.txt
+    -	35- Criar o arquivo requirements.txt executando o comando: _pip list --format=freeze > requirements.txt_	
     -	36- Edita o arquivo requirements.txt e excluir algumas bibliotecas que não serão necessárias:
 	
-	
+          <img src="img/requirements_delete.jpg" alt="drawing" width="50%"/>	

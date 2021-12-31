@@ -1185,6 +1185,10 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
 	
           **Observação**: O endereço https://e080-2804-14d-7830-8c46-887c-34e8-e3b6-d1c5.ngrok.io é o endereço do end-point criado pelo serviço de roteamento ngrok.	
 	
+        - A seguinte mensagem deverá aparecer no Web Browser: {"ok":true,"result":true,"description":"Webhook was set"}		
 	
+    -	29- Digitar uma mensagem no aplicativo do Telegram com o código de uma loja utilizando a barra / antes do número da loja: 
+
+          <img src="img/telegram_storeid.jpg" alt="drawing" width="50%"/>		
 	
 	

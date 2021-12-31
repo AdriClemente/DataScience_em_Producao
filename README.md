@@ -1125,7 +1125,7 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
           <img src="img/telegram_getmeresponse.jpg" alt="drawing" width="75%"/>	
 	
-	
+          Quando digitamos este link no Web Browser, o mesmo faz uma requisição na API do Bot. Então, a API do Telegram retorna o JSON acima como resposta.	
 	
 	
 	

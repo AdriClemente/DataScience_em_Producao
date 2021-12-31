@@ -1112,4 +1112,10 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -	10- Vai abrir a tela do contato RossmannBot. Clicar na mensagem “Começar” que aparece no celular.	
     -	11- No contato RossmannBot, digitar o comando: _/start_	
 	
+          <img src="img/telegram_start.jpg" alt="drawing" width="50%"/>		
+
+    -	12- Acessar o site https://core.telegram.org/bots/api para ver a documentação do Telegram. Procurar o item “Making requests” e colar o link exibido abaixo no script rossmann-bot.py:
+	
+          <img src="img/telegram_making_requests.jpg" alt="drawing" width="50%"/>		
+	
 	

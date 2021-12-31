@@ -1222,5 +1222,7 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
 
     -	41- Executar o seguinte comando para logar no Heroku: _heroku login_
         - A seguinte mensagem deverá aparecer: _heroku: Press any key to open up the browser to login or q to exit:_	
-	
+    -   42- Pressionar <enter>. Vai abrir o Browser solicitando logar no site do Heroku.
+    -   43- No Browser no site do Heroku, clicar no botão Login.
+    -   44- Depois de logar no site do Heroku, vai aparecer no prompt de comando a seguinte mensagem: _Logging in... done. Logged in as username@gmail.com_
 	

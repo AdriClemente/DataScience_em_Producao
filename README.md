@@ -1103,3 +1103,8 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -	7- Digitar RossmannBot para o nome do novo Bot:
 	
           <img src="img/telegram_botname.jpg" alt="drawing" width="40%"/>		
+
+    -	8- Criar o usuário para o bot. Neste projeto, eu criei o usuário rossmannacel_bot:
+	
+          <img src="img/telegram_botuser.jpg" alt="drawing" width="40%"/>	
+	

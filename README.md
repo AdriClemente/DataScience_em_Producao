@@ -1096,6 +1096,10 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
           <img src="img/telegram_help.jpg" alt="drawing" width="40%"/>	
 	
+    -	6- Para criar um novo Bot, digitar o comando: _/newbot_
+	
+          <img src="img/telegram_newbot.jpg" alt="drawing" width="40%"/>		
+
 	
 	
 	

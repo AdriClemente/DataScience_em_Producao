@@ -1110,6 +1110,6 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
     -	9- Clicar no link t.me/rossmannacel_bot do Bot criado para criar um novo contato para o bot.
     -	10- Vai abrir a tela do contato RossmannBot. Clicar na mensagem “Começar” que aparece no celular.	
-    -	11- No contato RossmannBot, digitar o comando /start:	
+    -	11- No contato RossmannBot, digitar o comando: _/start_	
 	
 	

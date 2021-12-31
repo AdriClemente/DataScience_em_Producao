@@ -1075,9 +1075,9 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
 ### e. Deploy Telegram Bot
 
+**Nota: Os arquivos utilizados nos passos abaixo, se encontram disponíveis no diretório rossmann-telegram-api no repositório do GitHub deste projeto**.	
+	
 The goal is to provide a solution where stakeholders of the company can easily access sales predictions made by the model through a smartphone app. In this project, a Telegram bot was used.
-
-**Nota: Os arquivos utilizados nos passos abaixo, se encontram disponíveis no diretório rossmann-telegram-api no repositório do GitHub deste projeto**.
 
 Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em produção.
 	

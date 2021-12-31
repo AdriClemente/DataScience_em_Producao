@@ -1147,4 +1147,4 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -	20- Abrir uma aba no Web Broswer e colar o link: https://api.telegram.org/bot1234567890:abcdefghijklmnopqrstuvwxyzabcdefghi/sendMessage?chat_id=1561073042&text=Hi Adriano, I am ok, tks!
     -	21- No aplicativo do Telegram deverá aparecer a seguinte mensagem:	
 	
-          <img src="img/telegram_messagereturn.jpg" alt="drawing" width="75%"/>		
+          <img src="img/telegram_messagereturn.jpg" alt="drawing" width="50%"/>		

@@ -1090,3 +1090,12 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
           <img src="img/botfather_telegram.jpg" alt="drawing" width="40%"/>
 	
+          BothFather é o contato em sua lista que cria outros Bots.	
+	
+    -	5- Abrir o aplicativo Telegram no telefone celular, procurar o contato BotFather e adicioná-lo nos contatos:
+	
+	
+	
+	
+	
+	

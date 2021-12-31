@@ -1050,27 +1050,7 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
         - No Browser no site https://dashboard.heroku.com/apps deve aparecer a nova aplicação.
     -   20- Executar o comando: _git status_
         - A seguinte mensagem deverá aparecer: 
-
           <img src="img/output1.jpg" alt="drawing" width="50%"/>
 	
-	
-	
-	_On branch master_
-	
-          No commits yet
 
-          No commits yet
-	
-	
-	
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-        Procfile
-        handler.py
-        model/
-        parameter/
-        rossmann/
-
-nothing added to commit but untracked files present (use "git add" to track)
-_	
    

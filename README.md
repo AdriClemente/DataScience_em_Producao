@@ -1083,5 +1083,10 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 	
 - **i. Lista de Tarefas para realizar o Deploy do Telegram Bot**.	
 	
-    -	1- Criar um conta gratuita no Heroku em www.heroku.com
-    -	2- Instalar o “Client” do Heroku: https://devcenter.heroku.com/articles/heroku-cli	
+    -	1- Criar uma pasta chamada rossmann-telegram-api.
+    -	2- Copiar o arquivo rossmann-bot.py na pasta rossmann-telegram-api.	
+    -	3- Copiar os datasets test.csv e store.csv na pasta rossmann-telegram-api.	
+    -	4- Abrir o aplicativo Telegram no telefone celular, procurar o contato BotFather e adicioná-lo nos contatos:
+	
+          <img src="img/output4.jpg" alt="drawing" width="50%"/>
+	

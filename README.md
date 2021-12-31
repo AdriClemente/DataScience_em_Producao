@@ -992,7 +992,8 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
         - Na linha de comando executar: python handler.py
         - Deve retornar a seguinte mensagem na console:
  
-   <img src="img/output11.jpg" alt="drawing" width="50%"/>
+ 
+   <img src="img/output11.jpg" alt="drawing" width="75%"/>
 
     -	**3- Teste utilizando o Jupyter Notebook:**:
 

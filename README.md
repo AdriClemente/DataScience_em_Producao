@@ -992,21 +992,7 @@ O modelo faz a predição e encaminha a resposta para o Data Preparation que por
         - Na linha de comando executar: python handler.py
         - Deve retornar a seguinte mensagem na console:
  
-           _Serving Flask app 'handler' (lazy loading)_
-           
-           _Environment: production_
-	   
-           _WARNING: This is a development server. Do not use it in a production deployment._
-
-           _Use a production WSGI server instead._
-
-           _Debug mode: off_
-   
-           _Running on all addresses._
-           
-           _WARNING: This is a development server. Do not use it in a production deployment._
-           
-           _Running on http://192.168.0.7:5000/ (Press CTRL+C to quit)_
+   <img src="img/output11.jpg" alt="drawing" width="50%"/>
 
     -	**3- Teste utilizando o Jupyter Notebook:**:
 

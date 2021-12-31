@@ -1219,3 +1219,8 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
         - A seguinte mensagem deverá aparecer:	
 	
           <img src="img/output8.jpg" alt="drawing" width="40%"/>
+
+    -	41- Executar o seguinte comando para logar no Heroku: _heroku login_
+        - A seguinte mensagem deverá aparecer: _heroku: Press any key to open up the browser to login or q to exit:_	
+	
+	

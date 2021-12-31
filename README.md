@@ -1216,5 +1216,6 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
 	
     -	39- Executar o comando: _git add ._
     -	40- Executar o comando: _git commit -m “initial commit”_
+        - A seguinte mensagem deverá aparecer:	
 	
-	
+          <img src="img/output8.jpg" alt="drawing" width="50%"/>

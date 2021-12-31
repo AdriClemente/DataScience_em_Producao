@@ -1148,3 +1148,11 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
     -	21- No aplicativo do Telegram deverá aparecer a seguinte mensagem:	
 	
           <img src="img/telegram_messagereturn.jpg" alt="drawing" width="50%"/>		
+
+    -	22- No prompt do Anaconda entrar no environment do projeto: _conda activate DataScienceEmProducao_
+    -	23- Na linha de comando e ir até a pasta rossmann-telegram-api.
+    -	24- Executar o comando: _python rossmann-bot.py_
+        - A seguinte mensagem deverá aparecer: 
+	
+	
+	

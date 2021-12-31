@@ -1165,3 +1165,8 @@ Devemos então utilizar um serviço para fazer o roteamento dos dados que vem da
 
    Este serviço conecta SSH na máquina local e expõe esta máquina para a Internet. Na internet existirá um endereço utilizando a porta 80. Toda vez que alguém enviar uma mensagem para este endereço nesta porta 80, o serviço de roteamento ngrok redireciona a mensagem para a máquina local na porta 5000.
 
+   **Instalação e Configuração do Serviço de Roteamento ngrok**
+
+    -	25- Realizar o download e instalar o aplicativo ngrok (https://ngrok.com/download).	
+    -	26- Na linha de comando executar o comando: _ngrok http 5000_
+	

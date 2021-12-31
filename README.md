@@ -1116,14 +1116,14 @@ Foi utilizado o serviço de nuvem pública Heroku para implementar o modelo em p
 
     -	12- Acessar o site https://core.telegram.org/bots/api para ver a documentação do Telegram. Procurar o item “Making requests” e colar o link exibido abaixo no script rossmann-bot.py:
 	
-          <img src="img/telegram_making_requests.jpg" alt="drawing" width="50%"/>		
+          <img src="img/telegram_making_requests.jpg" alt="drawing" width="75%"/>		
 	
     -	13- Substituir a string após a palavra bot pelo Token do Bot criado. Exemplo: https://api.telegram.org/bot1234567890:abcdefghijklmnopqrstuvwxyzabcdefghi/getMe
     -	14- O método getMe fornece informações sobre o Bot. Para visualizarmos as informações do Bot, colamos em uma aba do Web Browser o seguinte link: https://api.telegram.org/bot1234567890:abcdefghijklmnopqrstuvwxyzabcdefghi/getMe
 	
         - A seguinte informação deverá aparecer no Web Browser: 
 	
-          <img src="img/telegram_getmeresponse.jpg" alt="drawing" width="50%"/>	
+          <img src="img/telegram_getmeresponse.jpg" alt="drawing" width="75%"/>	
 	
 	
 	
